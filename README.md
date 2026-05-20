@@ -1,8 +1,6 @@
-<div align="center">
-
 <img src="src/viewpoint_insights_logo.svg" alt="Viewpoint Insights logo" width="420"/>
 
-# 🇧🇷 Brazil's Road Back
+# Brazil's Road Back
 ### International Tourism Recovery Analysis — 2015–2024
 
 ![Python](https://img.shields.io/badge/Python-3.11-0D7EA8?style=flat-square&logo=python&logoColor=white)
@@ -10,7 +8,11 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-38B6D8?style=flat-square)
 ![IronHack](https://img.shields.io/badge/IronHack-Final%20Project-0D7EA8?style=flat-square)
 
-</div>
+---
+
+## Author
+
+- Gabriela Cascione · [craftedbygaby.github.io](https://craftedbygaby.github.io)
 
 ---
 
@@ -143,12 +145,6 @@ jupyter notebook
 
 ---
 
-<div align="center">
+---
 
-Made with 🔍 by **[Gabriela Cascione](https://github.com/craftedbygaby)** · [craftedbygaby.github.io](https://craftedbygaby.github.io)
-
-*IronHack Data Analytics Bootcamp — Final Project · May 2026*
-
-<sub>© 2026 Viewpoint Insights</sub>
-
-</div>
+*All analysis is for educational and portfolio purposes only.*
