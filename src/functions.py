@@ -53,3 +53,13 @@ def value_counts_by_column(df):
         print(f'=== {col} ===')
         print(df[col].value_counts())
         print()
+
+def seasons_brazil(df, month_col):
+    """Adds a season column based on the month column for Brazil."""
+    seasons_dict = {'december' : 'summer', 'january' : 'summer', 'february' : 'summer', 
+                    'march' : 'autumn', 'april' : 'autumn', 'may' : 'autumn', 
+                    'june' : 'winter', 'july' : 'winter', 'august' : 'winter', 
+                    'september' : 'spring',   'october' : 'spring', 'november' : 'spring'}
+    df['season'] = df[month_col].replace(seasons_dict)
+    return df
+    

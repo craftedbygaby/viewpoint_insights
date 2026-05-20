@@ -61,12 +61,15 @@ Brazil_Road_Back/
 │   └── cleaned/                      ← output of cleaning pipeline
 │
 ├── 02. notebooks/
-│   ├── data_discovery.ipynb          ← initial data exploration
-│   └── data_cleaning_wrangling.ipynb ← full cleaning pipeline
+│   ├── data_discovery.ipynb              ← initial data exploration
+│   ├── data_cleaning_wrangling.ipynb     ← full cleaning pipeline
+│   └── EDA.ipynb                         ← exploratory data analysis
 │
 ├── 03. src/
 │   ├── functions.py                  ← reusable cleaning functions
 │   └── viewpoint_insights_logo.svg   ← brand assets
+│
+├── 04. Visualizations/               ← exported charts from EDA notebook
 │
 ├── .gitignore
 └── README.md
@@ -82,15 +85,15 @@ Data Collection → Cleaning & Wrangling → EDA → Tableau Dashboard → Story
                                             (Extra) ML Forecasting → Streamlit App
 ```
 
-| Step | Tool | Description |
-|---|---|---|
-| Data Collection | — | 10 yearly CSVs + UN Excel |
-| Cleaning & Wrangling | Python / pandas | Standardize, translate, flag, merge |
-| EDA & Statistical Analysis | Python / matplotlib / seaborn | Univariate, bivariate, multivariate, hypothesis testing |
-| Dashboard | Tableau | 5 interactive charts |
-| Story | Tableau | Narrative arc: past → collapse → recovery → future |
-| ML Forecasting ⭐ | Python / scikit-learn | Arrival prediction model |
-| Streamlit App ⭐ | Streamlit | Interactive forecast tool |
+| Step | Notebook | Tool | Description |
+|---|---|---|---|
+| Data Collection | — | — | 10 yearly CSVs (Ministério do Turismo) + UN Tourism Excel file |
+| Cleaning & Wrangling | `data_cleaning_wrangling.ipynb` | Python / pandas | Standardize columns, translate Portuguese→English, handle duplicates, create covid_period and season flags, merge 10 yearly files, align UNWTO country names and add continent column |
+| EDA & Statistical Analysis | `EDA.ipynb` | Python / matplotlib / seaborn | Univariate (distribution, skewness, kurtosis, boxplot), bivariate (arrivals over time, by country, by route), multivariate (pre/post COVID comparison, seasonality by country, entry route trends) |
+| Dashboard | — | Tableau | 5 interactive charts |
+| Story | — | Tableau | Narrative arc: past → collapse → recovery → future |
+| ML Forecasting ⭐ | — | Python / scikit-learn | Arrival prediction model |
+| Streamlit App ⭐ | — | Streamlit | Interactive forecast tool |
 
 *⭐ Extra features — completed if time allows*
 

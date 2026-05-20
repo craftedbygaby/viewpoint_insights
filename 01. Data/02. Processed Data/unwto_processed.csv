@@ -1,0 +1,2416 @@
+type_of_arrival,country_name,year,arrivals,covid_period,continent
+overnight tourist,albania,2015,3784000,pre_covid,europe
+overnight tourist,albania,2016,4070000,pre_covid,europe
+overnight tourist,albania,2017,4643000,pre_covid,europe
+overnight tourist,albania,2018,5340000,pre_covid,europe
+overnight tourist,albania,2019,6128000,pre_covid,europe
+overnight tourist,albania,2020,2604000,covid,europe
+overnight tourist,albania,2021,5515000,covid,europe
+overnight tourist,albania,2022,7104700,post_covid,europe
+overnight tourist,albania,2023,9741000,post_covid,europe
+overnight tourist,albania,2024,11483000,post_covid,europe
+overnight tourist,american samoa,2015,20300,pre_covid,oceania
+overnight tourist,american samoa,2016,20100,pre_covid,oceania
+overnight tourist,american samoa,2017,20000,pre_covid,oceania
+overnight tourist,american samoa,2018,20200,pre_covid,oceania
+overnight tourist,american samoa,2019,19200,pre_covid,oceania
+overnight tourist,american samoa,2020,900,covid,oceania
+overnight tourist,andorra,2015,2663000,pre_covid,europe
+overnight tourist,andorra,2016,2819000,pre_covid,europe
+overnight tourist,andorra,2017,3003000,pre_covid,europe
+overnight tourist,andorra,2018,3042000,pre_covid,europe
+overnight tourist,andorra,2019,3090000,pre_covid,europe
+overnight tourist,andorra,2020,1872000,covid,europe
+overnight tourist,andorra,2021,1949000,covid,europe
+overnight tourist,andorra,2022,3555100,post_covid,europe
+overnight tourist,andorra,2023,4048100,post_covid,europe
+overnight tourist,andorra,2024,4167600,post_covid,europe
+overnight tourist,angola,2015,592000,pre_covid,africa
+overnight tourist,angola,2016,397000,pre_covid,africa
+overnight tourist,angola,2017,261000,pre_covid,africa
+overnight tourist,angola,2018,218000,pre_covid,africa
+overnight tourist,angola,2019,218000,pre_covid,africa
+overnight tourist,angola,2020,64000,covid,africa
+overnight tourist,angola,2021,64000,covid,africa
+overnight tourist,angola,2022,130000,post_covid,africa
+overnight tourist,antigua and barbuda,2015,250000,pre_covid,central america and caribbean
+overnight tourist,antigua and barbuda,2016,265000,pre_covid,central america and caribbean
+overnight tourist,antigua and barbuda,2017,247000,pre_covid,central america and caribbean
+overnight tourist,antigua and barbuda,2018,269000,pre_covid,central america and caribbean
+overnight tourist,antigua and barbuda,2019,301000,pre_covid,central america and caribbean
+overnight tourist,antigua and barbuda,2020,125000,covid,central america and caribbean
+overnight tourist,antigua and barbuda,2021,169400,covid,central america and caribbean
+overnight tourist,antigua and barbuda,2022,265100,post_covid,central america and caribbean
+overnight tourist,antigua and barbuda,2023,281800,post_covid,central america and caribbean
+overnight tourist,antigua and barbuda,2024,330200,post_covid,central america and caribbean
+overnight tourist,azerbaijan,2015,1922000,pre_covid,asia
+overnight tourist,azerbaijan,2016,2044000,pre_covid,asia
+overnight tourist,azerbaijan,2017,2454000,pre_covid,asia
+overnight tourist,azerbaijan,2018,2633000,pre_covid,asia
+overnight tourist,azerbaijan,2019,2876000,pre_covid,asia
+overnight tourist,azerbaijan,2020,587000,covid,asia
+overnight tourist,azerbaijan,2022,1508000,post_covid,asia
+overnight tourist,argentina,2015,6816000,pre_covid,south america
+overnight tourist,argentina,2016,6668000,pre_covid,south america
+overnight tourist,argentina,2017,6711000,pre_covid,south america
+overnight tourist,argentina,2018,6942000,pre_covid,south america
+overnight tourist,argentina,2019,7399000,pre_covid,south america
+overnight tourist,argentina,2020,2090000,covid,south america
+overnight tourist,argentina,2021,297000,covid,south america
+overnight tourist,argentina,2022,3890000,post_covid,south america
+overnight tourist,argentina,2023,7285688,post_covid,south america
+overnight tourist,argentina,2024,6603877,post_covid,south america
+overnight tourist,austria,2015,26728000,pre_covid,europe
+overnight tourist,austria,2016,28121000,pre_covid,europe
+overnight tourist,austria,2017,29460000,pre_covid,europe
+overnight tourist,austria,2018,30816000,pre_covid,europe
+overnight tourist,austria,2019,31884000,pre_covid,europe
+overnight tourist,austria,2020,15091000,covid,europe
+overnight tourist,austria,2021,12728000,covid,europe
+overnight tourist,austria,2022,26215000,post_covid,europe
+overnight tourist,bahamas,2015,1496000,pre_covid,central america and caribbean
+overnight tourist,bahamas,2016,1499000,pre_covid,central america and caribbean
+overnight tourist,bahamas,2017,1452000,pre_covid,central america and caribbean
+overnight tourist,bahamas,2018,1633000,pre_covid,central america and caribbean
+overnight tourist,bahamas,2019,1807000,pre_covid,central america and caribbean
+overnight tourist,bahamas,2020,441000,covid,central america and caribbean
+overnight tourist,bahamas,2021,892000,covid,central america and caribbean
+overnight tourist,bahamas,2022,1452400,post_covid,central america and caribbean
+overnight tourist,bahamas,2023,1872059,post_covid,central america and caribbean
+overnight tourist,bahamas,2024,1869133,post_covid,central america and caribbean
+overnight tourist,bahrain,2015,3964000,pre_covid,asia
+overnight tourist,bahrain,2016,3990000,pre_covid,asia
+overnight tourist,bahrain,2017,4373000,pre_covid,asia
+overnight tourist,bahrain,2018,4366000,pre_covid,asia
+overnight tourist,bahrain,2019,3849000,pre_covid,asia
+overnight tourist,bahrain,2020,827000,covid,asia
+overnight tourist,bahrain,2021,2182000,covid,asia
+overnight tourist,bahrain,2022,3712000,post_covid,asia
+overnight tourist,bahrain,2023,5484000,post_covid,asia
+overnight tourist,bahrain,2024,6618000,post_covid,asia
+overnight tourist,bangladesh,2015,126000,pre_covid,asia
+overnight tourist,bangladesh,2016,182000,pre_covid,asia
+overnight tourist,bangladesh,2017,237000,pre_covid,asia
+overnight tourist,bangladesh,2018,267000,pre_covid,asia
+overnight tourist,bangladesh,2019,323000,pre_covid,asia
+overnight tourist,bangladesh,2020,182000,covid,asia
+overnight tourist,bangladesh,2021,135000,covid,asia
+overnight tourist,armenia,2015,1192000,pre_covid,asia
+overnight tourist,armenia,2016,1260000,pre_covid,asia
+overnight tourist,armenia,2017,1495000,pre_covid,asia
+overnight tourist,armenia,2018,1652000,pre_covid,asia
+overnight tourist,armenia,2019,1894000,pre_covid,asia
+overnight tourist,armenia,2020,360000,covid,asia
+overnight tourist,armenia,2021,876000,covid,asia
+overnight tourist,armenia,2022,1666000,post_covid,asia
+overnight tourist,armenia,2023,2316000,post_covid,asia
+overnight tourist,armenia,2024,2208000,post_covid,asia
+overnight tourist,barbados,2015,592000,pre_covid,central america and caribbean
+overnight tourist,barbados,2016,632000,pre_covid,central america and caribbean
+overnight tourist,barbados,2017,664000,pre_covid,central america and caribbean
+overnight tourist,barbados,2018,680000,pre_covid,central america and caribbean
+overnight tourist,barbados,2019,523000,pre_covid,central america and caribbean
+overnight tourist,barbados,2020,207400,covid,central america and caribbean
+overnight tourist,barbados,2021,144800,covid,central america and caribbean
+overnight tourist,barbados,2022,539700,post_covid,central america and caribbean
+overnight tourist,barbados,2023,636045,post_covid,central america and caribbean
+overnight tourist,barbados,2024,704340,post_covid,central america and caribbean
+overnight tourist,belgium,2015,8355000,pre_covid,europe
+overnight tourist,belgium,2016,7481000,pre_covid,europe
+overnight tourist,belgium,2017,8385000,pre_covid,europe
+overnight tourist,belgium,2018,9119000,pre_covid,europe
+overnight tourist,belgium,2019,9343000,pre_covid,europe
+overnight tourist,belgium,2020,2584000,covid,europe
+overnight tourist,belgium,2021,3243000,covid,europe
+overnight tourist,belgium,2022,8220000,post_covid,europe
+overnight tourist,belgium,2023,9280000,post_covid,europe
+overnight tourist,belgium,2024,9638000,post_covid,europe
+overnight tourist,bermuda,2015,220000,pre_covid,central america and caribbean
+overnight tourist,bermuda,2016,244000,pre_covid,central america and caribbean
+overnight tourist,bermuda,2017,270000,pre_covid,central america and caribbean
+overnight tourist,bermuda,2018,282000,pre_covid,central america and caribbean
+overnight tourist,bermuda,2019,269000,pre_covid,central america and caribbean
+overnight tourist,bermuda,2020,42100,covid,central america and caribbean
+overnight tourist,bermuda,2021,72200,covid,central america and caribbean
+overnight tourist,bermuda,2022,145900,post_covid,central america and caribbean
+overnight tourist,bhutan,2015,155000,pre_covid,asia
+overnight tourist,bhutan,2016,210000,pre_covid,asia
+overnight tourist,bhutan,2017,255000,pre_covid,asia
+overnight tourist,bhutan,2018,274000,pre_covid,asia
+overnight tourist,bhutan,2019,316000,pre_covid,asia
+overnight tourist,bhutan,2020,29800,covid,asia
+overnight tourist,bhutan,2021,1,covid,asia
+overnight tourist,bhutan,2022,20900,post_covid,asia
+overnight tourist,bolivia,2015,882000,pre_covid,south america
+overnight tourist,bolivia,2016,961000,pre_covid,south america
+overnight tourist,bolivia,2017,1109000,pre_covid,south america
+overnight tourist,bolivia,2018,1142000,pre_covid,south america
+overnight tourist,bolivia,2019,1239000,pre_covid,south america
+overnight tourist,bolivia,2020,323300,covid,south america
+overnight tourist,bolivia,2021,180000,covid,south america
+overnight tourist,bolivia,2022,724000,post_covid,south america
+overnight tourist,bosnia and herzegovina,2015,678000,pre_covid,europe
+overnight tourist,bosnia and herzegovina,2016,778000,pre_covid,europe
+overnight tourist,bosnia and herzegovina,2017,923000,pre_covid,europe
+overnight tourist,bosnia and herzegovina,2018,1053000,pre_covid,europe
+overnight tourist,bosnia and herzegovina,2019,1198000,pre_covid,europe
+overnight tourist,bosnia and herzegovina,2020,197000,covid,europe
+overnight tourist,bosnia and herzegovina,2021,502000,covid,europe
+overnight tourist,bosnia and herzegovina,2022,915000,post_covid,europe
+overnight tourist,bosnia and herzegovina,2023,1198000,post_covid,europe
+overnight tourist,bosnia and herzegovina,2024,1388775,post_covid,europe
+overnight tourist,botswana,2015,1528000,pre_covid,africa
+overnight tourist,botswana,2016,1574000,pre_covid,africa
+overnight tourist,botswana,2017,1623000,pre_covid,africa
+overnight tourist,botswana,2018,1655000,pre_covid,africa
+overnight tourist,botswana,2019,1454600,pre_covid,africa
+overnight tourist,botswana,2020,328500,covid,africa
+overnight tourist,botswana,2021,314000,covid,africa
+overnight tourist,brazil,2015,6306000,pre_covid,south america
+overnight tourist,brazil,2016,6547000,pre_covid,south america
+overnight tourist,brazil,2017,6589000,pre_covid,south america
+overnight tourist,brazil,2018,6621000,pre_covid,south america
+overnight tourist,brazil,2019,6353000,pre_covid,south america
+overnight tourist,brazil,2020,2146435,covid,south america
+overnight tourist,brazil,2021,745871,covid,south america
+overnight tourist,brazil,2022,3630031,post_covid,south america
+overnight tourist,brazil,2023,5908341,post_covid,south america
+overnight tourist,brazil,2024,6773619,post_covid,south america
+overnight tourist,belize,2015,341000,pre_covid,central america and caribbean
+overnight tourist,belize,2016,386000,pre_covid,central america and caribbean
+overnight tourist,belize,2017,427000,pre_covid,central america and caribbean
+overnight tourist,belize,2018,489000,pre_covid,central america and caribbean
+overnight tourist,belize,2019,503000,pre_covid,central america and caribbean
+overnight tourist,belize,2020,144100,covid,central america and caribbean
+overnight tourist,belize,2021,219000,covid,central america and caribbean
+overnight tourist,belize,2022,372600,post_covid,central america and caribbean
+overnight tourist,solomon islands,2015,21600,pre_covid,oceania
+overnight tourist,solomon islands,2016,23200,pre_covid,oceania
+overnight tourist,solomon islands,2017,25700,pre_covid,oceania
+overnight tourist,solomon islands,2018,27900,pre_covid,oceania
+overnight tourist,solomon islands,2019,28900,pre_covid,oceania
+overnight tourist,solomon islands,2020,4400,covid,oceania
+overnight tourist,solomon islands,2021,700,covid,oceania
+overnight tourist,british virgin islands,2015,393000,pre_covid,central america and caribbean
+overnight tourist,british virgin islands,2016,408000,pre_covid,central america and caribbean
+overnight tourist,british virgin islands,2017,335000,pre_covid,central america and caribbean
+overnight tourist,british virgin islands,2018,192000,pre_covid,central america and caribbean
+overnight tourist,british virgin islands,2019,302400,pre_covid,central america and caribbean
+overnight tourist,british virgin islands,2020,83000,covid,central america and caribbean
+overnight tourist,british virgin islands,2021,56000,covid,central america and caribbean
+overnight tourist,british virgin islands,2022,173000,post_covid,central america and caribbean
+overnight tourist,brunei darussalam,2015,218000,pre_covid,asia
+overnight tourist,brunei darussalam,2016,219000,pre_covid,asia
+overnight tourist,brunei darussalam,2017,259000,pre_covid,asia
+overnight tourist,brunei darussalam,2018,278000,pre_covid,asia
+overnight tourist,brunei darussalam,2019,333000,pre_covid,asia
+overnight tourist,brunei darussalam,2020,62300,covid,asia
+overnight tourist,brunei darussalam,2021,3500,covid,asia
+overnight tourist,bulgaria,2015,7099000,pre_covid,europe
+overnight tourist,bulgaria,2016,8252000,pre_covid,europe
+overnight tourist,bulgaria,2017,8883000,pre_covid,europe
+overnight tourist,bulgaria,2018,9273000,pre_covid,europe
+overnight tourist,bulgaria,2019,7775000,pre_covid,europe
+overnight tourist,bulgaria,2020,1290000,covid,europe
+overnight tourist,bulgaria,2021,2300000,covid,europe
+overnight tourist,bulgaria,2022,5557000,post_covid,europe
+overnight tourist,myanmar,2015,4681000,pre_covid,asia
+overnight tourist,myanmar,2016,2907000,pre_covid,asia
+overnight tourist,myanmar,2017,3443000,pre_covid,asia
+overnight tourist,myanmar,2018,3551000,pre_covid,asia
+overnight tourist,myanmar,2019,4364000,pre_covid,asia
+overnight tourist,myanmar,2020,903000,covid,asia
+overnight tourist,myanmar,2021,131000,covid,asia
+overnight tourist,myanmar,2022,233000,post_covid,asia
+overnight tourist,myanmar,2023,1067000,post_covid,asia
+overnight tourist,myanmar,2024,808000,post_covid,asia
+overnight tourist,burundi,2015,131000,pre_covid,africa
+overnight tourist,burundi,2016,187000,pre_covid,africa
+overnight tourist,burundi,2017,299000,pre_covid,africa
+overnight tourist,belarus,2015,966000,pre_covid,europe
+overnight tourist,belarus,2016,1929000,pre_covid,europe
+overnight tourist,belarus,2017,2000000,pre_covid,europe
+overnight tourist,belarus,2018,2142000,pre_covid,europe
+overnight tourist,belarus,2019,2206000,pre_covid,europe
+overnight tourist,belarus,2020,577000,covid,europe
+overnight tourist,belarus,2021,787000,covid,europe
+overnight tourist,belarus,2022,1492000,post_covid,europe
+overnight tourist,cambodia,2015,4775000,pre_covid,asia
+overnight tourist,cambodia,2016,5012000,pre_covid,asia
+overnight tourist,cambodia,2017,5602000,pre_covid,asia
+overnight tourist,cambodia,2018,6201000,pre_covid,asia
+overnight tourist,cambodia,2019,6611000,pre_covid,asia
+overnight tourist,cambodia,2020,1306000,covid,asia
+overnight tourist,cambodia,2021,196400,covid,asia
+overnight tourist,cambodia,2022,2276600,post_covid,asia
+overnight tourist,canada,2015,17977000,pre_covid,north america
+overnight tourist,canada,2016,19971000,pre_covid,north america
+overnight tourist,canada,2017,20883000,pre_covid,north america
+overnight tourist,canada,2018,21134000,pre_covid,north america
+overnight tourist,canada,2019,22145000,pre_covid,north america
+overnight tourist,canada,2020,2960000,covid,north america
+overnight tourist,canada,2021,3062000,covid,north america
+overnight tourist,canada,2022,12824000,post_covid,north america
+overnight tourist,canada,2023,18344000,post_covid,north america
+overnight tourist,canada,2024,19913000,post_covid,north america
+overnight tourist,cabo verde,2015,520000,pre_covid,africa
+overnight tourist,cabo verde,2016,598000,pre_covid,africa
+overnight tourist,cabo verde,2017,668000,pre_covid,africa
+overnight tourist,cabo verde,2018,710000,pre_covid,africa
+overnight tourist,cabo verde,2019,758000,pre_covid,africa
+overnight tourist,cabo verde,2020,180000,covid,africa
+overnight tourist,cabo verde,2021,135000,covid,africa
+overnight tourist,cabo verde,2022,785000,post_covid,africa
+overnight tourist,cayman islands,2015,385000,pre_covid,central america and caribbean
+overnight tourist,cayman islands,2016,385000,pre_covid,central america and caribbean
+overnight tourist,cayman islands,2017,418000,pre_covid,central america and caribbean
+overnight tourist,cayman islands,2018,463000,pre_covid,central america and caribbean
+overnight tourist,cayman islands,2019,503000,pre_covid,central america and caribbean
+overnight tourist,cayman islands,2020,122000,covid,central america and caribbean
+overnight tourist,cayman islands,2021,17300,covid,central america and caribbean
+overnight tourist,cayman islands,2022,284300,post_covid,central america and caribbean
+overnight tourist,central african republic,2015,120500,pre_covid,africa
+overnight tourist,central african republic,2016,82000,pre_covid,africa
+overnight tourist,central african republic,2017,107000,pre_covid,africa
+overnight tourist,central african republic,2018,109000,pre_covid,africa
+overnight tourist,central african republic,2019,87000,pre_covid,africa
+overnight tourist,central african republic,2020,34600,covid,africa
+overnight tourist,sri lanka,2015,1798000,pre_covid,asia
+overnight tourist,sri lanka,2016,2051000,pre_covid,asia
+overnight tourist,sri lanka,2017,2116400,pre_covid,asia
+overnight tourist,sri lanka,2018,2334000,pre_covid,asia
+overnight tourist,sri lanka,2019,1914000,pre_covid,asia
+overnight tourist,sri lanka,2020,508000,covid,asia
+overnight tourist,sri lanka,2021,194000,covid,asia
+overnight tourist,sri lanka,2022,720000,post_covid,asia
+overnight tourist,chad,2015,120000,pre_covid,africa
+overnight tourist,chad,2016,98000,pre_covid,africa
+overnight tourist,chad,2017,87000,pre_covid,africa
+overnight tourist,chad,2018,77000,pre_covid,africa
+overnight tourist,chad,2019,79000,pre_covid,africa
+overnight tourist,chad,2020,11000,covid,africa
+overnight tourist,chad,2021,40000,covid,africa
+overnight tourist,chile,2015,4478000,pre_covid,south america
+overnight tourist,chile,2016,5641000,pre_covid,south america
+overnight tourist,chile,2017,6450000,pre_covid,south america
+overnight tourist,chile,2018,5723000,pre_covid,south america
+overnight tourist,chile,2019,4518000,pre_covid,south america
+overnight tourist,chile,2020,1119094,covid,south america
+overnight tourist,chile,2021,190022,covid,south america
+overnight tourist,chile,2022,2030479,post_covid,south america
+overnight tourist,chile,2023,3730507,post_covid,south america
+overnight tourist,chile,2024,5239233,post_covid,south america
+overnight tourist,china,2015,56886000,pre_covid,asia
+overnight tourist,china,2016,59270000,pre_covid,asia
+overnight tourist,china,2017,60740000,pre_covid,asia
+overnight tourist,china,2018,62900000,pre_covid,asia
+overnight tourist,china,2019,65725000,pre_covid,asia
+overnight tourist,china,2020,7967000,covid,asia
+overnight tourist,taiwan,2020,1377900,covid,asia
+overnight tourist,taiwan,2021,140400,covid,asia
+overnight tourist,taiwan,2022,895900,post_covid,asia
+overnight tourist,taiwan,2023,6487000,post_covid,asia
+overnight tourist,taiwan,2024,7858000,post_covid,asia
+overnight tourist,colombia,2015,3099000,pre_covid,south america
+overnight tourist,colombia,2016,3370000,pre_covid,south america
+overnight tourist,colombia,2017,3712000,pre_covid,south america
+overnight tourist,colombia,2018,4020000,pre_covid,south america
+overnight tourist,colombia,2019,4169000,pre_covid,south america
+overnight tourist,colombia,2020,1252000,covid,south america
+overnight tourist,colombia,2021,2127000,covid,south america
+overnight tourist,colombia,2022,4519000,post_covid,south america
+overnight tourist,comoros,2015,23600,pre_covid,africa
+overnight tourist,comoros,2016,26800,pre_covid,africa
+overnight tourist,comoros,2017,28000,pre_covid,africa
+overnight tourist,comoros,2018,35900,pre_covid,africa
+overnight tourist,comoros,2019,45100,pre_covid,africa
+overnight tourist,comoros,2020,7000,covid,africa
+overnight tourist,comoros,2021,28800,covid,africa
+overnight tourist,congo,2015,220000,pre_covid,africa
+overnight tourist,congo,2016,211000,pre_covid,africa
+overnight tourist,congo,2017,149000,pre_covid,africa
+overnight tourist,congo,2018,156000,pre_covid,africa
+overnight tourist,democratic republic of the congo,2015,354000,pre_covid,africa
+overnight tourist,democratic republic of the congo,2016,351000,pre_covid,africa
+overnight tourist,democratic republic of the congo,2017,430000,pre_covid,africa
+overnight tourist,democratic republic of the congo,2018,392000,pre_covid,africa
+overnight tourist,democratic republic of the congo,2019,479000,pre_covid,africa
+overnight tourist,democratic republic of the congo,2020,202000,covid,africa
+overnight tourist,democratic republic of the congo,2021,382000,covid,africa
+overnight tourist,cook islands,2015,125000,pre_covid,oceania
+overnight tourist,cook islands,2016,146000,pre_covid,oceania
+overnight tourist,cook islands,2017,161000,pre_covid,oceania
+overnight tourist,cook islands,2018,169000,pre_covid,oceania
+overnight tourist,cook islands,2019,172000,pre_covid,oceania
+overnight tourist,cook islands,2020,25200,covid,oceania
+overnight tourist,cook islands,2021,26300,covid,oceania
+overnight tourist,cook islands,2022,113600,post_covid,oceania
+overnight tourist,costa rica,2015,2660000,pre_covid,central america and caribbean
+overnight tourist,costa rica,2016,2925000,pre_covid,central america and caribbean
+overnight tourist,costa rica,2017,2960000,pre_covid,central america and caribbean
+overnight tourist,costa rica,2018,3017000,pre_covid,central america and caribbean
+overnight tourist,costa rica,2019,3139000,pre_covid,central america and caribbean
+overnight tourist,costa rica,2020,1011912,covid,central america and caribbean
+overnight tourist,costa rica,2021,1347055,covid,central america and caribbean
+overnight tourist,costa rica,2022,2349537,post_covid,central america and caribbean
+overnight tourist,costa rica,2023,2751134,post_covid,central america and caribbean
+overnight tourist,costa rica,2024,2919483,post_covid,central america and caribbean
+overnight tourist,croatia,2015,12683000,pre_covid,europe
+overnight tourist,croatia,2016,13809000,pre_covid,europe
+overnight tourist,croatia,2017,15593000,pre_covid,europe
+overnight tourist,croatia,2018,16645000,pre_covid,europe
+overnight tourist,croatia,2019,17353000,pre_covid,europe
+overnight tourist,croatia,2020,5545000,covid,europe
+overnight tourist,croatia,2021,10641000,covid,europe
+overnight tourist,croatia,2022,15324000,post_covid,europe
+overnight tourist,cuba,2015,3506000,pre_covid,central america and caribbean
+overnight tourist,cuba,2016,3975000,pre_covid,central america and caribbean
+overnight tourist,cuba,2017,4594000,pre_covid,central america and caribbean
+overnight tourist,cuba,2018,4684000,pre_covid,central america and caribbean
+overnight tourist,cuba,2019,4263000,pre_covid,central america and caribbean
+overnight tourist,cuba,2020,1085000,covid,central america and caribbean
+overnight tourist,cuba,2021,355500,covid,central america and caribbean
+overnight tourist,cuba,2022,1613400,post_covid,central america and caribbean
+overnight tourist,cyprus,2015,2659000,pre_covid,europe
+overnight tourist,cyprus,2016,3187000,pre_covid,europe
+overnight tourist,cyprus,2017,3652000,pre_covid,europe
+overnight tourist,cyprus,2018,3939000,pre_covid,europe
+overnight tourist,cyprus,2019,3977000,pre_covid,europe
+overnight tourist,cyprus,2020,631609,covid,europe
+overnight tourist,cyprus,2021,1936931,covid,europe
+overnight tourist,cyprus,2022,3201080,post_covid,europe
+overnight tourist,cyprus,2023,3845652,post_covid,europe
+overnight tourist,cyprus,2024,4040200,post_covid,europe
+overnight tourist,czechia,2015,11619000,pre_covid,europe
+overnight tourist,czechia,2016,12808000,pre_covid,europe
+overnight tourist,czechia,2017,13665000,pre_covid,europe
+overnight tourist,czechia,2018,14282600,pre_covid,europe
+overnight tourist,czechia,2019,14651000,pre_covid,europe
+overnight tourist,czechia,2020,3919400,covid,europe
+overnight tourist,czechia,2021,3768000,covid,europe
+overnight tourist,benin,2015,255000,pre_covid,africa
+overnight tourist,benin,2016,267000,pre_covid,africa
+overnight tourist,benin,2017,281000,pre_covid,africa
+overnight tourist,benin,2018,295000,pre_covid,africa
+overnight tourist,benin,2019,309000,pre_covid,africa
+overnight tourist,benin,2020,325000,covid,africa
+overnight tourist,denmark,2015,10424000,pre_covid,europe
+overnight tourist,denmark,2016,10781000,pre_covid,europe
+overnight tourist,denmark,2017,12426000,pre_covid,europe
+overnight tourist,denmark,2018,12749000,pre_covid,europe
+overnight tourist,denmark,2019,14725000,pre_covid,europe
+overnight tourist,denmark,2020,6229000,covid,europe
+overnight tourist,denmark,2021,7555000,covid,europe
+overnight tourist,denmark,2022,14190000,post_covid,europe
+overnight tourist,dominica,2015,75000,pre_covid,central america and caribbean
+overnight tourist,dominica,2016,78000,pre_covid,central america and caribbean
+overnight tourist,dominica,2017,72000,pre_covid,central america and caribbean
+overnight tourist,dominica,2018,63000,pre_covid,central america and caribbean
+overnight tourist,dominica,2019,90000,pre_covid,central america and caribbean
+overnight tourist,dominica,2020,22000,covid,central america and caribbean
+overnight tourist,dominica,2021,15000,covid,central america and caribbean
+overnight tourist,dominica,2022,61000,post_covid,central america and caribbean
+overnight tourist,dominican republic,2015,5600000,pre_covid,central america and caribbean
+overnight tourist,dominican republic,2016,5959300,pre_covid,central america and caribbean
+overnight tourist,dominican republic,2017,6188000,pre_covid,central america and caribbean
+overnight tourist,dominican republic,2018,6569000,pre_covid,central america and caribbean
+overnight tourist,dominican republic,2019,6446000,pre_covid,central america and caribbean
+overnight tourist,dominican republic,2020,2405310,covid,central america and caribbean
+overnight tourist,dominican republic,2021,4994313,covid,central america and caribbean
+overnight tourist,dominican republic,2022,7163414,post_covid,central america and caribbean
+overnight tourist,dominican republic,2023,8058671,post_covid,central america and caribbean
+overnight tourist,dominican republic,2024,8535700,post_covid,central america and caribbean
+overnight tourist,el salvador,2015,1402000,pre_covid,central america and caribbean
+overnight tourist,el salvador,2016,1434000,pre_covid,central america and caribbean
+overnight tourist,el salvador,2017,1556000,pre_covid,central america and caribbean
+overnight tourist,el salvador,2018,1677300,pre_covid,central america and caribbean
+overnight tourist,el salvador,2019,1766000,pre_covid,central america and caribbean
+overnight tourist,el salvador,2020,549000,covid,central america and caribbean
+overnight tourist,el salvador,2021,1219000,covid,central america and caribbean
+overnight tourist,el salvador,2022,1891000,post_covid,central america and caribbean
+overnight tourist,el salvador,2023,2479099,post_covid,central america and caribbean
+overnight tourist,el salvador,2024,3186988,post_covid,central america and caribbean
+overnight tourist,ethiopia,2015,864000,pre_covid,africa
+overnight tourist,ethiopia,2016,871000,pre_covid,africa
+overnight tourist,ethiopia,2017,933000,pre_covid,africa
+overnight tourist,ethiopia,2018,849000,pre_covid,africa
+overnight tourist,ethiopia,2019,812000,pre_covid,africa
+overnight tourist,ethiopia,2020,271000,covid,africa
+overnight tourist,ethiopia,2021,518000,covid,africa
+overnight tourist,ethiopia,2022,897000,post_covid,africa
+overnight tourist,ethiopia,2023,247000,post_covid,africa
+overnight tourist,ethiopia,2024,536000,post_covid,africa
+overnight tourist,estonia,2015,2961000,pre_covid,europe
+overnight tourist,estonia,2016,3131000,pre_covid,europe
+overnight tourist,estonia,2017,3244000,pre_covid,europe
+overnight tourist,estonia,2018,3226000,pre_covid,europe
+overnight tourist,estonia,2019,3336000,pre_covid,europe
+overnight tourist,estonia,2020,1023000,covid,europe
+overnight tourist,estonia,2021,808000,covid,europe
+overnight tourist,estonia,2022,2166000,post_covid,europe
+overnight tourist,fiji,2015,755000,pre_covid,oceania
+overnight tourist,fiji,2016,792000,pre_covid,oceania
+overnight tourist,fiji,2017,843000,pre_covid,oceania
+overnight tourist,fiji,2018,870000,pre_covid,oceania
+overnight tourist,fiji,2019,894000,pre_covid,oceania
+overnight tourist,fiji,2020,146900,covid,oceania
+overnight tourist,fiji,2021,32000,covid,oceania
+overnight tourist,fiji,2022,636300,post_covid,oceania
+overnight tourist,fiji,2023,929740,post_covid,oceania
+overnight tourist,fiji,2024,928938,post_covid,oceania
+overnight tourist,finland,2015,2622000,pre_covid,europe
+overnight tourist,finland,2016,2789000,pre_covid,europe
+overnight tourist,finland,2017,3180000,pre_covid,europe
+overnight tourist,finland,2018,3224000,pre_covid,europe
+overnight tourist,finland,2019,3290000,pre_covid,europe
+overnight tourist,finland,2023,4248000,post_covid,europe
+overnight tourist,finland,2024,4475000,post_covid,europe
+overnight tourist,france,2015,84452000,pre_covid,europe
+overnight tourist,france,2016,82682000,pre_covid,europe
+overnight tourist,france,2017,86758000,pre_covid,europe
+overnight tourist,france,2018,89322000,pre_covid,europe
+overnight tourist,france,2019,90914000,pre_covid,europe
+overnight tourist,france,2020,41684000,covid,europe
+overnight tourist,france,2021,48395000,covid,europe
+overnight tourist,french guiana,2015,87000,pre_covid,south america
+overnight tourist,french guiana,2016,96000,pre_covid,south america
+overnight tourist,french guiana,2017,111000,pre_covid,south america
+overnight tourist,french guiana,2020,49000,covid,south america
+overnight tourist,french guiana,2021,42000,covid,south america
+overnight tourist,french guiana,2022,73000,post_covid,south america
+overnight tourist,french guiana,2023,77000,post_covid,south america
+overnight tourist,french guiana,2024,86000,post_covid,south america
+overnight tourist,french polynesia,2015,184000,pre_covid,oceania
+overnight tourist,french polynesia,2016,192000,pre_covid,oceania
+overnight tourist,french polynesia,2017,199000,pre_covid,oceania
+overnight tourist,french polynesia,2018,216300,pre_covid,oceania
+overnight tourist,french polynesia,2019,237000,pre_covid,oceania
+overnight tourist,french polynesia,2020,77000,covid,oceania
+overnight tourist,french polynesia,2021,83000,covid,oceania
+overnight tourist,french polynesia,2022,218800,post_covid,oceania
+overnight tourist,djibouti,2017,133000,pre_covid,africa
+overnight tourist,djibouti,2018,142000,pre_covid,africa
+overnight tourist,djibouti,2019,167000,pre_covid,africa
+overnight tourist,djibouti,2020,75000,covid,africa
+overnight tourist,djibouti,2021,114000,covid,africa
+overnight tourist,djibouti,2022,145000,post_covid,africa
+overnight tourist,georgia,2015,3012000,pre_covid,asia
+overnight tourist,georgia,2016,3297000,pre_covid,asia
+overnight tourist,georgia,2017,4069400,pre_covid,asia
+overnight tourist,georgia,2018,4757000,pre_covid,asia
+overnight tourist,georgia,2019,5080400,pre_covid,asia
+overnight tourist,georgia,2020,1087000,covid,asia
+overnight tourist,georgia,2021,1577000,covid,asia
+overnight tourist,georgia,2022,3653000,post_covid,asia
+overnight tourist,georgia,2023,4669000,post_covid,asia
+overnight tourist,georgia,2024,5092000,post_covid,asia
+overnight tourist,gambia,2015,449000,pre_covid,africa
+overnight tourist,gambia,2016,450000,pre_covid,africa
+overnight tourist,gambia,2017,522000,pre_covid,africa
+overnight tourist,gambia,2018,552000,pre_covid,africa
+overnight tourist,gambia,2019,620000,pre_covid,africa
+overnight tourist,gambia,2020,246000,covid,africa
+overnight tourist,gambia,2021,332000,covid,africa
+overnight tourist,gambia,2022,570000,post_covid,africa
+overnight tourist,state of palestine,2015,432000,pre_covid,asia
+overnight tourist,state of palestine,2016,400000,pre_covid,asia
+overnight tourist,state of palestine,2017,929000,pre_covid,asia
+overnight tourist,state of palestine,2018,985000,pre_covid,asia
+overnight tourist,state of palestine,2019,1110000,pre_covid,asia
+overnight tourist,state of palestine,2020,170000,covid,asia
+overnight tourist,germany,2015,34970000,pre_covid,europe
+overnight tourist,germany,2016,35555000,pre_covid,europe
+overnight tourist,germany,2017,37452000,pre_covid,europe
+overnight tourist,germany,2018,38881000,pre_covid,europe
+overnight tourist,germany,2019,39563000,pre_covid,europe
+overnight tourist,germany,2020,12411000,covid,europe
+overnight tourist,germany,2021,11652000,covid,europe
+overnight tourist,germany,2022,28383000,post_covid,europe
+overnight tourist,germany,2023,34712000,post_covid,europe
+overnight tourist,germany,2024,37420000,post_covid,europe
+overnight tourist,ghana,2015,897000,pre_covid,africa
+overnight tourist,ghana,2016,933000,pre_covid,africa
+overnight tourist,ghana,2017,969000,pre_covid,africa
+overnight tourist,ghana,2018,956000,pre_covid,africa
+overnight tourist,ghana,2019,1130000,pre_covid,africa
+overnight tourist,ghana,2020,355000,covid,africa
+overnight tourist,ghana,2021,624000,covid,africa
+overnight tourist,ghana,2022,915000,post_covid,africa
+overnight tourist,kiribati,2015,3900,pre_covid,oceania
+overnight tourist,kiribati,2016,5700,pre_covid,oceania
+overnight tourist,kiribati,2017,5800,pre_covid,oceania
+overnight tourist,kiribati,2018,7100,pre_covid,oceania
+overnight tourist,kiribati,2019,7900,pre_covid,oceania
+overnight tourist,kiribati,2020,1400,covid,oceania
+overnight tourist,kiribati,2021,70,covid,oceania
+overnight tourist,kiribati,2022,1800,post_covid,oceania
+overnight tourist,greece,2015,23599000,pre_covid,europe
+overnight tourist,greece,2016,24799000,pre_covid,europe
+overnight tourist,greece,2017,27194000,pre_covid,europe
+overnight tourist,greece,2018,30123000,pre_covid,europe
+overnight tourist,greece,2019,31348400,pre_covid,europe
+overnight tourist,greece,2020,7374400,covid,europe
+overnight tourist,greece,2021,14705000,covid,europe
+overnight tourist,greece,2022,27836000,post_covid,europe
+overnight tourist,grenada,2015,155000,pre_covid,central america and caribbean
+overnight tourist,grenada,2016,156000,pre_covid,central america and caribbean
+overnight tourist,grenada,2017,168000,pre_covid,central america and caribbean
+overnight tourist,grenada,2018,186000,pre_covid,central america and caribbean
+overnight tourist,grenada,2019,188000,pre_covid,central america and caribbean
+overnight tourist,grenada,2020,54200,covid,central america and caribbean
+overnight tourist,grenada,2021,47000,covid,central america and caribbean
+overnight tourist,grenada,2022,149000,post_covid,central america and caribbean
+overnight tourist,guadeloupe,2015,512000,pre_covid,central america and caribbean
+overnight tourist,guadeloupe,2016,581000,pre_covid,central america and caribbean
+overnight tourist,guadeloupe,2017,650000,pre_covid,central america and caribbean
+overnight tourist,guadeloupe,2018,735000,pre_covid,central america and caribbean
+overnight tourist,guam,2015,1409000,pre_covid,oceania
+overnight tourist,guam,2016,1536000,pre_covid,oceania
+overnight tourist,guam,2017,1545000,pre_covid,oceania
+overnight tourist,guam,2018,1549000,pre_covid,oceania
+overnight tourist,guam,2019,1667000,pre_covid,oceania
+overnight tourist,guam,2020,328173,covid,oceania
+overnight tourist,guam,2021,79389,covid,oceania
+overnight tourist,guam,2022,326878,post_covid,oceania
+overnight tourist,guam,2023,656518,post_covid,oceania
+overnight tourist,guam,2024,739146,post_covid,oceania
+overnight tourist,guatemala,2015,1473000,pre_covid,central america and caribbean
+overnight tourist,guatemala,2016,1585000,pre_covid,central america and caribbean
+overnight tourist,guatemala,2017,1660000,pre_covid,central america and caribbean
+overnight tourist,guatemala,2018,1781000,pre_covid,central america and caribbean
+overnight tourist,guatemala,2019,1752400,pre_covid,central america and caribbean
+overnight tourist,guatemala,2020,395700,covid,central america and caribbean
+overnight tourist,guatemala,2021,602100,covid,central america and caribbean
+overnight tourist,guatemala,2022,1494000,post_covid,central america and caribbean
+overnight tourist,guinea,2015,35000,pre_covid,africa
+overnight tourist,guinea,2016,63000,pre_covid,africa
+overnight tourist,guinea,2017,99000,pre_covid,africa
+overnight tourist,guyana,2015,207000,pre_covid,south america
+overnight tourist,guyana,2016,235000,pre_covid,south america
+overnight tourist,guyana,2017,247000,pre_covid,south america
+overnight tourist,guyana,2018,287000,pre_covid,south america
+overnight tourist,guyana,2019,315000,pre_covid,south america
+overnight tourist,guyana,2020,86500,covid,south america
+overnight tourist,guyana,2021,158300,covid,south america
+overnight tourist,guyana,2022,288000,post_covid,south america
+overnight tourist,haiti,2015,516000,pre_covid,central america and caribbean
+overnight tourist,haiti,2016,445000,pre_covid,central america and caribbean
+overnight tourist,haiti,2017,467000,pre_covid,central america and caribbean
+overnight tourist,haiti,2018,447000,pre_covid,central america and caribbean
+overnight tourist,haiti,2019,286000,pre_covid,central america and caribbean
+overnight tourist,haiti,2020,203000,covid,central america and caribbean
+overnight tourist,haiti,2021,148000,covid,central america and caribbean
+overnight tourist,honduras,2015,880000,pre_covid,central america and caribbean
+overnight tourist,honduras,2016,838000,pre_covid,central america and caribbean
+overnight tourist,honduras,2017,850000,pre_covid,central america and caribbean
+overnight tourist,honduras,2018,847000,pre_covid,central america and caribbean
+overnight tourist,honduras,2019,724000,pre_covid,central america and caribbean
+overnight tourist,honduras,2020,204000,covid,central america and caribbean
+overnight tourist,honduras,2021,459000,covid,central america and caribbean
+overnight tourist,honduras,2022,844000,post_covid,central america and caribbean
+overnight tourist,"china, hong kong",2015,26686000,pre_covid,asia
+overnight tourist,"china, hong kong",2016,26553000,pre_covid,asia
+overnight tourist,"china, hong kong",2017,27884000,pre_covid,asia
+overnight tourist,"china, hong kong",2018,29263000,pre_covid,asia
+overnight tourist,"china, hong kong",2019,23752000,pre_covid,asia
+overnight tourist,"china, hong kong",2020,1359000,covid,asia
+overnight tourist,"china, hong kong",2021,89200,covid,asia
+overnight tourist,"china, hong kong",2022,567800,post_covid,asia
+overnight tourist,"china, hong kong",2023,17159300,post_covid,asia
+overnight tourist,"china, hong kong",2024,21943900,post_covid,asia
+overnight tourist,hungary,2015,14316000,pre_covid,europe
+overnight tourist,hungary,2016,15255000,pre_covid,europe
+overnight tourist,hungary,2017,15785000,pre_covid,europe
+overnight tourist,hungary,2018,17552000,pre_covid,europe
+overnight tourist,hungary,2019,16937000,pre_covid,europe
+overnight tourist,hungary,2020,7417000,covid,europe
+overnight tourist,hungary,2021,7929100,covid,europe
+overnight tourist,hungary,2022,12649000,post_covid,europe
+overnight tourist,hungary,2023,12933000,post_covid,europe
+overnight tourist,hungary,2024,13155000,post_covid,europe
+overnight tourist,iceland,2015,1289000,pre_covid,europe
+overnight tourist,iceland,2016,1792000,pre_covid,europe
+overnight tourist,iceland,2017,2225000,pre_covid,europe
+overnight tourist,iceland,2018,2343800,pre_covid,europe
+overnight tourist,iceland,2019,2013000,pre_covid,europe
+overnight tourist,iceland,2020,486300,covid,europe
+overnight tourist,iceland,2021,698000,covid,europe
+overnight tourist,india,2015,13284000,pre_covid,asia
+overnight tourist,india,2016,14570000,pre_covid,asia
+overnight tourist,india,2019,17754000,pre_covid,asia
+overnight tourist,india,2020,2699000,covid,asia
+overnight tourist,india,2021,1507000,covid,asia
+overnight tourist,india,2022,6374000,post_covid,asia
+overnight tourist,india,2023,9405000,post_covid,asia
+overnight tourist,india,2024,9824000,post_covid,asia
+overnight tourist,indonesia,2015,9963000,pre_covid,asia
+overnight tourist,indonesia,2016,11072000,pre_covid,asia
+overnight tourist,indonesia,2017,12948000,pre_covid,asia
+overnight tourist,indonesia,2018,13396000,pre_covid,asia
+overnight tourist,indonesia,2019,15455000,pre_covid,asia
+overnight tourist,indonesia,2020,3915400,covid,asia
+overnight tourist,indonesia,2021,1546300,covid,asia
+overnight tourist,indonesia,2022,5764000,post_covid,asia
+overnight tourist,indonesia,2023,11382000,post_covid,asia
+overnight tourist,indonesia,2024,13603000,post_covid,asia
+overnight tourist,iran,2021,882000,covid,asia
+overnight tourist,ireland,2015,9528000,pre_covid,europe
+overnight tourist,ireland,2016,10100000,pre_covid,europe
+overnight tourist,ireland,2017,10338000,pre_covid,europe
+overnight tourist,ireland,2018,10926000,pre_covid,europe
+overnight tourist,ireland,2019,10951000,pre_covid,europe
+overnight tourist,israel,2015,2799000,pre_covid,asia
+overnight tourist,israel,2016,2900000,pre_covid,asia
+overnight tourist,israel,2017,3613000,pre_covid,asia
+overnight tourist,israel,2018,4121000,pre_covid,asia
+overnight tourist,israel,2019,4552000,pre_covid,asia
+overnight tourist,israel,2020,831000,covid,asia
+overnight tourist,israel,2021,397000,covid,asia
+overnight tourist,israel,2022,2675000,post_covid,asia
+overnight tourist,israel,2023,3010000,post_covid,asia
+overnight tourist,israel,2024,961000,post_covid,asia
+overnight tourist,italy,2015,50732000,pre_covid,europe
+overnight tourist,italy,2016,52372000,pre_covid,europe
+overnight tourist,italy,2017,58253000,pre_covid,europe
+overnight tourist,italy,2018,61567200,pre_covid,europe
+overnight tourist,italy,2019,64513000,pre_covid,europe
+overnight tourist,italy,2020,25190000,covid,europe
+overnight tourist,italy,2021,26888000,covid,europe
+overnight tourist,italy,2022,49811000,post_covid,europe
+overnight tourist,italy,2023,57250000,post_covid,europe
+overnight tourist,italy,2024,57725000,post_covid,europe
+overnight tourist,jamaica,2015,2123000,pre_covid,central america and caribbean
+overnight tourist,jamaica,2016,2182000,pre_covid,central america and caribbean
+overnight tourist,jamaica,2017,2353000,pre_covid,central america and caribbean
+overnight tourist,jamaica,2018,2473000,pre_covid,central america and caribbean
+overnight tourist,jamaica,2019,2681000,pre_covid,central america and caribbean
+overnight tourist,jamaica,2020,880400,covid,central america and caribbean
+overnight tourist,jamaica,2021,1464000,covid,central america and caribbean
+overnight tourist,jamaica,2022,2478400,post_covid,central america and caribbean
+overnight tourist,japan,2020,4115800,covid,asia
+overnight tourist,japan,2021,245800,covid,asia
+overnight tourist,japan,2022,3832100,post_covid,asia
+overnight tourist,japan,2023,25066000,post_covid,asia
+overnight tourist,japan,2024,36870000,post_covid,asia
+overnight tourist,kazakhstan,2020,2555564,covid,asia
+overnight tourist,kazakhstan,2021,2000314,covid,asia
+overnight tourist,kazakhstan,2022,6715459,post_covid,asia
+overnight tourist,kazakhstan,2023,9871166,post_covid,asia
+overnight tourist,kazakhstan,2024,10381566,post_covid,asia
+overnight tourist,jordan,2015,3761000,pre_covid,asia
+overnight tourist,jordan,2016,3567000,pre_covid,asia
+overnight tourist,jordan,2017,3843500,pre_covid,asia
+overnight tourist,jordan,2018,4150000,pre_covid,asia
+overnight tourist,jordan,2019,4488400,pre_covid,asia
+overnight tourist,jordan,2020,1067000,covid,asia
+overnight tourist,jordan,2021,2012000,covid,asia
+overnight tourist,jordan,2022,4276700,post_covid,asia
+overnight tourist,jordan,2023,5346000,post_covid,asia
+overnight tourist,jordan,2024,5217000,post_covid,asia
+overnight tourist,kenya,2015,1114000,pre_covid,africa
+overnight tourist,kenya,2016,1268000,pre_covid,africa
+overnight tourist,kenya,2017,1364000,pre_covid,africa
+overnight tourist,south korea,2020,2519200,covid,asia
+overnight tourist,south korea,2021,967000,covid,asia
+overnight tourist,south korea,2022,3198000,post_covid,asia
+overnight tourist,south korea,2023,11032000,post_covid,asia
+overnight tourist,south korea,2024,16370000,post_covid,asia
+overnight tourist,kuwait,2015,182000,pre_covid,asia
+overnight tourist,kuwait,2016,203000,pre_covid,asia
+overnight tourist,kuwait,2017,183000,pre_covid,asia
+overnight tourist,kuwait,2018,200000,pre_covid,asia
+overnight tourist,kuwait,2019,153000,pre_covid,asia
+overnight tourist,kuwait,2020,86485,covid,asia
+overnight tourist,kuwait,2021,84971,covid,asia
+overnight tourist,kuwait,2022,88670,post_covid,asia
+overnight tourist,kuwait,2023,122456,post_covid,asia
+overnight tourist,kyrgyzstan,2015,402000,pre_covid,asia
+overnight tourist,kyrgyzstan,2016,321000,pre_covid,asia
+overnight tourist,kyrgyzstan,2017,421000,pre_covid,asia
+overnight tourist,kyrgyzstan,2018,423000,pre_covid,asia
+overnight tourist,kyrgyzstan,2019,235000,pre_covid,asia
+overnight tourist,kyrgyzstan,2020,69000,covid,asia
+overnight tourist,kyrgyzstan,2021,144000,covid,asia
+overnight tourist,kyrgyzstan,2022,345700,post_covid,asia
+overnight tourist,lao people's democratic republic,2015,3543000,pre_covid,asia
+overnight tourist,lao people's democratic republic,2016,3315000,pre_covid,asia
+overnight tourist,lao people's democratic republic,2017,3257000,pre_covid,asia
+overnight tourist,lao people's democratic republic,2018,3770000,pre_covid,asia
+overnight tourist,lao people's democratic republic,2019,4384000,pre_covid,asia
+overnight tourist,lao people's democratic republic,2020,811600,covid,asia
+overnight tourist,lebanon,2015,1518000,pre_covid,asia
+overnight tourist,lebanon,2016,1688000,pre_covid,asia
+overnight tourist,lebanon,2017,1857000,pre_covid,asia
+overnight tourist,lebanon,2018,1964000,pre_covid,asia
+overnight tourist,lebanon,2019,1936000,pre_covid,asia
+overnight tourist,lebanon,2020,414000,covid,asia
+overnight tourist,lebanon,2021,890000,covid,asia
+overnight tourist,lebanon,2022,1466000,post_covid,asia
+overnight tourist,latvia,2015,2024000,pre_covid,europe
+overnight tourist,latvia,2016,1793000,pre_covid,europe
+overnight tourist,latvia,2017,1949000,pre_covid,europe
+overnight tourist,latvia,2018,1946000,pre_covid,europe
+overnight tourist,latvia,2019,1935000,pre_covid,europe
+overnight tourist,latvia,2020,636000,covid,europe
+overnight tourist,latvia,2021,478000,covid,europe
+overnight tourist,liechtenstein,2015,56700,pre_covid,europe
+overnight tourist,liechtenstein,2016,69100,pre_covid,europe
+overnight tourist,liechtenstein,2017,79300,pre_covid,europe
+overnight tourist,liechtenstein,2018,85300,pre_covid,europe
+overnight tourist,liechtenstein,2019,98100,pre_covid,europe
+overnight tourist,liechtenstein,2020,58359,covid,europe
+overnight tourist,liechtenstein,2021,70764,covid,europe
+overnight tourist,liechtenstein,2022,100814,post_covid,europe
+overnight tourist,liechtenstein,2023,114399,post_covid,europe
+overnight tourist,liechtenstein,2024,117789,post_covid,europe
+overnight tourist,lithuania,2015,2071000,pre_covid,europe
+overnight tourist,lithuania,2016,2296000,pre_covid,europe
+overnight tourist,lithuania,2017,2523000,pre_covid,europe
+overnight tourist,lithuania,2018,2825000,pre_covid,europe
+overnight tourist,lithuania,2019,2875000,pre_covid,europe
+overnight tourist,lithuania,2020,936700,covid,europe
+overnight tourist,lithuania,2021,947600,covid,europe
+overnight tourist,lithuania,2022,2168700,post_covid,europe
+overnight tourist,lithuania,2023,2404700,post_covid,europe
+overnight tourist,lithuania,2024,2383300,post_covid,europe
+overnight tourist,luxembourg,2015,1090000,pre_covid,europe
+overnight tourist,luxembourg,2016,1054000,pre_covid,europe
+overnight tourist,luxembourg,2017,1046000,pre_covid,europe
+overnight tourist,luxembourg,2018,1018000,pre_covid,europe
+overnight tourist,luxembourg,2019,1041000,pre_covid,europe
+overnight tourist,luxembourg,2020,525000,covid,europe
+overnight tourist,luxembourg,2021,615000,covid,europe
+overnight tourist,luxembourg,2022,1013000,post_covid,europe
+overnight tourist,"china, macao special administrative region",2015,14308000,pre_covid,asia
+overnight tourist,"china, macao special administrative region",2016,15703600,pre_covid,asia
+overnight tourist,"china, macao special administrative region",2017,17255000,pre_covid,asia
+overnight tourist,"china, macao special administrative region",2018,18493000,pre_covid,asia
+overnight tourist,"china, macao special administrative region",2019,18633000,pre_covid,asia
+overnight tourist,"china, macao special administrative region",2020,2822037,covid,asia
+overnight tourist,"china, macao special administrative region",2021,3696800,covid,asia
+overnight tourist,"china, macao special administrative region",2022,2484028,post_covid,asia
+overnight tourist,"china, macao special administrative region",2023,14227229,post_covid,asia
+overnight tourist,"china, macao special administrative region",2024,16043768,post_covid,asia
+overnight tourist,madagascar,2015,244000,pre_covid,africa
+overnight tourist,madagascar,2016,293000,pre_covid,africa
+overnight tourist,madagascar,2017,255000,pre_covid,africa
+overnight tourist,madagascar,2018,291000,pre_covid,africa
+overnight tourist,madagascar,2019,384000,pre_covid,africa
+overnight tourist,madagascar,2020,68300,covid,africa
+overnight tourist,madagascar,2021,7800,covid,africa
+overnight tourist,malawi,2015,805000,pre_covid,africa
+overnight tourist,malawi,2016,849000,pre_covid,africa
+overnight tourist,malawi,2017,837000,pre_covid,africa
+overnight tourist,malawi,2018,871000,pre_covid,africa
+overnight tourist,malawi,2019,978000,pre_covid,africa
+overnight tourist,malawi,2020,199000,covid,africa
+overnight tourist,malawi,2021,432000,covid,africa
+overnight tourist,malaysia,2015,25721000,pre_covid,asia
+overnight tourist,malaysia,2016,26757000,pre_covid,asia
+overnight tourist,malaysia,2017,25948000,pre_covid,asia
+overnight tourist,malaysia,2018,25832000,pre_covid,asia
+overnight tourist,malaysia,2019,26101000,pre_covid,asia
+overnight tourist,malaysia,2020,4333000,covid,asia
+overnight tourist,malaysia,2021,135000,covid,asia
+overnight tourist,malaysia,2022,10071000,post_covid,asia
+overnight tourist,maldives,2015,1234000,pre_covid,asia
+overnight tourist,maldives,2016,1286000,pre_covid,asia
+overnight tourist,maldives,2017,1390000,pre_covid,asia
+overnight tourist,maldives,2018,1484000,pre_covid,asia
+overnight tourist,maldives,2019,1703000,pre_covid,asia
+overnight tourist,maldives,2020,555000,covid,asia
+overnight tourist,maldives,2021,1322000,covid,asia
+overnight tourist,maldives,2022,1675000,post_covid,asia
+overnight tourist,mali,2015,159000,pre_covid,africa
+overnight tourist,mali,2016,173000,pre_covid,africa
+overnight tourist,mali,2017,193000,pre_covid,africa
+overnight tourist,mali,2018,203000,pre_covid,africa
+overnight tourist,mali,2019,217000,pre_covid,africa
+overnight tourist,mali,2020,75000,covid,africa
+overnight tourist,mali,2021,168000,covid,africa
+overnight tourist,malta,2015,1783000,pre_covid,europe
+overnight tourist,malta,2016,1966000,pre_covid,europe
+overnight tourist,malta,2017,2274000,pre_covid,europe
+overnight tourist,malta,2018,2599000,pre_covid,europe
+overnight tourist,malta,2019,2753000,pre_covid,europe
+overnight tourist,malta,2020,659000,covid,europe
+overnight tourist,malta,2021,968000,covid,europe
+overnight tourist,malta,2022,2286600,post_covid,europe
+overnight tourist,malta,2023,2981500,post_covid,europe
+overnight tourist,malta,2024,3563600,post_covid,europe
+overnight tourist,martinique,2015,487000,pre_covid,central america and caribbean
+overnight tourist,martinique,2016,519000,pre_covid,central america and caribbean
+overnight tourist,martinique,2017,536000,pre_covid,central america and caribbean
+overnight tourist,martinique,2018,537000,pre_covid,central america and caribbean
+overnight tourist,martinique,2019,556000,pre_covid,central america and caribbean
+overnight tourist,martinique,2020,312300,covid,central america and caribbean
+overnight tourist,martinique,2021,291000,covid,central america and caribbean
+overnight tourist,martinique,2022,556000,post_covid,central america and caribbean
+overnight tourist,mauritius,2015,1151000,pre_covid,africa
+overnight tourist,mauritius,2016,1275000,pre_covid,africa
+overnight tourist,mauritius,2017,1342000,pre_covid,africa
+overnight tourist,mauritius,2018,1399000,pre_covid,africa
+overnight tourist,mauritius,2019,1383000,pre_covid,africa
+overnight tourist,mauritius,2020,309000,covid,africa
+overnight tourist,mauritius,2021,179800,covid,africa
+overnight tourist,mauritius,2022,997000,post_covid,africa
+overnight tourist,mauritius,2023,1295000,post_covid,africa
+overnight tourist,mauritius,2024,1382000,post_covid,africa
+overnight tourist,mexico,2015,32093000,pre_covid,north america
+overnight tourist,mexico,2016,35079000,pre_covid,north america
+overnight tourist,mexico,2017,39291000,pre_covid,north america
+overnight tourist,mexico,2018,41313000,pre_covid,north america
+overnight tourist,mexico,2019,45024000,pre_covid,north america
+overnight tourist,mexico,2020,24283536,covid,north america
+overnight tourist,mexico,2021,31860392,covid,north america
+overnight tourist,mexico,2022,38325550,post_covid,north america
+overnight tourist,mexico,2023,41949428,post_covid,north america
+overnight tourist,mexico,2024,45038754,post_covid,north america
+overnight tourist,monaco,2015,331000,pre_covid,europe
+overnight tourist,monaco,2016,336000,pre_covid,europe
+overnight tourist,monaco,2017,355000,pre_covid,europe
+overnight tourist,monaco,2018,347000,pre_covid,europe
+overnight tourist,monaco,2019,363000,pre_covid,europe
+overnight tourist,monaco,2020,172037,covid,europe
+overnight tourist,monaco,2021,220052,covid,europe
+overnight tourist,monaco,2022,290180,post_covid,europe
+overnight tourist,monaco,2023,341248,post_covid,europe
+overnight tourist,monaco,2024,348258,post_covid,europe
+overnight tourist,mongolia,2015,386000,pre_covid,asia
+overnight tourist,mongolia,2016,404000,pre_covid,asia
+overnight tourist,mongolia,2017,469000,pre_covid,asia
+overnight tourist,mongolia,2018,529000,pre_covid,asia
+overnight tourist,mongolia,2019,577000,pre_covid,asia
+overnight tourist,mongolia,2020,58900,covid,asia
+overnight tourist,mongolia,2021,33000,covid,asia
+overnight tourist,mongolia,2022,286000,post_covid,asia
+overnight tourist,mongolia,2023,594000,post_covid,asia
+overnight tourist,mongolia,2024,727000,post_covid,asia
+overnight tourist,republic of moldova,2015,94400,pre_covid,europe
+overnight tourist,republic of moldova,2016,121000,pre_covid,europe
+overnight tourist,republic of moldova,2017,145000,pre_covid,europe
+overnight tourist,republic of moldova,2018,160000,pre_covid,europe
+overnight tourist,republic of moldova,2019,174000,pre_covid,europe
+overnight tourist,republic of moldova,2020,28732,covid,europe
+overnight tourist,republic of moldova,2021,68852,covid,europe
+overnight tourist,republic of moldova,2022,162086,post_covid,europe
+overnight tourist,republic of moldova,2023,195447,post_covid,europe
+overnight tourist,republic of moldova,2024,254020,post_covid,europe
+overnight tourist,montenegro,2015,1560000,pre_covid,europe
+overnight tourist,montenegro,2016,1662000,pre_covid,europe
+overnight tourist,montenegro,2017,1877000,pre_covid,europe
+overnight tourist,montenegro,2018,2077000,pre_covid,europe
+overnight tourist,montenegro,2019,2510000,pre_covid,europe
+overnight tourist,montenegro,2020,351000,covid,europe
+overnight tourist,montenegro,2021,1554000,covid,europe
+overnight tourist,montenegro,2022,2036000,post_covid,europe
+overnight tourist,montserrat,2015,8900,pre_covid,central america and caribbean
+overnight tourist,montserrat,2016,8700,pre_covid,central america and caribbean
+overnight tourist,montserrat,2017,9500,pre_covid,central america and caribbean
+overnight tourist,montserrat,2018,10200,pre_covid,central america and caribbean
+overnight tourist,montserrat,2019,10400,pre_covid,central america and caribbean
+overnight tourist,montserrat,2020,4500,covid,central america and caribbean
+overnight tourist,montserrat,2021,1600,covid,central america and caribbean
+overnight tourist,morocco,2015,10177000,pre_covid,africa
+overnight tourist,morocco,2016,10332000,pre_covid,africa
+overnight tourist,morocco,2017,11349000,pre_covid,africa
+overnight tourist,morocco,2018,12289000,pre_covid,africa
+overnight tourist,morocco,2019,12932000,pre_covid,africa
+overnight tourist,morocco,2020,2778000,covid,africa
+overnight tourist,morocco,2021,3722000,covid,africa
+overnight tourist,morocco,2022,10869000,post_covid,africa
+overnight tourist,mozambique,2015,1552000,pre_covid,africa
+overnight tourist,mozambique,2016,1639000,pre_covid,africa
+overnight tourist,mozambique,2017,1447000,pre_covid,africa
+overnight tourist,mozambique,2018,2743000,pre_covid,africa
+overnight tourist,mozambique,2019,2019000,pre_covid,africa
+overnight tourist,mozambique,2020,952000,covid,africa
+overnight tourist,mozambique,2021,492000,covid,africa
+overnight tourist,oman,2015,1909000,pre_covid,asia
+overnight tourist,oman,2016,2335000,pre_covid,asia
+overnight tourist,oman,2017,2316000,pre_covid,asia
+overnight tourist,oman,2018,2301000,pre_covid,asia
+overnight tourist,oman,2019,2500000,pre_covid,asia
+overnight tourist,oman,2020,622400,covid,asia
+overnight tourist,oman,2021,464000,covid,asia
+overnight tourist,oman,2022,2105580,post_covid,asia
+overnight tourist,oman,2023,2849060,post_covid,asia
+overnight tourist,oman,2024,2659001,post_covid,asia
+overnight tourist,namibia,2015,1388000,pre_covid,africa
+overnight tourist,namibia,2016,1469000,pre_covid,africa
+overnight tourist,namibia,2017,1499000,pre_covid,africa
+overnight tourist,namibia,2018,1557000,pre_covid,africa
+overnight tourist,namibia,2019,1596000,pre_covid,africa
+overnight tourist,namibia,2020,169600,covid,africa
+overnight tourist,namibia,2021,232800,covid,africa
+overnight tourist,namibia,2022,461000,post_covid,africa
+overnight tourist,namibia,2023,864000,post_covid,africa
+overnight tourist,nepal,2015,539000,pre_covid,asia
+overnight tourist,nepal,2016,753000,pre_covid,asia
+overnight tourist,nepal,2017,940000,pre_covid,asia
+overnight tourist,nepal,2018,1173000,pre_covid,asia
+overnight tourist,nepal,2019,1197000,pre_covid,asia
+overnight tourist,nepal,2020,230000,covid,asia
+overnight tourist,nepal,2021,151000,covid,asia
+overnight tourist,nepal,2022,614800,post_covid,asia
+overnight tourist,netherlands,2015,15007000,pre_covid,europe
+overnight tourist,netherlands,2016,15828000,pre_covid,europe
+overnight tourist,netherlands,2017,17924000,pre_covid,europe
+overnight tourist,netherlands,2018,18780000,pre_covid,europe
+overnight tourist,netherlands,2019,20129000,pre_covid,europe
+overnight tourist,netherlands,2020,7265000,covid,europe
+overnight tourist,netherlands,2021,6248000,covid,europe
+overnight tourist,netherlands,2022,16063000,post_covid,europe
+overnight tourist,curaçao,2015,468000,pre_covid,central america and caribbean
+overnight tourist,curaçao,2016,441000,pre_covid,central america and caribbean
+overnight tourist,curaçao,2017,399000,pre_covid,central america and caribbean
+overnight tourist,curaçao,2018,432000,pre_covid,central america and caribbean
+overnight tourist,curaçao,2019,464000,pre_covid,central america and caribbean
+overnight tourist,curaçao,2020,175000,covid,central america and caribbean
+overnight tourist,curaçao,2021,265000,covid,central america and caribbean
+overnight tourist,curaçao,2022,489600,post_covid,central america and caribbean
+overnight tourist,aruba,2015,1225000,pre_covid,central america and caribbean
+overnight tourist,aruba,2016,1102000,pre_covid,central america and caribbean
+overnight tourist,aruba,2017,1070500,pre_covid,central america and caribbean
+overnight tourist,aruba,2018,1082000,pre_covid,central america and caribbean
+overnight tourist,aruba,2019,1119000,pre_covid,central america and caribbean
+overnight tourist,aruba,2020,368000,covid,central america and caribbean
+overnight tourist,aruba,2021,807000,covid,central america and caribbean
+overnight tourist,aruba,2022,1101000,post_covid,central america and caribbean
+overnight tourist,saint maarten (dutch part),2015,505000,pre_covid,central america and caribbean
+overnight tourist,saint maarten (dutch part),2016,528000,pre_covid,central america and caribbean
+overnight tourist,saint maarten (dutch part),2017,402000,pre_covid,central america and caribbean
+overnight tourist,saint maarten (dutch part),2018,178000,pre_covid,central america and caribbean
+overnight tourist,saint maarten (dutch part),2019,320000,pre_covid,central america and caribbean
+overnight tourist,saint maarten (dutch part),2020,106000,covid,central america and caribbean
+overnight tourist,saint maarten (dutch part),2021,249000,covid,central america and caribbean
+overnight tourist,saint maarten (dutch part),2022,373000,post_covid,central america and caribbean
+overnight tourist,new caledonia,2015,114000,pre_covid,oceania
+overnight tourist,new caledonia,2016,116000,pre_covid,oceania
+overnight tourist,new caledonia,2017,121000,pre_covid,oceania
+overnight tourist,new caledonia,2018,120000,pre_covid,oceania
+overnight tourist,new caledonia,2019,131000,pre_covid,oceania
+overnight tourist,new caledonia,2020,32136,covid,oceania
+overnight tourist,new caledonia,2021,13825,covid,oceania
+overnight tourist,new caledonia,2022,78748,post_covid,oceania
+overnight tourist,new caledonia,2023,125097,post_covid,oceania
+overnight tourist,new caledonia,2024,59399,post_covid,oceania
+overnight tourist,vanuatu,2015,90000,pre_covid,oceania
+overnight tourist,vanuatu,2016,95100,pre_covid,oceania
+overnight tourist,vanuatu,2017,109200,pre_covid,oceania
+overnight tourist,vanuatu,2018,115600,pre_covid,oceania
+overnight tourist,vanuatu,2019,120600,pre_covid,oceania
+overnight tourist,vanuatu,2020,22000,covid,oceania
+overnight tourist,vanuatu,2022,30000,post_covid,oceania
+overnight tourist,new zealand,2015,3039000,pre_covid,oceania
+overnight tourist,new zealand,2016,3370000,pre_covid,oceania
+overnight tourist,new zealand,2017,3555000,pre_covid,oceania
+overnight tourist,new zealand,2018,3686000,pre_covid,oceania
+overnight tourist,new zealand,2019,3702000,pre_covid,oceania
+overnight tourist,new zealand,2020,948612,covid,oceania
+overnight tourist,new zealand,2021,204882,covid,oceania
+overnight tourist,new zealand,2022,1389056,post_covid,oceania
+overnight tourist,new zealand,2023,2827557,post_covid,oceania
+overnight tourist,new zealand,2024,3175839,post_covid,oceania
+overnight tourist,nicaragua,2015,1386000,pre_covid,central america and caribbean
+overnight tourist,nicaragua,2016,1504000,pre_covid,central america and caribbean
+overnight tourist,nicaragua,2017,1787000,pre_covid,central america and caribbean
+overnight tourist,nicaragua,2018,1256000,pre_covid,central america and caribbean
+overnight tourist,nicaragua,2019,1295000,pre_covid,central america and caribbean
+overnight tourist,nicaragua,2020,384000,covid,central america and caribbean
+overnight tourist,nicaragua,2021,222400,covid,central america and caribbean
+overnight tourist,nicaragua,2022,817900,post_covid,central america and caribbean
+overnight tourist,niger,2015,135000,pre_covid,africa
+overnight tourist,niger,2016,152000,pre_covid,africa
+overnight tourist,niger,2017,164000,pre_covid,africa
+overnight tourist,niger,2018,157000,pre_covid,africa
+overnight tourist,niger,2019,192000,pre_covid,africa
+overnight tourist,niger,2020,85000,covid,africa
+overnight tourist,nigeria,2015,1255000,pre_covid,africa
+overnight tourist,nigeria,2016,1889000,pre_covid,africa
+overnight tourist,nigeria,2017,1927000,pre_covid,africa
+overnight tourist,nigeria,2018,1966000,pre_covid,africa
+overnight tourist,nigeria,2019,2005000,pre_covid,africa
+overnight tourist,nigeria,2020,502000,covid,africa
+overnight tourist,nigeria,2021,518000,covid,africa
+overnight tourist,nigeria,2022,528360,post_covid,africa
+overnight tourist,nigeria,2023,528360,post_covid,africa
+overnight tourist,nigeria,2024,538927,post_covid,africa
+overnight tourist,niue,2015,7700,pre_covid,oceania
+overnight tourist,niue,2016,8900,pre_covid,oceania
+overnight tourist,niue,2017,9800,pre_covid,oceania
+overnight tourist,niue,2018,10500,pre_covid,oceania
+overnight tourist,niue,2019,10200,pre_covid,oceania
+overnight tourist,niue,2020,1300,covid,oceania
+overnight tourist,niue,2021,200,covid,oceania
+overnight tourist,norway,2015,5361000,pre_covid,europe
+overnight tourist,norway,2016,5960000,pre_covid,europe
+overnight tourist,norway,2017,6252000,pre_covid,europe
+overnight tourist,norway,2018,5688000,pre_covid,europe
+overnight tourist,norway,2019,5879000,pre_covid,europe
+overnight tourist,norway,2020,1397000,covid,europe
+overnight tourist,norway,2021,1435000,covid,europe
+overnight tourist,norway,2022,4979400,post_covid,europe
+overnight tourist,northern mariana islands,2015,475100,pre_covid,oceania
+overnight tourist,northern mariana islands,2016,526000,pre_covid,oceania
+overnight tourist,northern mariana islands,2017,656000,pre_covid,oceania
+overnight tourist,northern mariana islands,2018,517000,pre_covid,oceania
+overnight tourist,northern mariana islands,2019,484000,pre_covid,oceania
+overnight tourist,northern mariana islands,2020,87000,covid,oceania
+overnight tourist,northern mariana islands,2021,12200,covid,oceania
+overnight tourist,northern mariana islands,2022,96100,post_covid,oceania
+overnight tourist,micronesia,2015,31200,pre_covid,oceania
+overnight tourist,micronesia,2016,29600,pre_covid,oceania
+overnight tourist,micronesia,2018,19200,pre_covid,oceania
+overnight tourist,micronesia,2019,18000,pre_covid,oceania
+overnight tourist,marshall islands,2015,6300,pre_covid,oceania
+overnight tourist,marshall islands,2016,5400,pre_covid,oceania
+overnight tourist,marshall islands,2017,6000,pre_covid,oceania
+overnight tourist,marshall islands,2018,6800,pre_covid,oceania
+overnight tourist,marshall islands,2019,6100,pre_covid,oceania
+overnight tourist,marshall islands,2020,1200,covid,oceania
+overnight tourist,marshall islands,2021,35,covid,oceania
+overnight tourist,palau,2015,162000,pre_covid,oceania
+overnight tourist,palau,2016,138000,pre_covid,oceania
+overnight tourist,palau,2017,123000,pre_covid,oceania
+overnight tourist,palau,2018,106000,pre_covid,oceania
+overnight tourist,palau,2019,94000,pre_covid,oceania
+overnight tourist,palau,2020,18400,covid,oceania
+overnight tourist,panama,2015,2110000,pre_covid,central america and caribbean
+overnight tourist,panama,2016,1921000,pre_covid,central america and caribbean
+overnight tourist,panama,2017,1843000,pre_covid,central america and caribbean
+overnight tourist,panama,2018,1785000,pre_covid,central america and caribbean
+overnight tourist,panama,2019,1753000,pre_covid,central america and caribbean
+overnight tourist,panama,2020,414000,covid,central america and caribbean
+overnight tourist,panama,2021,618000,covid,central america and caribbean
+overnight tourist,panama,2022,1488000,post_covid,central america and caribbean
+overnight tourist,papua new guinea,2015,183000,pre_covid,oceania
+overnight tourist,papua new guinea,2016,179000,pre_covid,oceania
+overnight tourist,papua new guinea,2017,139000,pre_covid,oceania
+overnight tourist,papua new guinea,2018,140000,pre_covid,oceania
+overnight tourist,papua new guinea,2019,160000,pre_covid,oceania
+overnight tourist,papua new guinea,2020,39000,covid,oceania
+overnight tourist,papua new guinea,2021,17000,covid,oceania
+overnight tourist,papua new guinea,2022,66800,post_covid,oceania
+overnight tourist,paraguay,2015,1215000,pre_covid,south america
+overnight tourist,paraguay,2016,1308000,pre_covid,south america
+overnight tourist,paraguay,2017,1584000,pre_covid,south america
+overnight tourist,paraguay,2018,1181000,pre_covid,south america
+overnight tourist,paraguay,2019,1216000,pre_covid,south america
+overnight tourist,paraguay,2020,252000,covid,south america
+overnight tourist,paraguay,2021,95000,covid,south america
+overnight tourist,paraguay,2022,579400,post_covid,south america
+overnight tourist,paraguay,2023,864000,post_covid,south america
+overnight tourist,paraguay,2024,1061000,post_covid,south america
+overnight tourist,peru,2015,3456000,pre_covid,south america
+overnight tourist,peru,2016,3744000,pre_covid,south america
+overnight tourist,peru,2017,4032000,pre_covid,south america
+overnight tourist,peru,2018,4419000,pre_covid,south america
+overnight tourist,peru,2019,4372000,pre_covid,south america
+overnight tourist,peru,2020,897000,covid,south america
+overnight tourist,peru,2021,444000,covid,south america
+overnight tourist,peru,2022,2009300,post_covid,south america
+overnight tourist,philippines,2015,5361000,pre_covid,asia
+overnight tourist,philippines,2016,5967000,pre_covid,asia
+overnight tourist,philippines,2017,6621000,pre_covid,asia
+overnight tourist,philippines,2018,7168000,pre_covid,asia
+overnight tourist,philippines,2019,8261000,pre_covid,asia
+overnight tourist,philippines,2020,1483000,covid,asia
+overnight tourist,philippines,2021,164000,covid,asia
+overnight tourist,philippines,2022,2654000,post_covid,asia
+overnight tourist,poland,2015,16728000,pre_covid,europe
+overnight tourist,poland,2016,17471000,pre_covid,europe
+overnight tourist,poland,2017,18258000,pre_covid,europe
+overnight tourist,poland,2018,19622000,pre_covid,europe
+overnight tourist,poland,2019,21158000,pre_covid,europe
+overnight tourist,poland,2020,8418000,covid,europe
+overnight tourist,poland,2021,9722000,covid,europe
+overnight tourist,poland,2022,15948000,post_covid,europe
+overnight tourist,poland,2023,18987000,post_covid,europe
+overnight tourist,poland,2024,19723000,post_covid,europe
+overnight tourist,portugal,2015,11723000,pre_covid,europe
+overnight tourist,portugal,2016,13359000,pre_covid,europe
+overnight tourist,portugal,2017,15432000,pre_covid,europe
+overnight tourist,portugal,2018,16186000,pre_covid,europe
+overnight tourist,portugal,2019,17283000,pre_covid,europe
+overnight tourist,portugal,2020,6480000,covid,europe
+overnight tourist,portugal,2021,9617000,covid,europe
+overnight tourist,portugal,2022,22254000,post_covid,europe
+overnight tourist,portugal,2023,26504000,post_covid,europe
+overnight tourist,portugal,2024,28970000,post_covid,europe
+overnight tourist,guinea-bissau,2015,43800,pre_covid,africa
+overnight tourist,guinea-bissau,2016,45200,pre_covid,africa
+overnight tourist,guinea-bissau,2017,49500,pre_covid,africa
+overnight tourist,guinea-bissau,2018,55000,pre_covid,africa
+overnight tourist,guinea-bissau,2019,52400,pre_covid,africa
+overnight tourist,timor-leste,2015,61600,pre_covid,asia
+overnight tourist,timor-leste,2016,65600,pre_covid,asia
+overnight tourist,timor-leste,2017,73900,pre_covid,asia
+overnight tourist,timor-leste,2018,74600,pre_covid,asia
+overnight tourist,timor-leste,2019,80800,pre_covid,asia
+overnight tourist,timor-leste,2020,17900,covid,asia
+overnight tourist,timor-leste,2021,5500,covid,asia
+overnight tourist,puerto rico,2015,3542000,pre_covid,central america and caribbean
+overnight tourist,puerto rico,2016,3736000,pre_covid,central america and caribbean
+overnight tourist,puerto rico,2017,3513000,pre_covid,central america and caribbean
+overnight tourist,puerto rico,2018,3068000,pre_covid,central america and caribbean
+overnight tourist,puerto rico,2019,3180000,pre_covid,central america and caribbean
+overnight tourist,puerto rico,2020,2617400,covid,central america and caribbean
+overnight tourist,puerto rico,2021,2754700,covid,central america and caribbean
+overnight tourist,puerto rico,2022,4231900,post_covid,central america and caribbean
+overnight tourist,puerto rico,2023,5046200,post_covid,central america and caribbean
+overnight tourist,puerto rico,2024,5551200,post_covid,central america and caribbean
+overnight tourist,qatar,2020,581700,covid,asia
+overnight tourist,qatar,2021,610800,covid,asia
+overnight tourist,qatar,2022,2559800,post_covid,asia
+overnight tourist,réunion,2015,426000,pre_covid,africa
+overnight tourist,réunion,2016,458000,pre_covid,africa
+overnight tourist,réunion,2017,508000,pre_covid,africa
+overnight tourist,réunion,2018,535000,pre_covid,africa
+overnight tourist,réunion,2019,533600,pre_covid,africa
+overnight tourist,réunion,2020,216700,covid,africa
+overnight tourist,réunion,2021,251000,covid,africa
+overnight tourist,réunion,2022,495000,post_covid,africa
+overnight tourist,romania,2020,5022700,covid,europe
+overnight tourist,romania,2021,6788900,covid,europe
+overnight tourist,romania,2022,12696800,post_covid,europe
+overnight tourist,romania,2023,14777000,post_covid,europe
+overnight tourist,romania,2024,13353000,post_covid,europe
+overnight tourist,rwanda,2015,1217000,pre_covid,africa
+overnight tourist,rwanda,2016,1292000,pre_covid,africa
+overnight tourist,rwanda,2017,1482000,pre_covid,africa
+overnight tourist,rwanda,2018,1619000,pre_covid,africa
+overnight tourist,rwanda,2019,1544000,pre_covid,africa
+overnight tourist,rwanda,2020,460000,covid,africa
+overnight tourist,rwanda,2021,480000,covid,africa
+overnight tourist,saint kitts and nevis,2015,118000,pre_covid,central america and caribbean
+overnight tourist,saint kitts and nevis,2016,116000,pre_covid,central america and caribbean
+overnight tourist,saint kitts and nevis,2017,115000,pre_covid,central america and caribbean
+overnight tourist,saint kitts and nevis,2018,125000,pre_covid,central america and caribbean
+overnight tourist,saint kitts and nevis,2019,120000,pre_covid,central america and caribbean
+overnight tourist,saint kitts and nevis,2020,30000,covid,central america and caribbean
+overnight tourist,saint kitts and nevis,2021,20200,covid,central america and caribbean
+overnight tourist,saint kitts and nevis,2022,79800,post_covid,central america and caribbean
+overnight tourist,anguilla,2015,73000,pre_covid,central america and caribbean
+overnight tourist,anguilla,2016,79000,pre_covid,central america and caribbean
+overnight tourist,anguilla,2017,68300,pre_covid,central america and caribbean
+overnight tourist,anguilla,2018,55000,pre_covid,central america and caribbean
+overnight tourist,anguilla,2019,95000,pre_covid,central america and caribbean
+overnight tourist,anguilla,2020,25400,covid,central america and caribbean
+overnight tourist,anguilla,2021,28400,covid,central america and caribbean
+overnight tourist,anguilla,2022,74100,post_covid,central america and caribbean
+overnight tourist,saint lucia,2015,345000,pre_covid,central america and caribbean
+overnight tourist,saint lucia,2016,348000,pre_covid,central america and caribbean
+overnight tourist,saint lucia,2017,386000,pre_covid,central america and caribbean
+overnight tourist,saint lucia,2018,395000,pre_covid,central america and caribbean
+overnight tourist,saint lucia,2019,424000,pre_covid,central america and caribbean
+overnight tourist,saint lucia,2020,130699,covid,central america and caribbean
+overnight tourist,saint lucia,2021,199000,covid,central america and caribbean
+overnight tourist,saint lucia,2022,356000,post_covid,central america and caribbean
+overnight tourist,saint vincent and the grenadines,2015,75000,pre_covid,central america and caribbean
+overnight tourist,saint vincent and the grenadines,2016,79000,pre_covid,central america and caribbean
+overnight tourist,saint vincent and the grenadines,2017,76000,pre_covid,central america and caribbean
+overnight tourist,saint vincent and the grenadines,2018,80000,pre_covid,central america and caribbean
+overnight tourist,saint vincent and the grenadines,2019,84000,pre_covid,central america and caribbean
+overnight tourist,saint vincent and the grenadines,2020,27000,covid,central america and caribbean
+overnight tourist,saint vincent and the grenadines,2021,24200,covid,central america and caribbean
+overnight tourist,saint vincent and the grenadines,2022,59000,post_covid,central america and caribbean
+overnight tourist,san marino,2015,54000,pre_covid,europe
+overnight tourist,san marino,2016,60000,pre_covid,europe
+overnight tourist,san marino,2017,78000,pre_covid,europe
+overnight tourist,san marino,2018,84000,pre_covid,europe
+overnight tourist,san marino,2019,111000,pre_covid,europe
+overnight tourist,san marino,2020,58000,covid,europe
+overnight tourist,san marino,2021,94000,covid,europe
+overnight tourist,sao tome and principe,2015,25600,pre_covid,africa
+overnight tourist,sao tome and principe,2016,28900,pre_covid,africa
+overnight tourist,sao tome and principe,2017,28900,pre_covid,africa
+overnight tourist,sao tome and principe,2018,33400,pre_covid,africa
+overnight tourist,sao tome and principe,2019,34900,pre_covid,africa
+overnight tourist,sao tome and principe,2020,10700,covid,africa
+overnight tourist,sao tome and principe,2021,15100,covid,africa
+overnight tourist,saudi arabia,2015,17994000,pre_covid,asia
+overnight tourist,saudi arabia,2016,18044000,pre_covid,asia
+overnight tourist,saudi arabia,2017,16109000,pre_covid,asia
+overnight tourist,saudi arabia,2018,15334000,pre_covid,asia
+overnight tourist,saudi arabia,2019,17526000,pre_covid,asia
+overnight tourist,saudi arabia,2020,4138178,covid,asia
+overnight tourist,saudi arabia,2021,3477216,covid,asia
+overnight tourist,saudi arabia,2022,16637860,post_covid,asia
+overnight tourist,saudi arabia,2023,27423536,post_covid,asia
+overnight tourist,saudi arabia,2024,29727443,post_covid,asia
+overnight tourist,senegal,2015,1006600,pre_covid,africa
+overnight tourist,senegal,2016,1210000,pre_covid,africa
+overnight tourist,senegal,2017,1365000,pre_covid,africa
+overnight tourist,serbia,2015,1132000,pre_covid,europe
+overnight tourist,serbia,2016,1281000,pre_covid,europe
+overnight tourist,serbia,2017,1497000,pre_covid,europe
+overnight tourist,serbia,2018,1711000,pre_covid,europe
+overnight tourist,serbia,2019,1847000,pre_covid,europe
+overnight tourist,serbia,2020,446000,covid,europe
+overnight tourist,serbia,2021,871000,covid,europe
+overnight tourist,serbia,2022,1773000,post_covid,europe
+overnight tourist,serbia,2023,2134305,post_covid,europe
+overnight tourist,serbia,2024,2384735,post_covid,europe
+overnight tourist,seychelles,2015,276000,pre_covid,africa
+overnight tourist,seychelles,2016,303000,pre_covid,africa
+overnight tourist,seychelles,2017,350000,pre_covid,africa
+overnight tourist,seychelles,2018,362000,pre_covid,africa
+overnight tourist,seychelles,2019,384000,pre_covid,africa
+overnight tourist,seychelles,2020,114900,covid,africa
+overnight tourist,seychelles,2021,183000,covid,africa
+overnight tourist,seychelles,2022,332000,post_covid,africa
+overnight tourist,sierra leone,2015,24000,pre_covid,africa
+overnight tourist,sierra leone,2016,55000,pre_covid,africa
+overnight tourist,sierra leone,2017,51000,pre_covid,africa
+overnight tourist,sierra leone,2018,57000,pre_covid,africa
+overnight tourist,sierra leone,2019,63000,pre_covid,africa
+overnight tourist,sierra leone,2020,24000,covid,africa
+overnight tourist,sierra leone,2021,40000,covid,africa
+overnight tourist,singapore,2015,12052000,pre_covid,asia
+overnight tourist,singapore,2016,12913000,pre_covid,asia
+overnight tourist,singapore,2017,13903000,pre_covid,asia
+overnight tourist,singapore,2018,14673000,pre_covid,asia
+overnight tourist,singapore,2019,15119000,pre_covid,asia
+overnight tourist,singapore,2020,2086000,covid,asia
+overnight tourist,singapore,2021,325000,covid,asia
+overnight tourist,singapore,2022,5344000,post_covid,asia
+overnight tourist,singapore,2023,10812000,post_covid,asia
+overnight tourist,singapore,2024,13025000,post_covid,asia
+overnight tourist,vietnam,2015,7555000,pre_covid,asia
+overnight tourist,slovenia,2015,3022000,pre_covid,europe
+overnight tourist,slovenia,2016,3397000,pre_covid,europe
+overnight tourist,slovenia,2017,3991000,pre_covid,europe
+overnight tourist,slovenia,2018,4425000,pre_covid,europe
+overnight tourist,slovenia,2019,4702000,pre_covid,europe
+overnight tourist,slovenia,2020,1216000,covid,europe
+overnight tourist,slovenia,2021,1832000,covid,europe
+overnight tourist,slovenia,2022,3936000,post_covid,europe
+overnight tourist,slovenia,2023,4658000,post_covid,europe
+overnight tourist,slovenia,2024,5054000,post_covid,europe
+overnight tourist,south africa,2015,8904000,pre_covid,africa
+overnight tourist,south africa,2016,10044000,pre_covid,africa
+overnight tourist,south africa,2017,10285000,pre_covid,africa
+overnight tourist,south africa,2018,10472000,pre_covid,africa
+overnight tourist,south africa,2019,10227500,pre_covid,africa
+overnight tourist,south africa,2020,2802000,covid,africa
+overnight tourist,south africa,2021,2256000,covid,africa
+overnight tourist,south africa,2022,5698000,post_covid,africa
+overnight tourist,south africa,2023,8483000,post_covid,africa
+overnight tourist,south africa,2024,8919000,post_covid,africa
+overnight tourist,spain,2015,68175000,pre_covid,europe
+overnight tourist,spain,2016,75315000,pre_covid,europe
+overnight tourist,spain,2017,81869000,pre_covid,europe
+overnight tourist,spain,2018,82808000,pre_covid,europe
+overnight tourist,spain,2019,83509000,pre_covid,europe
+overnight tourist,spain,2020,18933000,covid,europe
+overnight tourist,spain,2021,31181000,covid,europe
+overnight tourist,spain,2022,71659000,post_covid,europe
+overnight tourist,spain,2023,85169050,post_covid,europe
+overnight tourist,spain,2024,93759297,post_covid,europe
+overnight tourist,sudan,2015,741000,pre_covid,africa
+overnight tourist,sudan,2016,800000,pre_covid,africa
+overnight tourist,sudan,2017,813000,pre_covid,africa
+overnight tourist,sudan,2018,836000,pre_covid,africa
+overnight tourist,suriname,2015,228000,pre_covid,south america
+overnight tourist,suriname,2016,256000,pre_covid,south america
+overnight tourist,suriname,2017,278000,pre_covid,south america
+overnight tourist,eswatini,2015,873000,pre_covid,africa
+overnight tourist,eswatini,2016,947000,pre_covid,africa
+overnight tourist,eswatini,2017,921000,pre_covid,africa
+overnight tourist,eswatini,2018,782000,pre_covid,africa
+overnight tourist,eswatini,2019,680000,pre_covid,africa
+overnight tourist,eswatini,2020,193700,covid,africa
+overnight tourist,eswatini,2021,170300,covid,africa
+overnight tourist,eswatini,2022,393000,post_covid,africa
+overnight tourist,sweden,2015,6482000,pre_covid,europe
+overnight tourist,sweden,2016,6782000,pre_covid,europe
+overnight tourist,sweden,2017,7054000,pre_covid,europe
+overnight tourist,sweden,2018,7440000,pre_covid,europe
+overnight tourist,sweden,2019,7616000,pre_covid,europe
+overnight tourist,sweden,2020,1957000,covid,europe
+overnight tourist,sweden,2021,2990000,covid,europe
+overnight tourist,sweden,2022,6629000,post_covid,europe
+overnight tourist,switzerland,2015,9305000,pre_covid,europe
+overnight tourist,switzerland,2016,10402000,pre_covid,europe
+overnight tourist,switzerland,2017,11133000,pre_covid,europe
+overnight tourist,switzerland,2018,11715000,pre_covid,europe
+overnight tourist,switzerland,2019,11818000,pre_covid,europe
+overnight tourist,switzerland,2020,3690000,covid,europe
+overnight tourist,switzerland,2021,4390000,covid,europe
+overnight tourist,switzerland,2022,9159500,post_covid,europe
+overnight tourist,thailand,2015,29923000,pre_covid,asia
+overnight tourist,thailand,2016,32530000,pre_covid,asia
+overnight tourist,thailand,2017,35592000,pre_covid,asia
+overnight tourist,thailand,2018,38178000,pre_covid,asia
+overnight tourist,thailand,2019,39916000,pre_covid,asia
+overnight tourist,thailand,2020,6725000,covid,asia
+overnight tourist,thailand,2021,511000,covid,asia
+overnight tourist,togo,2015,273000,pre_covid,africa
+overnight tourist,togo,2016,338000,pre_covid,africa
+overnight tourist,togo,2017,514000,pre_covid,africa
+overnight tourist,togo,2018,573000,pre_covid,africa
+overnight tourist,togo,2019,876000,pre_covid,africa
+overnight tourist,togo,2020,482000,covid,africa
+overnight tourist,tonga,2015,53800,pre_covid,oceania
+overnight tourist,tonga,2016,59100,pre_covid,oceania
+overnight tourist,tonga,2017,62500,pre_covid,oceania
+overnight tourist,tonga,2018,54000,pre_covid,oceania
+overnight tourist,tonga,2019,67300,pre_covid,oceania
+overnight tourist,tonga,2020,9000,covid,oceania
+overnight tourist,tonga,2021,200,covid,oceania
+overnight tourist,tonga,2022,18400,post_covid,oceania
+overnight tourist,trinidad and tobago,2015,439800,pre_covid,central america and caribbean
+overnight tourist,trinidad and tobago,2016,410000,pre_covid,central america and caribbean
+overnight tourist,trinidad and tobago,2017,394700,pre_covid,central america and caribbean
+overnight tourist,trinidad and tobago,2018,375500,pre_covid,central america and caribbean
+overnight tourist,trinidad and tobago,2019,388600,pre_covid,central america and caribbean
+overnight tourist,trinidad and tobago,2020,95300,covid,central america and caribbean
+overnight tourist,trinidad and tobago,2021,40600,covid,central america and caribbean
+overnight tourist,trinidad and tobago,2022,226500,post_covid,central america and caribbean
+overnight tourist,trinidad and tobago,2023,309000,post_covid,central america and caribbean
+overnight tourist,trinidad and tobago,2024,334000,post_covid,central america and caribbean
+overnight tourist,united arab emirates,2015,16842000,pre_covid,asia
+overnight tourist,united arab emirates,2016,18143000,pre_covid,asia
+overnight tourist,united arab emirates,2017,19168000,pre_covid,asia
+overnight tourist,united arab emirates,2018,20214000,pre_covid,asia
+overnight tourist,united arab emirates,2019,21561000,pre_covid,asia
+overnight tourist,united arab emirates,2020,7165000,covid,asia
+overnight tourist,united arab emirates,2021,11479000,covid,asia
+overnight tourist,tunisia,2015,5359000,pre_covid,africa
+overnight tourist,tunisia,2016,5724000,pre_covid,africa
+overnight tourist,tunisia,2017,7052000,pre_covid,africa
+overnight tourist,tunisia,2018,8299000,pre_covid,africa
+overnight tourist,tunisia,2019,9429000,pre_covid,africa
+overnight tourist,tunisia,2020,2012000,covid,africa
+overnight tourist,tunisia,2021,2475000,covid,africa
+overnight tourist,tunisia,2022,6441000,post_covid,africa
+overnight tourist,turkey,2015,39478000,pre_covid,asia
+overnight tourist,turkey,2016,30289000,pre_covid,asia
+overnight tourist,turkey,2017,37601000,pre_covid,asia
+overnight tourist,turkey,2018,45768000,pre_covid,asia
+overnight tourist,turkey,2019,51192000,pre_covid,asia
+overnight tourist,turkey,2020,15894000,covid,asia
+overnight tourist,turkey,2021,29925000,covid,asia
+overnight tourist,turkey,2022,50453000,post_covid,asia
+overnight tourist,turks and caicos islands,2015,386000,pre_covid,central america and caribbean
+overnight tourist,turks and caicos islands,2016,449000,pre_covid,central america and caribbean
+overnight tourist,turks and caicos islands,2017,416400,pre_covid,central america and caribbean
+overnight tourist,turks and caicos islands,2018,441000,pre_covid,central america and caribbean
+overnight tourist,turks and caicos islands,2019,487000,pre_covid,central america and caribbean
+overnight tourist,turks and caicos islands,2020,164500,covid,central america and caribbean
+overnight tourist,turks and caicos islands,2021,405000,covid,central america and caribbean
+overnight tourist,tuvalu,2015,2400,pre_covid,oceania
+overnight tourist,tuvalu,2016,2500,pre_covid,oceania
+overnight tourist,tuvalu,2017,2500,pre_covid,oceania
+overnight tourist,tuvalu,2018,3100,pre_covid,oceania
+overnight tourist,tuvalu,2019,3700,pre_covid,oceania
+overnight tourist,tuvalu,2020,600,covid,oceania
+overnight tourist,tuvalu,2021,40,covid,oceania
+overnight tourist,tuvalu,2022,244,post_covid,oceania
+overnight tourist,uganda,2015,1303000,pre_covid,africa
+overnight tourist,uganda,2016,1323000,pre_covid,africa
+overnight tourist,uganda,2017,1402000,pre_covid,africa
+overnight tourist,uganda,2018,1506000,pre_covid,africa
+overnight tourist,uganda,2019,1543000,pre_covid,africa
+overnight tourist,uganda,2020,473000,covid,africa
+overnight tourist,uganda,2021,513000,covid,africa
+overnight tourist,ukraine,2015,12428000,pre_covid,europe
+overnight tourist,ukraine,2016,13333000,pre_covid,europe
+overnight tourist,ukraine,2017,14230000,pre_covid,europe
+overnight tourist,ukraine,2018,14104000,pre_covid,europe
+overnight tourist,ukraine,2019,13438000,pre_covid,europe
+overnight tourist,ukraine,2020,3141000,covid,europe
+overnight tourist,ukraine,2021,3973000,covid,europe
+overnight tourist,ukraine,2022,2173000,post_covid,europe
+overnight tourist,ukraine,2023,2346000,post_covid,europe
+overnight tourist,ukraine,2024,2482000,post_covid,europe
+overnight tourist,north macedonia,2015,486000,pre_covid,europe
+overnight tourist,north macedonia,2016,510000,pre_covid,europe
+overnight tourist,north macedonia,2017,631000,pre_covid,europe
+overnight tourist,north macedonia,2018,707000,pre_covid,europe
+overnight tourist,north macedonia,2019,758000,pre_covid,europe
+overnight tourist,north macedonia,2020,118000,covid,europe
+overnight tourist,north macedonia,2021,294000,covid,europe
+overnight tourist,north macedonia,2022,537000,post_covid,europe
+overnight tourist,north macedonia,2023,734139,post_covid,europe
+overnight tourist,north macedonia,2024,830179,post_covid,europe
+overnight tourist,egypt,2015,9139000,pre_covid,africa
+overnight tourist,egypt,2016,5258000,pre_covid,africa
+overnight tourist,egypt,2017,8157000,pre_covid,africa
+overnight tourist,egypt,2018,11196000,pre_covid,africa
+overnight tourist,egypt,2019,12876000,pre_covid,africa
+overnight tourist,egypt,2020,3619000,covid,africa
+overnight tourist,egypt,2021,7967000,covid,africa
+overnight tourist,egypt,2022,11625000,post_covid,africa
+overnight tourist,united kingdom,2015,35149000,pre_covid,europe
+overnight tourist,united kingdom,2016,37358000,pre_covid,europe
+overnight tourist,united kingdom,2017,39543000,pre_covid,europe
+overnight tourist,united kingdom,2018,38664000,pre_covid,europe
+overnight tourist,united kingdom,2019,39418000,pre_covid,europe
+overnight tourist,united kingdom,2020,10714000,covid,europe
+overnight tourist,united kingdom,2021,6287000,covid,europe
+overnight tourist,united kingdom,2022,30741000,post_covid,europe
+overnight tourist,united kingdom,2023,37214804,post_covid,europe
+overnight tourist,united kingdom,2024,38229567,post_covid,europe
+overnight tourist,united republic of tanzania,2015,1104000,pre_covid,africa
+overnight tourist,united republic of tanzania,2016,1233000,pre_covid,africa
+overnight tourist,united republic of tanzania,2017,1275000,pre_covid,africa
+overnight tourist,united republic of tanzania,2018,1378000,pre_covid,africa
+overnight tourist,united republic of tanzania,2019,1443000,pre_covid,africa
+overnight tourist,united republic of tanzania,2020,592000,covid,africa
+overnight tourist,united republic of tanzania,2021,922700,covid,africa
+overnight tourist,united republic of tanzania,2022,1455000,post_covid,africa
+overnight tourist,united states,2015,77773526,pre_covid,north america
+overnight tourist,united states,2016,76407488,pre_covid,north america
+overnight tourist,united states,2017,77186746,pre_covid,north america
+overnight tourist,united states,2018,79745918,pre_covid,north america
+overnight tourist,united states,2019,79442000,pre_covid,north america
+overnight tourist,united states,2020,19212120,covid,north america
+overnight tourist,united states,2021,22280147,covid,north america
+overnight tourist,united states,2022,50770685,post_covid,north america
+overnight tourist,united states,2023,66349859,post_covid,north america
+overnight tourist,united states,2024,72390321,post_covid,north america
+overnight tourist,united states virgin islands,2015,642000,pre_covid,central america and caribbean
+overnight tourist,united states virgin islands,2016,667000,pre_covid,central america and caribbean
+overnight tourist,united states virgin islands,2017,535000,pre_covid,central america and caribbean
+overnight tourist,united states virgin islands,2018,381000,pre_covid,central america and caribbean
+overnight tourist,united states virgin islands,2019,514000,pre_covid,central america and caribbean
+overnight tourist,united states virgin islands,2020,302700,covid,central america and caribbean
+overnight tourist,united states virgin islands,2021,684800,covid,central america and caribbean
+overnight tourist,burkina faso,2015,163000,pre_covid,africa
+overnight tourist,burkina faso,2016,152000,pre_covid,africa
+overnight tourist,burkina faso,2017,143000,pre_covid,africa
+overnight tourist,burkina faso,2018,144000,pre_covid,africa
+overnight tourist,burkina faso,2019,143000,pre_covid,africa
+overnight tourist,burkina faso,2020,67000,covid,africa
+overnight tourist,burkina faso,2021,106000,covid,africa
+overnight tourist,burkina faso,2022,116000,post_covid,africa
+overnight tourist,burkina faso,2023,121000,post_covid,africa
+overnight tourist,burkina faso,2024,132000,post_covid,africa
+overnight tourist,uruguay,2015,2773000,pre_covid,south america
+overnight tourist,uruguay,2016,3037000,pre_covid,south america
+overnight tourist,uruguay,2017,3674000,pre_covid,south america
+overnight tourist,uruguay,2018,3469000,pre_covid,south america
+overnight tourist,uruguay,2019,3059000,pre_covid,south america
+overnight tourist,uzbekistan,2020,1504126,covid,asia
+overnight tourist,uzbekistan,2021,1881345,covid,asia
+overnight tourist,uzbekistan,2022,5232781,post_covid,asia
+overnight tourist,uzbekistan,2023,6626302,post_covid,asia
+overnight tourist,uzbekistan,2024,7957213,post_covid,asia
+overnight tourist,venezuela,2015,789000,pre_covid,south america
+overnight tourist,venezuela,2016,601000,pre_covid,south america
+overnight tourist,venezuela,2017,427000,pre_covid,south america
+overnight tourist,samoa,2015,128000,pre_covid,oceania
+overnight tourist,samoa,2016,134000,pre_covid,oceania
+overnight tourist,samoa,2017,146000,pre_covid,oceania
+overnight tourist,samoa,2018,164000,pre_covid,oceania
+overnight tourist,samoa,2019,172000,pre_covid,oceania
+overnight tourist,samoa,2020,23100,covid,oceania
+overnight tourist,samoa,2021,2600,covid,oceania
+overnight tourist,samoa,2022,49400,post_covid,oceania
+overnight tourist,yemen,2015,366700,pre_covid,asia
+overnight tourist,zambia,2015,932000,pre_covid,africa
+overnight tourist,zambia,2016,956000,pre_covid,africa
+overnight tourist,zambia,2017,1009000,pre_covid,africa
+overnight tourist,zambia,2018,1072000,pre_covid,africa
+overnight tourist,zambia,2019,1266000,pre_covid,africa
+overnight tourist,zambia,2020,502000,covid,africa
+overnight tourist,zambia,2021,554000,covid,africa
+same-day visitor,albania,2015,162000,pre_covid,europe
+same-day visitor,albania,2016,507000,pre_covid,europe
+same-day visitor,albania,2017,293000,pre_covid,europe
+same-day visitor,albania,2018,587000,pre_covid,europe
+same-day visitor,albania,2019,278000,pre_covid,europe
+same-day visitor,albania,2020,54000,covid,europe
+same-day visitor,albania,2021,174000,covid,europe
+same-day visitor,albania,2022,439100,post_covid,europe
+same-day visitor,albania,2023,415000,post_covid,europe
+same-day visitor,albania,2024,213000,post_covid,europe
+same-day visitor,american samoa,2015,26800,pre_covid,oceania
+same-day visitor,american samoa,2016,18200,pre_covid,oceania
+same-day visitor,american samoa,2017,22300,pre_covid,oceania
+same-day visitor,american samoa,2018,31600,pre_covid,oceania
+same-day visitor,american samoa,2019,39400,pre_covid,oceania
+same-day visitor,andorra,2015,5187000,pre_covid,europe
+same-day visitor,andorra,2016,5206000,pre_covid,europe
+same-day visitor,andorra,2017,5149000,pre_covid,europe
+same-day visitor,andorra,2018,5286000,pre_covid,europe
+same-day visitor,andorra,2019,5145000,pre_covid,europe
+same-day visitor,andorra,2020,3335000,covid,europe
+same-day visitor,andorra,2021,3473000,covid,europe
+same-day visitor,andorra,2022,4870600,post_covid,europe
+same-day visitor,andorra,2023,5319500,post_covid,europe
+same-day visitor,andorra,2024,5479100,post_covid,europe
+same-day visitor,azerbaijan,2015,84000,pre_covid,asia
+same-day visitor,azerbaijan,2016,204000,pre_covid,asia
+same-day visitor,azerbaijan,2017,243000,pre_covid,asia
+same-day visitor,azerbaijan,2018,216000,pre_covid,asia
+same-day visitor,azerbaijan,2019,294000,pre_covid,asia
+same-day visitor,azerbaijan,2020,209000,covid,asia
+same-day visitor,azerbaijan,2022,94000,post_covid,asia
+same-day visitor,argentina,2016,3318000,pre_covid,south america
+same-day visitor,argentina,2017,3253000,pre_covid,south america
+same-day visitor,argentina,2018,3452000,pre_covid,south america
+same-day visitor,argentina,2019,3732000,pre_covid,south america
+same-day visitor,argentina,2020,1007000,covid,south america
+same-day visitor,argentina,2021,163000,covid,south america
+same-day visitor,argentina,2022,3613000,post_covid,south america
+same-day visitor,argentina,2023,6693420,post_covid,south america
+same-day visitor,argentina,2024,4754916,post_covid,south america
+same-day visitor,bahamas,2015,4616000,pre_covid,central america and caribbean
+same-day visitor,bahamas,2016,4766000,pre_covid,central america and caribbean
+same-day visitor,bahamas,2017,4684000,pre_covid,central america and caribbean
+same-day visitor,bahamas,2018,4990000,pre_covid,central america and caribbean
+same-day visitor,bahamas,2019,5444000,pre_covid,central america and caribbean
+same-day visitor,bahamas,2020,1339270,covid,central america and caribbean
+same-day visitor,bahamas,2021,1130570,covid,central america and caribbean
+same-day visitor,bahamas,2022,5440010,post_covid,central america and caribbean
+same-day visitor,bahamas,2023,7782740,post_covid,central america and caribbean
+same-day visitor,bahamas,2024,9362896,post_covid,central america and caribbean
+same-day visitor,bahrain,2015,5706000,pre_covid,asia
+same-day visitor,bahrain,2016,6168000,pre_covid,asia
+same-day visitor,bahrain,2017,7001000,pre_covid,asia
+same-day visitor,bahrain,2018,7678000,pre_covid,asia
+same-day visitor,bahrain,2019,7212000,pre_covid,asia
+same-day visitor,bahrain,2020,1082000,covid,asia
+same-day visitor,bahrain,2021,1430000,covid,asia
+same-day visitor,bahrain,2022,6237000,post_covid,asia
+same-day visitor,bahrain,2023,6922000,post_covid,asia
+same-day visitor,bahrain,2024,8264000,post_covid,asia
+same-day visitor,barbados,2015,587000,pre_covid,central america and caribbean
+same-day visitor,barbados,2016,595000,pre_covid,central america and caribbean
+same-day visitor,barbados,2017,681000,pre_covid,central america and caribbean
+same-day visitor,barbados,2018,676000,pre_covid,central america and caribbean
+same-day visitor,barbados,2019,443000,pre_covid,central america and caribbean
+same-day visitor,barbados,2020,338400,covid,central america and caribbean
+same-day visitor,barbados,2021,97400,covid,central america and caribbean
+same-day visitor,barbados,2022,357900,post_covid,central america and caribbean
+same-day visitor,bermuda,2015,377000,pre_covid,central america and caribbean
+same-day visitor,bermuda,2016,398000,pre_covid,central america and caribbean
+same-day visitor,bermuda,2017,418000,pre_covid,central america and caribbean
+same-day visitor,bermuda,2018,484000,pre_covid,central america and caribbean
+same-day visitor,bermuda,2019,536000,pre_covid,central america and caribbean
+same-day visitor,bermuda,2020,9300,covid,central america and caribbean
+same-day visitor,bermuda,2021,14200,covid,central america and caribbean
+same-day visitor,bermuda,2022,402700,post_covid,central america and caribbean
+same-day visitor,botswana,2015,132000,pre_covid,africa
+same-day visitor,botswana,2016,138000,pre_covid,africa
+same-day visitor,botswana,2017,152000,pre_covid,africa
+same-day visitor,botswana,2018,176000,pre_covid,africa
+same-day visitor,botswana,2019,100800,pre_covid,africa
+same-day visitor,botswana,2020,29700,covid,africa
+same-day visitor,botswana,2021,24000,covid,africa
+same-day visitor,belize,2015,958000,pre_covid,central america and caribbean
+same-day visitor,belize,2016,1005000,pre_covid,central america and caribbean
+same-day visitor,belize,2017,1014000,pre_covid,central america and caribbean
+same-day visitor,belize,2018,1208000,pre_covid,central america and caribbean
+same-day visitor,belize,2019,1171000,pre_covid,central america and caribbean
+same-day visitor,belize,2020,343100,covid,central america and caribbean
+same-day visitor,belize,2021,218000,covid,central america and caribbean
+same-day visitor,british virgin islands,2015,529000,pre_covid,central america and caribbean
+same-day visitor,british virgin islands,2016,717000,pre_covid,central america and caribbean
+same-day visitor,british virgin islands,2019,592500,pre_covid,central america and caribbean
+same-day visitor,brunei darussalam,2016,25000,pre_covid,asia
+same-day visitor,brunei darussalam,2017,11000,pre_covid,asia
+same-day visitor,brunei darussalam,2018,19000,pre_covid,asia
+same-day visitor,brunei darussalam,2019,15000,pre_covid,asia
+same-day visitor,brunei darussalam,2020,1500,covid,asia
+same-day visitor,bulgaria,2015,2218000,pre_covid,europe
+same-day visitor,bulgaria,2016,2352000,pre_covid,europe
+same-day visitor,bulgaria,2017,2713000,pre_covid,europe
+same-day visitor,bulgaria,2018,3095000,pre_covid,europe
+same-day visitor,bulgaria,2019,4777000,pre_covid,europe
+same-day visitor,bulgaria,2020,3683000,covid,europe
+same-day visitor,bulgaria,2021,4888000,covid,europe
+same-day visitor,bulgaria,2022,5332000,post_covid,europe
+same-day visitor,myanmar,2023,218000,post_covid,asia
+same-day visitor,myanmar,2024,255000,post_covid,asia
+same-day visitor,belarus,2015,175000,pre_covid,europe
+same-day visitor,belarus,2016,96000,pre_covid,europe
+same-day visitor,belarus,2017,136000,pre_covid,europe
+same-day visitor,belarus,2018,198000,pre_covid,europe
+same-day visitor,belarus,2019,228000,pre_covid,europe
+same-day visitor,belarus,2020,47000,covid,europe
+same-day visitor,belarus,2021,27000,covid,europe
+same-day visitor,belarus,2022,82000,post_covid,europe
+same-day visitor,canada,2015,9578000,pre_covid,north america
+same-day visitor,canada,2016,10171000,pre_covid,north america
+same-day visitor,canada,2017,10198000,pre_covid,north america
+same-day visitor,canada,2018,10140000,pre_covid,north america
+same-day visitor,canada,2019,10284000,pre_covid,north america
+same-day visitor,canada,2020,2108000,covid,north america
+same-day visitor,canada,2021,1220000,covid,north america
+same-day visitor,canada,2022,5100000,post_covid,north america
+same-day visitor,canada,2023,8865000,post_covid,north america
+same-day visitor,canada,2024,9905000,post_covid,north america
+same-day visitor,cayman islands,2015,1717000,pre_covid,central america and caribbean
+same-day visitor,cayman islands,2016,1712000,pre_covid,central america and caribbean
+same-day visitor,cayman islands,2017,1728000,pre_covid,central america and caribbean
+same-day visitor,cayman islands,2018,1921000,pre_covid,central america and caribbean
+same-day visitor,cayman islands,2019,1831000,pre_covid,central america and caribbean
+same-day visitor,cayman islands,2020,538000,covid,central america and caribbean
+same-day visitor,cayman islands,2022,743400,post_covid,central america and caribbean
+same-day visitor,sri lanka,2015,195000,pre_covid,asia
+same-day visitor,sri lanka,2016,117000,pre_covid,asia
+same-day visitor,sri lanka,2017,131400,pre_covid,asia
+same-day visitor,sri lanka,2018,187000,pre_covid,asia
+same-day visitor,sri lanka,2019,113000,pre_covid,asia
+same-day visitor,sri lanka,2020,32000,covid,asia
+same-day visitor,sri lanka,2021,600,covid,asia
+same-day visitor,sri lanka,2022,38800,post_covid,asia
+same-day visitor,chile,2015,1009000,pre_covid,south america
+same-day visitor,chile,2016,1072000,pre_covid,south america
+same-day visitor,chile,2017,1171000,pre_covid,south america
+same-day visitor,chile,2018,880000,pre_covid,south america
+same-day visitor,chile,2019,913000,pre_covid,south america
+same-day visitor,chile,2020,191338,covid,south america
+same-day visitor,chile,2021,1545,covid,south america
+same-day visitor,chile,2022,238677,post_covid,south america
+same-day visitor,chile,2023,524527,post_covid,south america
+same-day visitor,chile,2024,598976,post_covid,south america
+same-day visitor,colombia,2015,272000,pre_covid,south america
+same-day visitor,colombia,2016,306000,pre_covid,south america
+same-day visitor,colombia,2017,345000,pre_covid,south america
+same-day visitor,colombia,2018,378000,pre_covid,south america
+same-day visitor,colombia,2019,362000,pre_covid,south america
+same-day visitor,colombia,2020,134000,covid,south america
+same-day visitor,colombia,2021,19000,covid,south america
+same-day visitor,colombia,2022,168000,post_covid,south america
+same-day visitor,congo,2015,4000,pre_covid,africa
+same-day visitor,congo,2016,2000,pre_covid,africa
+same-day visitor,congo,2017,2000,pre_covid,africa
+same-day visitor,congo,2018,2000,pre_covid,africa
+same-day visitor,costa rica,2015,239000,pre_covid,central america and caribbean
+same-day visitor,costa rica,2016,279000,pre_covid,central america and caribbean
+same-day visitor,costa rica,2017,271000,pre_covid,central america and caribbean
+same-day visitor,costa rica,2018,296000,pre_covid,central america and caribbean
+same-day visitor,costa rica,2019,239300,pre_covid,central america and caribbean
+same-day visitor,costa rica,2020,134634,covid,central america and caribbean
+same-day visitor,costa rica,2021,28738,covid,central america and caribbean
+same-day visitor,costa rica,2022,206367,post_covid,central america and caribbean
+same-day visitor,costa rica,2023,341645,post_covid,central america and caribbean
+same-day visitor,costa rica,2024,301163,post_covid,central america and caribbean
+same-day visitor,cuba,2015,34000,pre_covid,central america and caribbean
+same-day visitor,cuba,2016,34000,pre_covid,central america and caribbean
+same-day visitor,cyprus,2015,121000,pre_covid,europe
+same-day visitor,cyprus,2016,100000,pre_covid,europe
+same-day visitor,cyprus,2017,98000,pre_covid,europe
+same-day visitor,cyprus,2018,85000,pre_covid,europe
+same-day visitor,cyprus,2019,140000,pre_covid,europe
+same-day visitor,czechia,2015,17985000,pre_covid,europe
+same-day visitor,czechia,2016,19711000,pre_covid,europe
+same-day visitor,czechia,2017,21036000,pre_covid,europe
+same-day visitor,czechia,2018,21985900,pre_covid,europe
+same-day visitor,czechia,2019,22551000,pre_covid,europe
+same-day visitor,czechia,2020,6347300,covid,europe
+same-day visitor,czechia,2021,6246000,covid,europe
+same-day visitor,benin,2015,24000,pre_covid,africa
+same-day visitor,benin,2016,25000,pre_covid,africa
+same-day visitor,benin,2017,26000,pre_covid,africa
+same-day visitor,benin,2018,27000,pre_covid,africa
+same-day visitor,benin,2019,28000,pre_covid,africa
+same-day visitor,benin,2020,29000,covid,africa
+same-day visitor,denmark,2015,17785000,pre_covid,europe
+same-day visitor,denmark,2016,17911000,pre_covid,europe
+same-day visitor,denmark,2017,18310000,pre_covid,europe
+same-day visitor,denmark,2018,18052000,pre_covid,europe
+same-day visitor,denmark,2019,17340000,pre_covid,europe
+same-day visitor,denmark,2020,9802000,covid,europe
+same-day visitor,denmark,2021,10817000,covid,europe
+same-day visitor,denmark,2022,17340000,post_covid,europe
+same-day visitor,dominica,2015,283000,pre_covid,central america and caribbean
+same-day visitor,dominica,2016,278000,pre_covid,central america and caribbean
+same-day visitor,dominica,2017,158000,pre_covid,central america and caribbean
+same-day visitor,dominica,2018,136000,pre_covid,central america and caribbean
+same-day visitor,dominica,2019,232000,pre_covid,central america and caribbean
+same-day visitor,dominica,2020,118000,covid,central america and caribbean
+same-day visitor,dominica,2021,51000,covid,central america and caribbean
+same-day visitor,dominica,2022,174000,post_covid,central america and caribbean
+same-day visitor,dominican republic,2015,529000,pre_covid,central america and caribbean
+same-day visitor,dominican republic,2016,809000,pre_covid,central america and caribbean
+same-day visitor,dominican republic,2017,1108000,pre_covid,central america and caribbean
+same-day visitor,dominican republic,2018,982000,pre_covid,central america and caribbean
+same-day visitor,dominican republic,2019,1104000,pre_covid,central america and caribbean
+same-day visitor,dominican republic,2020,342872,covid,central america and caribbean
+same-day visitor,dominican republic,2021,333134,covid,central america and caribbean
+same-day visitor,dominican republic,2022,1325442,post_covid,central america and caribbean
+same-day visitor,dominican republic,2023,2258941,post_covid,central america and caribbean
+same-day visitor,dominican republic,2024,2626529,post_covid,central america and caribbean
+same-day visitor,el salvador,2015,571000,pre_covid,central america and caribbean
+same-day visitor,el salvador,2016,618000,pre_covid,central america and caribbean
+same-day visitor,el salvador,2017,691000,pre_covid,central america and caribbean
+same-day visitor,el salvador,2018,858400,pre_covid,central america and caribbean
+same-day visitor,el salvador,2019,873000,pre_covid,central america and caribbean
+same-day visitor,el salvador,2020,217000,covid,central america and caribbean
+same-day visitor,el salvador,2021,217000,covid,central america and caribbean
+same-day visitor,el salvador,2022,650000,post_covid,central america and caribbean
+same-day visitor,el salvador,2023,895079,post_covid,central america and caribbean
+same-day visitor,el salvador,2024,769805,post_covid,central america and caribbean
+same-day visitor,ethiopia,2023,829000,post_covid,africa
+same-day visitor,ethiopia,2024,725000,post_covid,africa
+same-day visitor,estonia,2015,2735000,pre_covid,europe
+same-day visitor,estonia,2016,2811000,pre_covid,europe
+same-day visitor,estonia,2017,2901000,pre_covid,europe
+same-day visitor,estonia,2018,2807000,pre_covid,europe
+same-day visitor,estonia,2019,2766000,pre_covid,europe
+same-day visitor,estonia,2020,673000,covid,europe
+same-day visitor,estonia,2021,502000,covid,europe
+same-day visitor,estonia,2022,1331000,post_covid,europe
+same-day visitor,fiji,2015,114000,pre_covid,oceania
+same-day visitor,fiji,2016,171000,pre_covid,oceania
+same-day visitor,fiji,2017,184000,pre_covid,oceania
+same-day visitor,fiji,2018,188000,pre_covid,oceania
+same-day visitor,fiji,2019,75000,pre_covid,oceania
+same-day visitor,fiji,2020,21300,covid,oceania
+same-day visitor,fiji,2022,15900,post_covid,oceania
+same-day visitor,finland,2023,462000,post_covid,europe
+same-day visitor,finland,2024,485000,post_covid,europe
+same-day visitor,france,2015,118851000,pre_covid,europe
+same-day visitor,france,2016,120360000,pre_covid,europe
+same-day visitor,france,2017,120516000,pre_covid,europe
+same-day visitor,france,2018,122676000,pre_covid,europe
+same-day visitor,france,2019,126963000,pre_covid,europe
+same-day visitor,france,2020,75424000,covid,europe
+same-day visitor,france,2021,92902000,covid,europe
+same-day visitor,french polynesia,2015,55000,pre_covid,oceania
+same-day visitor,french polynesia,2016,49000,pre_covid,oceania
+same-day visitor,french polynesia,2017,55000,pre_covid,oceania
+same-day visitor,french polynesia,2018,43600,pre_covid,oceania
+same-day visitor,french polynesia,2019,45200,pre_covid,oceania
+same-day visitor,french polynesia,2020,12000,covid,oceania
+same-day visitor,french polynesia,2021,12300,covid,oceania
+same-day visitor,french polynesia,2022,42600,post_covid,oceania
+same-day visitor,georgia,2015,2244000,pre_covid,asia
+same-day visitor,georgia,2016,2096000,pre_covid,asia
+same-day visitor,georgia,2017,2413500,pre_covid,asia
+same-day visitor,georgia,2018,2446000,pre_covid,asia
+same-day visitor,georgia,2019,2645300,pre_covid,asia
+same-day visitor,georgia,2020,426000,covid,asia
+same-day visitor,georgia,2021,144000,covid,asia
+same-day visitor,georgia,2022,1051000,post_covid,asia
+same-day visitor,georgia,2023,1502000,post_covid,asia
+same-day visitor,georgia,2024,1364000,post_covid,asia
+same-day visitor,state of palestine,2015,1622000,pre_covid,asia
+same-day visitor,state of palestine,2016,1831000,pre_covid,asia
+same-day visitor,state of palestine,2017,2263000,pre_covid,asia
+same-day visitor,state of palestine,2018,2444000,pre_covid,asia
+same-day visitor,state of palestine,2019,3122000,pre_covid,asia
+same-day visitor,state of palestine,2020,830000,covid,asia
+same-day visitor,kiribati,2015,4300,pre_covid,oceania
+same-day visitor,kiribati,2016,1900,pre_covid,oceania
+same-day visitor,kiribati,2017,1700,pre_covid,oceania
+same-day visitor,kiribati,2018,1900,pre_covid,oceania
+same-day visitor,kiribati,2019,4100,pre_covid,oceania
+same-day visitor,greece,2015,2515000,pre_covid,europe
+same-day visitor,greece,2016,3271000,pre_covid,europe
+same-day visitor,greece,2017,2967000,pre_covid,europe
+same-day visitor,greece,2018,2949000,pre_covid,europe
+same-day visitor,greece,2019,2656200,pre_covid,europe
+same-day visitor,greece,2020,31400,covid,europe
+same-day visitor,greece,2021,541000,covid,europe
+same-day visitor,greece,2022,2040000,post_covid,europe
+same-day visitor,grenada,2015,282000,pre_covid,central america and caribbean
+same-day visitor,grenada,2016,318000,pre_covid,central america and caribbean
+same-day visitor,grenada,2017,300000,pre_covid,central america and caribbean
+same-day visitor,grenada,2018,343000,pre_covid,central america and caribbean
+same-day visitor,grenada,2019,338000,pre_covid,central america and caribbean
+same-day visitor,grenada,2020,162500,covid,central america and caribbean
+same-day visitor,grenada,2021,25000,covid,central america and caribbean
+same-day visitor,grenada,2022,185800,post_covid,central america and caribbean
+same-day visitor,guadeloupe,2015,310000,pre_covid,central america and caribbean
+same-day visitor,guadeloupe,2016,276000,pre_covid,central america and caribbean
+same-day visitor,guadeloupe,2017,320000,pre_covid,central america and caribbean
+same-day visitor,guadeloupe,2018,431000,pre_covid,central america and caribbean
+same-day visitor,guatemala,2015,392000,pre_covid,central america and caribbean
+same-day visitor,guatemala,2016,321000,pre_covid,central america and caribbean
+same-day visitor,guatemala,2017,454000,pre_covid,central america and caribbean
+same-day visitor,guatemala,2018,625000,pre_covid,central america and caribbean
+same-day visitor,guatemala,2019,807200,pre_covid,central america and caribbean
+same-day visitor,guatemala,2020,198300,covid,central america and caribbean
+same-day visitor,guatemala,2021,63900,covid,central america and caribbean
+same-day visitor,guatemala,2022,350700,post_covid,central america and caribbean
+same-day visitor,haiti,2015,674000,pre_covid,central america and caribbean
+same-day visitor,haiti,2016,708000,pre_covid,central america and caribbean
+same-day visitor,haiti,2017,795000,pre_covid,central america and caribbean
+same-day visitor,haiti,2018,885000,pre_covid,central america and caribbean
+same-day visitor,haiti,2019,652000,pre_covid,central america and caribbean
+same-day visitor,haiti,2020,119000,covid,central america and caribbean
+same-day visitor,honduras,2015,1212000,pre_covid,central america and caribbean
+same-day visitor,honduras,2016,1390000,pre_covid,central america and caribbean
+same-day visitor,honduras,2017,1294000,pre_covid,central america and caribbean
+same-day visitor,honduras,2018,1477000,pre_covid,central america and caribbean
+same-day visitor,honduras,2019,1590000,pre_covid,central america and caribbean
+same-day visitor,honduras,2020,465000,covid,central america and caribbean
+same-day visitor,honduras,2021,367000,covid,central america and caribbean
+same-day visitor,honduras,2022,1067000,post_covid,central america and caribbean
+same-day visitor,"china, hong kong",2015,32622000,pre_covid,asia
+same-day visitor,"china, hong kong",2016,30102000,pre_covid,asia
+same-day visitor,"china, hong kong",2017,30588000,pre_covid,asia
+same-day visitor,"china, hong kong",2018,35885000,pre_covid,asia
+same-day visitor,"china, hong kong",2019,32160000,pre_covid,asia
+same-day visitor,"china, hong kong",2020,2210000,covid,asia
+same-day visitor,"china, hong kong",2021,2000,covid,asia
+same-day visitor,"china, hong kong",2022,36800,post_covid,asia
+same-day visitor,"china, hong kong",2023,16840300,post_covid,asia
+same-day visitor,"china, hong kong",2024,22558900,post_covid,asia
+same-day visitor,hungary,2015,34029000,pre_covid,europe
+same-day visitor,hungary,2016,37635000,pre_covid,europe
+same-day visitor,hungary,2017,39176000,pre_covid,europe
+same-day visitor,hungary,2018,40115000,pre_covid,europe
+same-day visitor,hungary,2019,44460000,pre_covid,europe
+same-day visitor,hungary,2020,24224000,covid,europe
+same-day visitor,hungary,2021,28758400,covid,europe
+same-day visitor,hungary,2022,33694000,post_covid,europe
+same-day visitor,hungary,2023,36469000,post_covid,europe
+same-day visitor,hungary,2024,38020000,post_covid,europe
+same-day visitor,iceland,2015,100000,pre_covid,europe
+same-day visitor,iceland,2016,99000,pre_covid,europe
+same-day visitor,iceland,2017,128000,pre_covid,europe
+same-day visitor,iceland,2018,144700,pre_covid,europe
+same-day visitor,iceland,2019,189000,pre_covid,europe
+same-day visitor,iceland,2020,1300,covid,europe
+same-day visitor,iceland,2021,19000,covid,europe
+same-day visitor,india,2019,160000,pre_covid,asia
+same-day visitor,india,2020,46000,covid,asia
+same-day visitor,india,2021,21000,covid,asia
+same-day visitor,india,2022,63000,post_covid,asia
+same-day visitor,india,2023,116000,post_covid,asia
+same-day visitor,india,2024,128000,post_covid,asia
+same-day visitor,indonesia,2015,444000,pre_covid,asia
+same-day visitor,indonesia,2016,447000,pre_covid,asia
+same-day visitor,indonesia,2017,1092000,pre_covid,asia
+same-day visitor,indonesia,2018,2414000,pre_covid,asia
+same-day visitor,indonesia,2019,652000,pre_covid,asia
+same-day visitor,indonesia,2020,137400,covid,asia
+same-day visitor,indonesia,2021,11200,covid,asia
+same-day visitor,indonesia,2022,125000,post_covid,asia
+same-day visitor,indonesia,2023,295000,post_covid,asia
+same-day visitor,indonesia,2024,299000,post_covid,asia
+same-day visitor,iran,2021,107000,covid,asia
+same-day visitor,ireland,2015,894000,pre_covid,europe
+same-day visitor,ireland,2016,1157000,pre_covid,europe
+same-day visitor,ireland,2017,1205000,pre_covid,europe
+same-day visitor,ireland,2018,1340000,pre_covid,europe
+same-day visitor,ireland,2019,1450000,pre_covid,europe
+same-day visitor,israel,2015,309000,pre_covid,asia
+same-day visitor,israel,2016,170000,pre_covid,asia
+same-day visitor,israel,2017,250000,pre_covid,asia
+same-day visitor,israel,2018,269000,pre_covid,asia
+same-day visitor,israel,2019,353000,pre_covid,asia
+same-day visitor,israel,2020,56000,covid,asia
+same-day visitor,israel,2021,6000,covid,asia
+same-day visitor,israel,2022,176000,post_covid,asia
+same-day visitor,israel,2023,229000,post_covid,asia
+same-day visitor,israel,2024,13000,post_covid,asia
+same-day visitor,italy,2015,30336000,pre_covid,europe
+same-day visitor,italy,2016,32552000,pre_covid,europe
+same-day visitor,italy,2017,31678000,pre_covid,europe
+same-day visitor,italy,2018,31661400,pre_covid,europe
+same-day visitor,italy,2019,30886000,pre_covid,europe
+same-day visitor,italy,2020,13229000,covid,europe
+same-day visitor,italy,2021,13298000,covid,europe
+same-day visitor,italy,2022,24506000,post_covid,europe
+same-day visitor,italy,2023,28078000,post_covid,europe
+same-day visitor,italy,2024,30539000,post_covid,europe
+same-day visitor,jamaica,2015,1569000,pre_covid,central america and caribbean
+same-day visitor,jamaica,2016,1655600,pre_covid,central america and caribbean
+same-day visitor,jamaica,2017,1923000,pre_covid,central america and caribbean
+same-day visitor,jamaica,2018,1846000,pre_covid,central america and caribbean
+same-day visitor,jamaica,2019,1553000,pre_covid,central america and caribbean
+same-day visitor,jamaica,2020,449300,covid,central america and caribbean
+same-day visitor,jamaica,2021,71000,covid,central america and caribbean
+same-day visitor,jamaica,2022,852300,post_covid,central america and caribbean
+same-day visitor,jordan,2015,1048000,pre_covid,asia
+same-day visitor,jordan,2016,669000,pre_covid,asia
+same-day visitor,jordan,2017,721600,pre_covid,asia
+same-day visitor,jordan,2018,772000,pre_covid,asia
+same-day visitor,jordan,2019,872200,pre_covid,asia
+same-day visitor,jordan,2020,173000,covid,asia
+same-day visitor,jordan,2021,347000,covid,asia
+same-day visitor,jordan,2022,772400,post_covid,asia
+same-day visitor,jordan,2023,1008000,post_covid,asia
+same-day visitor,jordan,2024,891000,post_covid,asia
+same-day visitor,kenya,2015,66000,pre_covid,africa
+same-day visitor,kenya,2016,72000,pre_covid,africa
+same-day visitor,kenya,2017,85000,pre_covid,africa
+same-day visitor,south korea,2015,1046000,pre_covid,asia
+same-day visitor,south korea,2016,2258000,pre_covid,asia
+same-day visitor,south korea,2017,505000,pre_covid,asia
+same-day visitor,south korea,2018,218000,pre_covid,asia
+same-day visitor,south korea,2019,279000,pre_covid,asia
+same-day visitor,south korea,2020,3000,covid,asia
+same-day visitor,lao people's democratic republic,2015,1141000,pre_covid,asia
+same-day visitor,lao people's democratic republic,2016,924000,pre_covid,asia
+same-day visitor,lao people's democratic republic,2017,612000,pre_covid,asia
+same-day visitor,lao people's democratic republic,2018,417000,pre_covid,asia
+same-day visitor,lao people's democratic republic,2019,407000,pre_covid,asia
+same-day visitor,lao people's democratic republic,2020,74800,covid,asia
+same-day visitor,latvia,2015,4818000,pre_covid,europe
+same-day visitor,latvia,2016,5004000,pre_covid,europe
+same-day visitor,latvia,2017,5777000,pre_covid,europe
+same-day visitor,latvia,2018,5829000,pre_covid,europe
+same-day visitor,latvia,2019,6408000,pre_covid,europe
+same-day visitor,latvia,2020,2568000,covid,europe
+same-day visitor,latvia,2021,1459000,covid,europe
+same-day visitor,lithuania,2015,2977000,pre_covid,europe
+same-day visitor,lithuania,2016,3026000,pre_covid,europe
+same-day visitor,lithuania,2017,3067000,pre_covid,europe
+same-day visitor,lithuania,2018,3290000,pre_covid,europe
+same-day visitor,lithuania,2019,3275000,pre_covid,europe
+same-day visitor,lithuania,2020,1347600,covid,europe
+same-day visitor,lithuania,2021,1148300,covid,europe
+same-day visitor,lithuania,2022,2556200,post_covid,europe
+same-day visitor,lithuania,2023,3125400,post_covid,europe
+same-day visitor,lithuania,2024,2651200,post_covid,europe
+same-day visitor,"china, macao special administrative region",2015,16407000,pre_covid,asia
+same-day visitor,"china, macao special administrative region",2016,15246700,pre_covid,asia
+same-day visitor,"china, macao special administrative region",2017,15356000,pre_covid,asia
+same-day visitor,"china, macao special administrative region",2018,17311000,pre_covid,asia
+same-day visitor,"china, macao special administrative region",2019,20773000,pre_covid,asia
+same-day visitor,"china, macao special administrative region",2020,3074811,covid,asia
+same-day visitor,"china, macao special administrative region",2021,4009143,covid,asia
+same-day visitor,"china, macao special administrative region",2022,3216311,post_covid,asia
+same-day visitor,"china, macao special administrative region",2023,13985774,post_covid,asia
+same-day visitor,"china, macao special administrative region",2024,18884882,post_covid,asia
+same-day visitor,madagascar,2015,38000,pre_covid,africa
+same-day visitor,madagascar,2016,40000,pre_covid,africa
+same-day visitor,madagascar,2017,30000,pre_covid,africa
+same-day visitor,madagascar,2018,69000,pre_covid,africa
+same-day visitor,madagascar,2019,102000,pre_covid,africa
+same-day visitor,madagascar,2020,18800,covid,africa
+same-day visitor,malaysia,2019,8945000,pre_covid,asia
+same-day visitor,malaysia,2020,1769000,covid,asia
+same-day visitor,malaysia,2021,265000,covid,asia
+same-day visitor,malaysia,2022,8945000,post_covid,asia
+same-day visitor,martinique,2015,274000,pre_covid,central america and caribbean
+same-day visitor,martinique,2016,323000,pre_covid,central america and caribbean
+same-day visitor,martinique,2017,467000,pre_covid,central america and caribbean
+same-day visitor,martinique,2018,465000,pre_covid,central america and caribbean
+same-day visitor,martinique,2019,363000,pre_covid,central america and caribbean
+same-day visitor,martinique,2020,211300,covid,central america and caribbean
+same-day visitor,martinique,2021,21200,covid,central america and caribbean
+same-day visitor,martinique,2022,105000,post_covid,central america and caribbean
+same-day visitor,mauritius,2015,22600,pre_covid,africa
+same-day visitor,mauritius,2016,32000,pre_covid,africa
+same-day visitor,mauritius,2017,30000,pre_covid,africa
+same-day visitor,mauritius,2018,32000,pre_covid,africa
+same-day visitor,mauritius,2019,35000,pre_covid,africa
+same-day visitor,mauritius,2020,7000,covid,africa
+same-day visitor,mauritius,2021,500,covid,africa
+same-day visitor,mauritius,2022,5900,post_covid,africa
+same-day visitor,mauritius,2023,22000,post_covid,africa
+same-day visitor,mauritius,2024,41000,post_covid,africa
+same-day visitor,mexico,2015,55035000,pre_covid,north america
+same-day visitor,mexico,2016,59774000,pre_covid,north america
+same-day visitor,mexico,2017,60058000,pre_covid,north america
+same-day visitor,mexico,2018,55184000,pre_covid,north america
+same-day visitor,mexico,2019,52382000,pre_covid,north america
+same-day visitor,mexico,2020,26844506,covid,north america
+same-day visitor,mexico,2021,23441029,covid,north america
+same-day visitor,mexico,2022,27668948,post_covid,north america
+same-day visitor,mexico,2023,32868318,post_covid,north america
+same-day visitor,mexico,2024,41373730,post_covid,north america
+same-day visitor,monaco,2015,255000,pre_covid,europe
+same-day visitor,monaco,2016,182000,pre_covid,europe
+same-day visitor,monaco,2017,166000,pre_covid,europe
+same-day visitor,monaco,2018,169000,pre_covid,europe
+same-day visitor,monaco,2019,182000,pre_covid,europe
+same-day visitor,monaco,2020,1100,covid,europe
+same-day visitor,monaco,2022,54500,post_covid,europe
+same-day visitor,montserrat,2015,4300,pre_covid,central america and caribbean
+same-day visitor,montserrat,2016,4800,pre_covid,central america and caribbean
+same-day visitor,montserrat,2017,9000,pre_covid,central america and caribbean
+same-day visitor,montserrat,2018,6500,pre_covid,central america and caribbean
+same-day visitor,montserrat,2019,8900,pre_covid,central america and caribbean
+same-day visitor,montserrat,2020,3100,covid,central america and caribbean
+same-day visitor,morocco,2015,365000,pre_covid,africa
+same-day visitor,morocco,2016,345000,pre_covid,africa
+same-day visitor,morocco,2017,191000,pre_covid,africa
+same-day visitor,morocco,2018,200000,pre_covid,africa
+same-day visitor,morocco,2019,177000,pre_covid,africa
+same-day visitor,morocco,2020,24000,covid,africa
+same-day visitor,morocco,2022,99000,post_covid,africa
+same-day visitor,mozambique,2015,82000,pre_covid,africa
+same-day visitor,mozambique,2016,76000,pre_covid,africa
+same-day visitor,mozambique,2017,67000,pre_covid,africa
+same-day visitor,mozambique,2018,127000,pre_covid,africa
+same-day visitor,mozambique,2019,14000,pre_covid,africa
+same-day visitor,mozambique,2020,7000,covid,africa
+same-day visitor,mozambique,2021,57000,covid,africa
+same-day visitor,oman,2015,725000,pre_covid,asia
+same-day visitor,oman,2016,872000,pre_covid,asia
+same-day visitor,oman,2017,863000,pre_covid,asia
+same-day visitor,oman,2018,941000,pre_covid,asia
+same-day visitor,oman,2019,1006000,pre_covid,asia
+same-day visitor,oman,2020,246200,covid,asia
+same-day visitor,oman,2021,188000,covid,asia
+same-day visitor,oman,2022,876735,post_covid,asia
+same-day visitor,oman,2023,1142562,post_covid,asia
+same-day visitor,oman,2024,1238146,post_covid,asia
+same-day visitor,namibia,2015,100000,pre_covid,africa
+same-day visitor,namibia,2016,82000,pre_covid,africa
+same-day visitor,namibia,2017,82000,pre_covid,africa
+same-day visitor,namibia,2018,82000,pre_covid,africa
+same-day visitor,namibia,2019,55000,pre_covid,africa
+same-day visitor,namibia,2020,17600,covid,africa
+same-day visitor,namibia,2021,28600,covid,africa
+same-day visitor,namibia,2022,67000,post_covid,africa
+same-day visitor,namibia,2023,148000,post_covid,africa
+same-day visitor,curaçao,2015,604000,pre_covid,central america and caribbean
+same-day visitor,curaçao,2016,502000,pre_covid,central america and caribbean
+same-day visitor,curaçao,2017,659000,pre_covid,central america and caribbean
+same-day visitor,curaçao,2018,778000,pre_covid,central america and caribbean
+same-day visitor,curaçao,2019,829000,pre_covid,central america and caribbean
+same-day visitor,curaçao,2020,261000,covid,central america and caribbean
+same-day visitor,curaçao,2021,153400,covid,central america and caribbean
+same-day visitor,curaçao,2022,544600,post_covid,central america and caribbean
+same-day visitor,aruba,2015,607000,pre_covid,central america and caribbean
+same-day visitor,aruba,2016,656000,pre_covid,central america and caribbean
+same-day visitor,aruba,2017,792400,pre_covid,central america and caribbean
+same-day visitor,aruba,2018,815000,pre_covid,central america and caribbean
+same-day visitor,aruba,2019,832000,pre_covid,central america and caribbean
+same-day visitor,aruba,2020,255000,covid,central america and caribbean
+same-day visitor,aruba,2021,136000,covid,central america and caribbean
+same-day visitor,aruba,2022,610000,post_covid,central america and caribbean
+same-day visitor,saint maarten (dutch part),2015,1902000,pre_covid,central america and caribbean
+same-day visitor,saint maarten (dutch part),2016,1669000,pre_covid,central america and caribbean
+same-day visitor,saint maarten (dutch part),2017,1238000,pre_covid,central america and caribbean
+same-day visitor,saint maarten (dutch part),2018,1597000,pre_covid,central america and caribbean
+same-day visitor,saint maarten (dutch part),2019,1632000,pre_covid,central america and caribbean
+same-day visitor,saint maarten (dutch part),2020,436000,covid,central america and caribbean
+same-day visitor,saint maarten (dutch part),2021,233000,covid,central america and caribbean
+same-day visitor,saint maarten (dutch part),2022,844000,post_covid,central america and caribbean
+same-day visitor,new caledonia,2015,444000,pre_covid,oceania
+same-day visitor,new caledonia,2016,509000,pre_covid,oceania
+same-day visitor,new caledonia,2017,505000,pre_covid,oceania
+same-day visitor,new caledonia,2018,456000,pre_covid,oceania
+same-day visitor,new caledonia,2019,344000,pre_covid,oceania
+same-day visitor,new caledonia,2020,48000,covid,oceania
+same-day visitor,new caledonia,2022,60000,post_covid,oceania
+same-day visitor,vanuatu,2015,197000,pre_covid,oceania
+same-day visitor,vanuatu,2016,256480,pre_covid,oceania
+same-day visitor,vanuatu,2017,223600,pre_covid,oceania
+same-day visitor,vanuatu,2018,234600,pre_covid,oceania
+same-day visitor,vanuatu,2019,135400,pre_covid,oceania
+same-day visitor,vanuatu,2020,60400,covid,oceania
+same-day visitor,vanuatu,2022,35000,post_covid,oceania
+same-day visitor,new zealand,2015,90000,pre_covid,oceania
+same-day visitor,new zealand,2016,124000,pre_covid,oceania
+same-day visitor,new zealand,2017,168000,pre_covid,oceania
+same-day visitor,new zealand,2018,172000,pre_covid,oceania
+same-day visitor,new zealand,2019,186000,pre_covid,oceania
+same-day visitor,new zealand,2020,47738,covid,oceania
+same-day visitor,new zealand,2021,1950,covid,oceania
+same-day visitor,new zealand,2022,44776,post_covid,oceania
+same-day visitor,new zealand,2023,129383,post_covid,oceania
+same-day visitor,new zealand,2024,137963,post_covid,oceania
+same-day visitor,nicaragua,2015,70000,pre_covid,central america and caribbean
+same-day visitor,nicaragua,2016,92000,pre_covid,central america and caribbean
+same-day visitor,nicaragua,2017,171000,pre_covid,central america and caribbean
+same-day visitor,nicaragua,2018,157000,pre_covid,central america and caribbean
+same-day visitor,nicaragua,2019,159000,pre_covid,central america and caribbean
+same-day visitor,nicaragua,2020,90000,covid,central america and caribbean
+same-day visitor,nicaragua,2021,90000,covid,central america and caribbean
+same-day visitor,nicaragua,2022,114800,post_covid,central america and caribbean
+same-day visitor,niue,2017,1800,pre_covid,oceania
+same-day visitor,northern mariana islands,2015,3400,pre_covid,oceania
+same-day visitor,northern mariana islands,2016,5000,pre_covid,oceania
+same-day visitor,northern mariana islands,2017,4000,pre_covid,oceania
+same-day visitor,northern mariana islands,2018,1000,pre_covid,oceania
+same-day visitor,northern mariana islands,2019,3000,pre_covid,oceania
+same-day visitor,northern mariana islands,2020,2000,covid,oceania
+same-day visitor,northern mariana islands,2021,500,covid,oceania
+same-day visitor,northern mariana islands,2022,500,post_covid,oceania
+same-day visitor,marshall islands,2016,1100,pre_covid,oceania
+same-day visitor,marshall islands,2017,1900,pre_covid,oceania
+same-day visitor,marshall islands,2020,800,covid,oceania
+same-day visitor,panama,2015,443000,pre_covid,central america and caribbean
+same-day visitor,panama,2016,458000,pre_covid,central america and caribbean
+same-day visitor,panama,2017,674000,pre_covid,central america and caribbean
+same-day visitor,panama,2018,702000,pre_covid,central america and caribbean
+same-day visitor,panama,2019,741000,pre_covid,central america and caribbean
+same-day visitor,panama,2020,233000,covid,central america and caribbean
+same-day visitor,panama,2021,186000,covid,central america and caribbean
+same-day visitor,panama,2022,298000,post_covid,central america and caribbean
+same-day visitor,papua new guinea,2015,16000,pre_covid,oceania
+same-day visitor,papua new guinea,2016,19000,pre_covid,oceania
+same-day visitor,papua new guinea,2017,43000,pre_covid,oceania
+same-day visitor,papua new guinea,2018,55000,pre_covid,oceania
+same-day visitor,papua new guinea,2019,51000,pre_covid,oceania
+same-day visitor,papua new guinea,2022,2600,post_covid,oceania
+same-day visitor,paraguay,2015,2887000,pre_covid,south america
+same-day visitor,paraguay,2016,3010000,pre_covid,south america
+same-day visitor,paraguay,2017,3160000,pre_covid,south america
+same-day visitor,paraguay,2018,3002000,pre_covid,south america
+same-day visitor,paraguay,2019,3152000,pre_covid,south america
+same-day visitor,paraguay,2020,825000,covid,south america
+same-day visitor,paraguay,2021,476000,covid,south america
+same-day visitor,paraguay,2022,968900,post_covid,south america
+same-day visitor,paraguay,2023,1066000,post_covid,south america
+same-day visitor,paraguay,2024,1172000,post_covid,south america
+same-day visitor,peru,2015,925000,pre_covid,south america
+same-day visitor,peru,2016,974000,pre_covid,south america
+same-day visitor,peru,2017,960000,pre_covid,south america
+same-day visitor,peru,2018,965000,pre_covid,south america
+same-day visitor,peru,2019,903000,pre_covid,south america
+same-day visitor,peru,2020,222000,covid,south america
+same-day visitor,peru,2022,269200,post_covid,south america
+same-day visitor,philippines,2015,70000,pre_covid,asia
+same-day visitor,philippines,2016,72000,pre_covid,asia
+same-day visitor,philippines,2017,114000,pre_covid,asia
+same-day visitor,philippines,2018,228000,pre_covid,asia
+same-day visitor,philippines,2019,162000,pre_covid,asia
+same-day visitor,philippines,2020,25000,covid,asia
+same-day visitor,poland,2015,61015000,pre_covid,europe
+same-day visitor,poland,2016,63005000,pre_covid,europe
+same-day visitor,poland,2017,65546000,pre_covid,europe
+same-day visitor,poland,2018,66324000,pre_covid,europe
+same-day visitor,poland,2019,67357000,pre_covid,europe
+same-day visitor,poland,2020,42658000,covid,europe
+same-day visitor,poland,2021,41304000,covid,europe
+same-day visitor,poland,2022,55867000,post_covid,europe
+same-day visitor,poland,2023,58678000,post_covid,europe
+same-day visitor,poland,2024,57182000,post_covid,europe
+same-day visitor,puerto rico,2015,1509000,pre_covid,central america and caribbean
+same-day visitor,puerto rico,2016,1267000,pre_covid,central america and caribbean
+same-day visitor,puerto rico,2017,1414000,pre_covid,central america and caribbean
+same-day visitor,puerto rico,2018,1192000,pre_covid,central america and caribbean
+same-day visitor,puerto rico,2019,1751000,pre_covid,central america and caribbean
+same-day visitor,puerto rico,2020,1264600,covid,central america and caribbean
+same-day visitor,puerto rico,2021,0,covid,central america and caribbean
+same-day visitor,puerto rico,2022,364400,post_covid,central america and caribbean
+same-day visitor,puerto rico,2023,1261000,post_covid,central america and caribbean
+same-day visitor,puerto rico,2024,1356300,post_covid,central america and caribbean
+same-day visitor,réunion,2017,43000,pre_covid,africa
+same-day visitor,réunion,2018,39000,pre_covid,africa
+same-day visitor,réunion,2019,67700,pre_covid,africa
+same-day visitor,réunion,2020,38400,covid,africa
+same-day visitor,russia,2015,1670000,pre_covid,europe
+same-day visitor,rwanda,2015,81000,pre_covid,africa
+same-day visitor,rwanda,2016,85000,pre_covid,africa
+same-day visitor,rwanda,2017,88000,pre_covid,africa
+same-day visitor,rwanda,2018,92000,pre_covid,africa
+same-day visitor,rwanda,2019,90000,pre_covid,africa
+same-day visitor,rwanda,2020,27000,covid,africa
+same-day visitor,rwanda,2021,30000,covid,africa
+same-day visitor,saint kitts and nevis,2015,918000,pre_covid,central america and caribbean
+same-day visitor,saint kitts and nevis,2016,939000,pre_covid,central america and caribbean
+same-day visitor,saint kitts and nevis,2017,1078000,pre_covid,central america and caribbean
+same-day visitor,saint kitts and nevis,2018,1152000,pre_covid,central america and caribbean
+same-day visitor,saint kitts and nevis,2019,987000,pre_covid,central america and caribbean
+same-day visitor,saint kitts and nevis,2020,271000,covid,central america and caribbean
+same-day visitor,saint kitts and nevis,2021,102400,covid,central america and caribbean
+same-day visitor,saint kitts and nevis,2022,509300,post_covid,central america and caribbean
+same-day visitor,anguilla,2015,113000,pre_covid,central america and caribbean
+same-day visitor,anguilla,2016,97000,pre_covid,central america and caribbean
+same-day visitor,anguilla,2017,82400,pre_covid,central america and caribbean
+same-day visitor,anguilla,2018,33000,pre_covid,central america and caribbean
+same-day visitor,anguilla,2019,71000,pre_covid,central america and caribbean
+same-day visitor,anguilla,2020,15700,covid,central america and caribbean
+same-day visitor,anguilla,2021,300,covid,central america and caribbean
+same-day visitor,anguilla,2022,21700,post_covid,central america and caribbean
+same-day visitor,saint lucia,2015,686000,pre_covid,central america and caribbean
+same-day visitor,saint lucia,2016,600000,pre_covid,central america and caribbean
+same-day visitor,saint lucia,2017,678000,pre_covid,central america and caribbean
+same-day visitor,saint lucia,2018,770000,pre_covid,central america and caribbean
+same-day visitor,saint lucia,2019,796000,pre_covid,central america and caribbean
+same-day visitor,saint lucia,2020,301800,covid,central america and caribbean
+same-day visitor,saint lucia,2021,98000,covid,central america and caribbean
+same-day visitor,saint lucia,2022,358000,post_covid,central america and caribbean
+same-day visitor,saint vincent and the grenadines,2015,131000,pre_covid,central america and caribbean
+same-day visitor,saint vincent and the grenadines,2016,148000,pre_covid,central america and caribbean
+same-day visitor,saint vincent and the grenadines,2017,227000,pre_covid,central america and caribbean
+same-day visitor,saint vincent and the grenadines,2018,274700,pre_covid,central america and caribbean
+same-day visitor,saint vincent and the grenadines,2019,315000,pre_covid,central america and caribbean
+same-day visitor,saint vincent and the grenadines,2020,128000,covid,central america and caribbean
+same-day visitor,saint vincent and the grenadines,2021,32500,covid,central america and caribbean
+same-day visitor,saint vincent and the grenadines,2022,151000,post_covid,central america and caribbean
+same-day visitor,san marino,2015,1834000,pre_covid,europe
+same-day visitor,san marino,2016,1940000,pre_covid,europe
+same-day visitor,san marino,2017,1859000,pre_covid,europe
+same-day visitor,san marino,2018,1790000,pre_covid,europe
+same-day visitor,san marino,2019,1793000,pre_covid,europe
+same-day visitor,san marino,2020,957000,covid,europe
+same-day visitor,san marino,2021,1260000,covid,europe
+same-day visitor,saudi arabia,2015,3840000,pre_covid,asia
+same-day visitor,saudi arabia,2016,2843000,pre_covid,asia
+same-day visitor,saudi arabia,2017,2498000,pre_covid,asia
+same-day visitor,saudi arabia,2018,2236000,pre_covid,asia
+same-day visitor,saudi arabia,2019,2767000,pre_covid,asia
+same-day visitor,saudi arabia,2020,743601,covid,asia
+same-day visitor,saudi arabia,2021,391949,covid,asia
+same-day visitor,saudi arabia,2022,1617731,post_covid,asia
+same-day visitor,saudi arabia,2023,2701865,post_covid,asia
+same-day visitor,saudi arabia,2024,3751653,post_covid,asia
+same-day visitor,senegal,2015,7700,pre_covid,africa
+same-day visitor,senegal,2016,9000,pre_covid,africa
+same-day visitor,senegal,2017,11000,pre_covid,africa
+same-day visitor,seychelles,2015,20000,pre_covid,africa
+same-day visitor,seychelles,2016,30000,pre_covid,africa
+same-day visitor,seychelles,2017,32000,pre_covid,africa
+same-day visitor,seychelles,2018,43000,pre_covid,africa
+same-day visitor,seychelles,2019,44000,pre_covid,africa
+same-day visitor,seychelles,2020,19600,covid,africa
+same-day visitor,seychelles,2022,6500,post_covid,africa
+same-day visitor,sierra leone,2015,7000,pre_covid,africa
+same-day visitor,sierra leone,2016,5000,pre_covid,africa
+same-day visitor,sierra leone,2017,8000,pre_covid,africa
+same-day visitor,sierra leone,2018,9000,pre_covid,africa
+same-day visitor,sierra leone,2019,8000,pre_covid,africa
+same-day visitor,sierra leone,2020,2000,covid,africa
+same-day visitor,sierra leone,2021,4000,covid,africa
+same-day visitor,singapore,2015,3180000,pre_covid,asia
+same-day visitor,singapore,2016,3490000,pre_covid,asia
+same-day visitor,singapore,2017,3521000,pre_covid,asia
+same-day visitor,singapore,2018,3835000,pre_covid,asia
+same-day visitor,singapore,2019,3997000,pre_covid,asia
+same-day visitor,singapore,2020,657000,covid,asia
+same-day visitor,singapore,2021,5000,covid,asia
+same-day visitor,singapore,2022,961000,post_covid,asia
+same-day visitor,singapore,2023,2790000,post_covid,asia
+same-day visitor,singapore,2024,3501000,post_covid,asia
+same-day visitor,slovakia,2015,10067000,pre_covid,europe
+same-day visitor,slovakia,2016,11642000,pre_covid,europe
+same-day visitor,slovakia,2017,9860000,pre_covid,europe
+same-day visitor,slovakia,2018,9846000,pre_covid,europe
+same-day visitor,slovakia,2019,10456000,pre_covid,europe
+same-day visitor,vietnam,2015,389000,pre_covid,asia
+same-day visitor,south africa,2015,5048000,pre_covid,africa
+same-day visitor,south africa,2016,5077000,pre_covid,africa
+same-day visitor,south africa,2017,4690000,pre_covid,africa
+same-day visitor,south africa,2018,4532000,pre_covid,africa
+same-day visitor,south africa,2019,4569000,pre_covid,africa
+same-day visitor,south africa,2020,1084000,covid,africa
+same-day visitor,south africa,2021,408000,covid,africa
+same-day visitor,south africa,2022,1644000,post_covid,africa
+same-day visitor,south africa,2023,2819000,post_covid,africa
+same-day visitor,south africa,2024,2503000,post_covid,africa
+same-day visitor,spain,2015,41659000,pre_covid,europe
+same-day visitor,spain,2016,40246000,pre_covid,europe
+same-day visitor,spain,2017,39849000,pre_covid,europe
+same-day visitor,spain,2018,41647000,pre_covid,europe
+same-day visitor,spain,2019,42661000,pre_covid,europe
+same-day visitor,spain,2020,17477000,covid,europe
+same-day visitor,spain,2021,20450000,covid,europe
+same-day visitor,spain,2022,33309000,post_covid,europe
+same-day visitor,spain,2023,40581375,post_covid,europe
+same-day visitor,spain,2024,43880813,post_covid,europe
+same-day visitor,suriname,2015,800,pre_covid,south america
+same-day visitor,suriname,2016,900,pre_covid,south america
+same-day visitor,suriname,2017,900,pre_covid,south america
+same-day visitor,eswatini,2015,383000,pre_covid,africa
+same-day visitor,eswatini,2016,332000,pre_covid,africa
+same-day visitor,eswatini,2017,422000,pre_covid,africa
+same-day visitor,eswatini,2018,495500,pre_covid,africa
+same-day visitor,eswatini,2019,546000,pre_covid,africa
+same-day visitor,eswatini,2020,151600,covid,africa
+same-day visitor,eswatini,2021,40400,covid,africa
+same-day visitor,eswatini,2022,109600,post_covid,africa
+same-day visitor,togo,2015,1000,pre_covid,africa
+same-day visitor,togo,2016,1000,pre_covid,africa
+same-day visitor,togo,2017,1000,pre_covid,africa
+same-day visitor,tonga,2015,18800,pre_covid,oceania
+same-day visitor,tonga,2016,27500,pre_covid,oceania
+same-day visitor,tonga,2017,24100,pre_covid,oceania
+same-day visitor,tonga,2018,23300,pre_covid,oceania
+same-day visitor,tonga,2019,26700,pre_covid,oceania
+same-day visitor,tonga,2020,2500,covid,oceania
+same-day visitor,tonga,2022,3900,post_covid,oceania
+same-day visitor,trinidad and tobago,2015,82000,pre_covid,central america and caribbean
+same-day visitor,trinidad and tobago,2016,88300,pre_covid,central america and caribbean
+same-day visitor,trinidad and tobago,2017,75200,pre_covid,central america and caribbean
+same-day visitor,trinidad and tobago,2018,132300,pre_covid,central america and caribbean
+same-day visitor,trinidad and tobago,2019,93000,pre_covid,central america and caribbean
+same-day visitor,trinidad and tobago,2020,45800,covid,central america and caribbean
+same-day visitor,trinidad and tobago,2021,500,covid,central america and caribbean
+same-day visitor,trinidad and tobago,2022,26800,post_covid,central america and caribbean
+same-day visitor,trinidad and tobago,2023,139000,post_covid,central america and caribbean
+same-day visitor,trinidad and tobago,2024,152000,post_covid,central america and caribbean
+same-day visitor,united arab emirates,2015,2471000,pre_covid,asia
+same-day visitor,united arab emirates,2016,2751000,pre_covid,asia
+same-day visitor,united arab emirates,2017,2637000,pre_covid,asia
+same-day visitor,united arab emirates,2018,2878000,pre_covid,asia
+same-day visitor,united arab emirates,2019,3721000,pre_covid,asia
+same-day visitor,united arab emirates,2020,919000,covid,asia
+same-day visitor,united arab emirates,2021,1305000,covid,asia
+same-day visitor,turkey,2015,1636000,pre_covid,asia
+same-day visitor,turkey,2016,618000,pre_covid,asia
+same-day visitor,turkey,2017,369000,pre_covid,asia
+same-day visitor,turkey,2018,345000,pre_covid,asia
+same-day visitor,turkey,2019,555000,pre_covid,asia
+same-day visitor,turkey,2020,77000,covid,asia
+same-day visitor,turkey,2021,114000,covid,asia
+same-day visitor,turkey,2022,935000,post_covid,asia
+same-day visitor,turks and caicos islands,2015,930000,pre_covid,central america and caribbean
+same-day visitor,turks and caicos islands,2016,847000,pre_covid,central america and caribbean
+same-day visitor,turks and caicos islands,2017,827000,pre_covid,central america and caribbean
+same-day visitor,turks and caicos islands,2018,1022000,pre_covid,central america and caribbean
+same-day visitor,turks and caicos islands,2019,1112000,pre_covid,central america and caribbean
+same-day visitor,turks and caicos islands,2020,205900,covid,central america and caribbean
+same-day visitor,turks and caicos islands,2021,27000,covid,central america and caribbean
+same-day visitor,ukraine,2015,597000,pre_covid,europe
+same-day visitor,ukraine,2016,401000,pre_covid,europe
+same-day visitor,ukraine,2017,349000,pre_covid,europe
+same-day visitor,ukraine,2018,238000,pre_covid,europe
+same-day visitor,ukraine,2019,273000,pre_covid,europe
+same-day visitor,ukraine,2020,241000,covid,europe
+same-day visitor,ukraine,2021,299000,covid,europe
+same-day visitor,ukraine,2022,134000,post_covid,europe
+same-day visitor,ukraine,2023,101000,post_covid,europe
+same-day visitor,ukraine,2024,70000,post_covid,europe
+same-day visitor,egypt,2015,189000,pre_covid,africa
+same-day visitor,egypt,2016,141000,pre_covid,africa
+same-day visitor,egypt,2017,136000,pre_covid,africa
+same-day visitor,egypt,2018,151000,pre_covid,africa
+same-day visitor,egypt,2019,151000,pre_covid,africa
+same-day visitor,egypt,2020,58000,covid,africa
+same-day visitor,egypt,2021,31000,covid,africa
+same-day visitor,egypt,2022,99000,post_covid,africa
+same-day visitor,united kingdom,2015,1643000,pre_covid,europe
+same-day visitor,united kingdom,2016,1771000,pre_covid,europe
+same-day visitor,united kingdom,2017,1538000,pre_covid,europe
+same-day visitor,united kingdom,2018,1619000,pre_covid,europe
+same-day visitor,united kingdom,2019,1439000,pre_covid,europe
+same-day visitor,united kingdom,2020,387000,covid,europe
+same-day visitor,united kingdom,2021,97000,covid,europe
+same-day visitor,united kingdom,2022,503000,post_covid,europe
+same-day visitor,united kingdom,2023,744667,post_covid,europe
+same-day visitor,united kingdom,2024,801734,post_covid,europe
+same-day visitor,united republic of tanzania,2015,33000,pre_covid,africa
+same-day visitor,united republic of tanzania,2016,51000,pre_covid,africa
+same-day visitor,united republic of tanzania,2017,52000,pre_covid,africa
+same-day visitor,united republic of tanzania,2018,128000,pre_covid,africa
+same-day visitor,united republic of tanzania,2019,84000,pre_covid,africa
+same-day visitor,united republic of tanzania,2020,29000,covid,africa
+same-day visitor,united republic of tanzania,2021,104300,covid,africa
+same-day visitor,united states,2015,99091000,pre_covid,north america
+same-day visitor,united states,2016,98854000,pre_covid,north america
+same-day visitor,united states,2017,97105000,pre_covid,north america
+same-day visitor,united states,2018,89579000,pre_covid,north america
+same-day visitor,united states,2019,86036000,pre_covid,north america
+same-day visitor,united states,2020,25580000,covid,north america
+same-day visitor,united states,2021,44493300,covid,north america
+same-day visitor,united states virgin islands,2015,2001000,pre_covid,central america and caribbean
+same-day visitor,united states virgin islands,2016,1906000,pre_covid,central america and caribbean
+same-day visitor,united states virgin islands,2017,1419000,pre_covid,central america and caribbean
+same-day visitor,united states virgin islands,2018,1541000,pre_covid,central america and caribbean
+same-day visitor,united states virgin islands,2019,1560000,pre_covid,central america and caribbean
+same-day visitor,united states virgin islands,2020,558500,covid,central america and caribbean
+same-day visitor,united states virgin islands,2021,387600,covid,central america and caribbean
+same-day visitor,uruguay,2015,513000,pre_covid,south america
+same-day visitor,uruguay,2016,595000,pre_covid,south america
+same-day visitor,uruguay,2017,545000,pre_covid,south america
+same-day visitor,uruguay,2018,485000,pre_covid,south america
+same-day visitor,uruguay,2019,421000,pre_covid,south america
+same-day visitor,venezuela,2015,93000,pre_covid,south america
+same-day visitor,venezuela,2016,80000,pre_covid,south america
+same-day visitor,venezuela,2017,2000,pre_covid,south america
+same-day visitor,samoa,2015,11000,pre_covid,oceania
+same-day visitor,samoa,2016,12000,pre_covid,oceania
+same-day visitor,samoa,2017,11000,pre_covid,oceania
+same-day visitor,samoa,2018,8000,pre_covid,oceania
+same-day visitor,samoa,2019,8600,pre_covid,oceania
+same-day visitor,samoa,2020,800,covid,oceania
+same-day visitor,samoa,2022,1200,post_covid,oceania
+same-day visitor,yemen,2015,31800,pre_covid,asia
