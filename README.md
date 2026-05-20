@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 End-to-end data analytics project analyzing the recovery of international tourism in Brazil following the COVID-19 pandemic. Using over a decade of official government data, this project investigates who is traveling to Brazil again, how they arrive, and whether the country has fully returned to pre-pandemic levels.
 
@@ -19,13 +19,13 @@ End-to-end data analytics project analyzing the recovery of international touris
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 *To be updated as analysis progresses.*
 
 ---
 
-## 🎯 Business Question
+## Business Question
 
 > *Has Brazilian international tourism fully recovered from COVID-19, and who is driving that recovery?*
 
@@ -40,7 +40,7 @@ End-to-end data analytics project analyzing the recovery of international touris
 
 ---
 
-## 🗂️ Datasets
+## Datasets
 
 | Dataset | Source | Coverage | Used For |
 |---|---|---|---|
@@ -51,7 +51,7 @@ End-to-end data analytics project analyzing the recovery of international touris
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Brazil_Road_Back/
@@ -74,7 +74,7 @@ Brazil_Road_Back/
 
 ---
 
-## 🔧 Pipeline
+## Pipeline
 
 ```
 Data Collection → Cleaning & Wrangling → EDA → Tableau Dashboard → Story
@@ -96,7 +96,7 @@ Data Collection → Cleaning & Wrangling → EDA → Tableau Dashboard → Story
 
 ---
 
-## 📊 Tableau Dashboard
+## Tableau Dashboard
 
 Published on Tableau Public: **[link coming soon]**
 
@@ -110,7 +110,7 @@ Published on Tableau Public: **[link coming soon]**
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 ### Requirements
 ```bash
@@ -132,13 +132,11 @@ jupyter notebook
 
 ---
 
-## 📚 References
+## References
 
 - Ministério do Turismo — [dados.turismo.gov.br](https://dados.turismo.gov.br/dataset/chegada-de-turistas-internacionais)
 - UN World Tourism Organization — [untourism.int](https://www.untourism.int/tourism-statistics/tourism-statistics-database)
 - Embratur Dadosfera — October 2025 edition
-
----
 
 ---
 

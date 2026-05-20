@@ -21,7 +21,7 @@ def string_formatting(df):
 
 def translate_values(df, column_name, translation_dict):
     """Translates values in a specified column using a provided translation dictionary."""
-    df[column_name] = df[column_name].map(translation_dict)
+    df[column_name] = df[column_name].replace(translation_dict)
     return df   
 
 def concat_dfs(df_list):
@@ -41,3 +41,15 @@ def add_covid_flag(df):
     
     df['covid_period'] = df['year'].apply(classify)
     return df
+
+def add_continent_column(df, country_col, continent_mapping):
+    """Adds a continent column based on the country column using a provided mapping dictionary."""
+    df['continent'] = df[country_col].replace(continent_mapping)
+    return df
+
+def value_counts_by_column(df):
+    """Prints value counts for each column in the dataframe."""
+    for col in df.columns:
+        print(f'=== {col} ===')
+        print(df[col].value_counts())
+        print()
