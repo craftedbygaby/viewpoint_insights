@@ -3,16 +3,11 @@
 # Brazil's Road Back
 ### International Tourism Recovery Analysis — 2015–2024
 
-![Python](https://img.shields.io/badge/Python-3.11-0D7EA8?style=flat-square&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Public-F4A324?style=flat-square&logo=tableau&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-38B6D8?style=flat-square)
-![IronHack](https://img.shields.io/badge/IronHack-Final%20Project-0D7EA8?style=flat-square)
-
 ---
 
 ## Author
 
-- Gabriela Cascione · [craftedbygaby.github.io](https://craftedbygaby.github.io)
+- Gabriela Cascione
 
 ---
 
