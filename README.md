@@ -15,8 +15,6 @@
 
 End-to-end data analytics project analyzing the recovery of international tourism in Brazil following the COVID-19 pandemic. Using over a decade of official government data, this project investigates who is traveling to Brazil again, how they arrive, and whether the country has fully returned to pre-pandemic levels.
 
-> **In H1 2025, Brazil recorded the highest growth in international tourist arrivals among the top 50 destinations globally — +48.2% vs a global average of +5%.** This project explores the data behind that headline.
-
 ---
 
 ## Key Findings
@@ -65,11 +63,11 @@ Brazil_Road_Back/
 │   ├── data_cleaning_wrangling.ipynb     ← full cleaning pipeline
 │   └── EDA.ipynb                         ← exploratory data analysis
 │
-├── 03. src/
+├── 03. Visualizations/               ← exported charts from EDA notebook
+│
+├── src/
 │   ├── functions.py                  ← reusable cleaning functions
 │   └── viewpoint_insights_logo.svg   ← brand assets
-│
-├── 04. Visualizations/               ← exported charts from EDA notebook
 │
 ├── .gitignore
 └── README.md
@@ -139,7 +137,6 @@ jupyter notebook
 
 - Ministério do Turismo — [dados.turismo.gov.br](https://dados.turismo.gov.br/dataset/chegada-de-turistas-internacionais)
 - UN World Tourism Organization — [untourism.int](https://www.untourism.int/tourism-statistics/tourism-statistics-database)
-- Embratur Dadosfera — October 2025 edition
 
 ---
 
