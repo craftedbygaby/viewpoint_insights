@@ -17,6 +17,16 @@ End-to-end data analytics project analyzing the recovery of international touris
 
 ---
 
+
+## Data Limitations
+
+1. **Brazilian dataset — pre-aggregation by state:** The Ministério do Turismo data aggregates less common state entries into "Outras Unidades da Federação" — meaning only the top states are visible individually. Granular state-level analysis is limited.
+
+2. **UNWTO dataset — annual data only:** The UN Tourism database only provides yearly totals with no monthly or seasonal breakdown. Monthly and seasonal fluctuation analysis is only possible with the Brazilian dataset.
+
+3. **UNWTO dataset — voluntary reporting:** Countries self-report their data to the UN. If a country does not report, their data is missing — this can introduce bias in global comparisons and rankings, particularly for less developed tourism markets.
+
+---
 ## Key Findings
 
 *To be updated as analysis progresses.*
