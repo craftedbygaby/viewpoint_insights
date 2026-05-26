@@ -1,0 +1,39 @@
+state,state_code,destination,type,best_months,good_months,avoid_months,why_best,category,international_draw,weather,crowd_level
+Maranhão,MA,Lençóis Maranhenses,Natural wonder,June|July|August,May|September,January|February|March,Rainy season ends but lagoons still full — ideal for swimming and sandboarding,Nature / Ecotourism,High,hot,moderate
+Mato Grosso do Sul,MS,Pantanal,Natural wonder,July|August|September|October,April|May|June,November|December|January|February|March,Dry season — water levels low so wildlife concentrates. Best jaguar spotting Jul-Oct,Wildlife / Ecotourism,Very High,hot,low
+Amazonas,AM,Amazon Rainforest (dry season),Natural wonder,June|July|August|September,April|May,,Dry season — easier trekking and wildlife spotting. Beaches appear on riverbanks,Nature / Ecotourism,Very High,hot,low
+Amazonas,AM,Amazon Rainforest (wet season),Natural wonder,January|February|March,November|December,,Wet season — easier navigation by boat. Flora at peak. Different experience,Nature / Ecotourism,High,hot,low
+Pernambuco,PE,Fernando de Noronha (diving),Island / Marine,August|September|October|November,December|January,March|April|May,Clearest waters for diving (up to 50m visibility). Spinner dolphins. Fewer tourists,Marine / Diving,Very High,warm,moderate
+Pernambuco,PE,Fernando de Noronha (surfing),Island / Marine,January|February,,,Strong waves on the Atlantic side — surfing season,Surfing,High,warm,moderate
+Rio de Janeiro,RJ,Rio de Janeiro (city),City / Beach,April|May|September|October|November,March|June|July,January|February,Shoulder season — warm but less crowded. Lower prices,City / Culture / Beach,Very High,warm,high
+Rio de Janeiro,RJ,Rio de Janeiro — Carnaval,Event,February|March,,,World-famous Carnaval — major international draw,Cultural Event,Very High,warm,very high
+Rio de Janeiro,RJ,Rio de Janeiro — Réveillon,Event,December|January,,,One of world's largest New Year celebrations,Cultural Event,Very High,warm,very high
+Rio de Janeiro,RJ,Ilha Grande,Island / Nature,October|November|March|April,September|May,June|July|August,Warm water and less rain. Avoid winter — cold and rainy,Island / Beach,High,warm,moderate
+Rio de Janeiro,RJ,Búzios,Beach,October|November|December|January|February|March,September|April,June|July|August,Warm summer months. Peak season Dec-Feb,Beach,High,hot,high
+São Paulo,SP,São Paulo (city),City,March|April|September|October|November,May|August,January|February|July,Mild weather. Avoid summer heat and winter cold,City / Business / Culture,Very High,mild,high
+São Paulo,SP,São Paulo — Formula 1 Grand Prix,Event,November,,,Major international sports event — peak hotel demand,Sports Event,Very High,mild,very high
+São Paulo,SP,Campos do Jordão,Mountain / Nature,June|July|August,May|September,,Winter months — cool mountain air. Festival de Inverno in July,Mountain / Culture,Medium,cool,moderate
+Bahia,BA,Salvador,City / Culture,February|June|July|December,All,,Carnaval in Feb is world-class. June is Festa Junina. Dec for beaches,City / Culture / Beach,Very High,hot,high
+Bahia,BA,Chapada Diamantina,Nature / Trekking,June|July|August|September|October,May|November,January|February|March,Dry season — waterfalls still flowing but trails dry. Great visibility,Trekking / Nature,High,warm,low
+Bahia,BA,Porto Seguro / Arraial d'Ajuda,Beach,October|November|December|January|February|March,September|April,,Warm and sunny. Peak season Dec-Feb,Beach,High,hot,high
+Bahia,BA,Morro de São Paulo,Island / Beach,October|November|December|January|February|March,September|April,May|June|July|August,Summer warmth and clear water. Car-free island,Island / Beach,High,hot,moderate
+Ceará,CE,Jericoacoara,Beach / Kitesurf,June|July|August|September|October|November|December|January,May,,Dry season with consistent winds — world-class kitesurfing destination,Beach / Kitesurf,Very High,hot,moderate
+Ceará,CE,Fortaleza,City / Beach,June|July|August|September,May|October,January|February|March,Dry season — sunny and breezy. Avoid rainy season,City / Beach,High,hot,high
+Paraná,PR,Foz do Iguaçu (dry season),Natural wonder,August|September|October|November,June|July|December,January|February|March,Best visibility and hiking conditions. Falls still impressive,Waterfall / Nature,Very High,warm,high
+Paraná,PR,Foz do Iguaçu (wet season),Natural wonder,March|April,,,Maximum water flow — most dramatic and powerful falls,Waterfall / Nature,Very High,warm,moderate
+Minas Gerais,MG,Ouro Preto,Colonial / Culture,April|June|July|August|September|October,March|November,,Dry season — cobblestone streets walkable. Semana Santa in April is world-famous,Colonial / Culture,High,mild,moderate
+Minas Gerais,MG,Chapada dos Veadeiros,Nature / Trekking,May|June|July|August|September,April|October,November|December|January|February|March,Dry season — trails accessible. Waterfalls at good levels,Trekking / Nature,Medium,warm,low
+Rio Grande do Norte,RN,Natal / Pipa,Beach,June|July|August|September|October,May|November,January|February|March,Dry season — sunny and calm. Pipa is one of Brazil's most scenic beach towns,Beach,High,hot,moderate
+Rio Grande do Norte,RN,Lençóis do Norte (Genipabu dunes),Nature / Beach,June|July|August|September,May|October,,Dry season — dunes accessible and buggy rides possible,Nature / Beach,Medium,hot,moderate
+Pará,PA,Belém — Círio de Nazaré,Event,October|November,,,Largest religious procession in the world — major cultural event,Cultural / Religious Event,High,hot,very high
+Pará,PA,Alter do Chão,River beach / Nature,August|September|October,July|November,January|February|March|April,Dry season — river beaches appear. Crystal clear water in the Amazon,River Beach / Nature,High,hot,low
+Santa Catarina,SC,Florianópolis,Beach / City,December|January|February|March,November|April,June|July|August,Southern hemisphere summer — warm and lively,Beach / City,High,warm,high
+Santa Catarina,SC,Blumenau — Oktoberfest,Event,October,,,Second largest Oktoberfest in the world,Cultural Event,High,mild,very high
+Rio Grande do Sul,RS,Gramado / Canela,Mountain / Culture,June|July|August|December,May|September,,Winter for European-style cold and Christmas festival. Summer for nature,Mountain / Culture,Medium,cool,moderate
+Tocantins,TO,Jalapão,Nature / Trekking,May|June|July|August|September,April|October,November|December|January|February|March,Dry season — fervedouros (natural pools) accessible. Off-the-beaten-path gem,Trekking / Nature,Medium,hot,low
+Piauí,PI,Serra da Capivara,Archaeological / Nature,May|June|July|August|September,April|October,November|December|January|February|March,Dry season — rock art sites accessible. UNESCO World Heritage Site,Archaeological,Low,hot,low
+Mato Grosso,MT,Chapada dos Guimarães,Nature / Trekking,May|June|July|August|September,April|October,November|December|January|February|March,Dry season — trails accessible. Spectacular canyon and waterfalls near Cuiabá,Trekking / Nature,Medium,warm,low
+Amazonas,AM,Festival Folclórico do Boi Bumbá — Parintins,Event,June|July,,,Largest folkloric festival in the Amazon — held in Parintins island. Two competing groups (Garantido vs Caprichoso). Major international draw growing fast,Cultural Event,High,hot,very high
+Maranhão,MA,Festa Junina — São Luís,Event,June|July,,,São Luís hosts one of the most traditional Festa Juninas — deeply rooted in Maranhão culture with bumba-meu-boi traditions,Cultural Event,High,hot,high
+Pernambuco,PE,Festa Junina — Caruaru,Event,June|July,,,Caruaru is considered the capital of Festa Junina — one of the largest in the world. UNESCO recognized cultural tradition,Cultural Event,High,hot,very high
+Paraíba,PB,Festa Junina — Campina Grande,Event,June|July,,,Campina Grande's Festa Junina rivals Caruaru — lasts the entire month of June and draws massive crowds,Cultural Event,High,hot,very high

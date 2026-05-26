@@ -55,7 +55,7 @@ End-to-end data analytics project analyzing the recovery of international touris
 | Chegadas de Turistas Internacionais | Ministério do Turismo / Polícia Federal | 2015–2024, monthly | All core analysis |
 | UN Tourism Statistics Database — Inbound Arrivals | UN World Tourism Organization (UNWTO) | 1995–2024, annual | Global context |
 
-**Note on data sourcing:** The UN Tourism raw Excel file was downloaded directly from [untourism.int](https://www.untourism.int/tourism-statistics/tourism-statistics-database) and processed manually. Values were cross-verified against Our World in Data's published CSV — exact match confirmed.
+**Note on data sourcing:** The UN Tourism raw Excel file was downloaded directly from [untourism.int](https://www.untourism.int/tourism-statistics/tourism-statistics-database) and processed manually. Values were cross-verified against Our World in Data's published CSV — exact match confirmed. Brazil total arrivals were also cross-verified against the Ministério do Turismo dataset — totals are consistent between both sources.
 
 ---
 
@@ -63,22 +63,10 @@ End-to-end data analytics project analyzing the recovery of international touris
 
 ```
 Brazil_Road_Back/
-│
-├── 01. data/
-│   ├── raw/                          ← original source files, never modified
-│   └── cleaned/                      ← output of cleaning pipeline
-│
-├── 02. notebooks/
-│   ├── data_discovery.ipynb              ← initial data exploration
-│   ├── data_cleaning_wrangling.ipynb     ← full cleaning pipeline
-│   └── EDA.ipynb                         ← exploratory data analysis
-│
-├── 03. Visualizations/               ← exported charts from EDA notebook
-│
-├── src/
-│   ├── functions.py                  ← reusable cleaning functions
-│   └── viewpoint_insights_logo.svg   ← brand assets
-│
+├── 01. Data/          ← raw source files and cleaned datasets
+├── 02. Notebooks/     ← Jupyter notebooks (cleaning pipeline and EDA)
+├── 03. Visualizations/ ← exported charts from the EDA notebook and Tableau workbook (.twbx)
+├── src/               ← reusable Python functions and brand assets
 ├── .gitignore
 └── README.md
 ```
@@ -99,25 +87,19 @@ Data Collection → Cleaning & Wrangling → EDA → Tableau Dashboard → Story
 | Cleaning & Wrangling | `data_cleaning_wrangling.ipynb` | Python / pandas | Standardize columns, translate Portuguese→English, handle duplicates, create covid_period and season flags, merge 10 yearly files, align UNWTO country names and add continent column |
 | EDA & Statistical Analysis | `EDA.ipynb` | Python / matplotlib / seaborn | Univariate (distribution, skewness, kurtosis, boxplot), bivariate (arrivals over time, by country, by route), multivariate (pre/post COVID comparison, seasonality by country, entry route trends) |
 | Dashboard | — | Tableau | 5 interactive charts |
-| Story | — | Tableau | Narrative arc: past → collapse → recovery → future |
-| ML Forecasting ⭐ | — | Python / scikit-learn | Arrival prediction model |
-| Streamlit App ⭐ | — | Streamlit | Interactive forecast tool |
 
-*⭐ Extra features — completed if time allows*
 
 ---
 
-## Tableau Dashboard
+## Tableau Dashboards
 
 Published on Tableau Public: **[link coming soon]**
 
-| Chart | Type | Insight |
-|---|---|---|
-| Recovery Timeline | Line chart (2015–2024) | Full collapse and bounce-back of arrivals |
-| Who's Traveling Again | Ranked bar chart | Pre vs post-COVID by origin country |
-| How They Arrive | Stacked bar / area | Air vs land vs sea recovery |
-| Seasonality Heatmap | Heatmap (month × year) | How peak months shifted |
-| Brazil vs World | Indexed line chart | Brazil's recovery vs global average |
+The full Tableau workbook (`.twbx`) is also available in the repository for local exploration.
+
+**D1 — World Panorama:** Global arrivals context, continent breakdown, Brazil vs world ranking.
+
+**D2 — Brazil Deep Dive:** Recovery timeline, who visits, entry routes, seasonality heatmap, state map.
 
 ---
 
