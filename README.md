@@ -76,9 +76,7 @@ Brazil_Road_Back/
 ## Pipeline
 
 ```
-Data Collection → Cleaning & Wrangling → EDA → Tableau Dashboard → Story
-                                                        ↓
-                                            (Extra) ML Forecasting → Streamlit App
+Data Collection → Cleaning & Wrangling → EDA → Tableau Dashboards
 ```
 
 | Step | Notebook | Tool | Description |
@@ -86,8 +84,7 @@ Data Collection → Cleaning & Wrangling → EDA → Tableau Dashboard → Story
 | Data Collection | — | — | 10 yearly CSVs (Ministério do Turismo) + UN Tourism Excel file |
 | Cleaning & Wrangling | `data_cleaning_wrangling.ipynb` | Python / pandas | Standardize columns, translate Portuguese→English, handle duplicates, create covid_period and season flags, merge 10 yearly files, align UNWTO country names and add continent column |
 | EDA & Statistical Analysis | `EDA.ipynb` | Python / matplotlib / seaborn | Univariate (distribution, skewness, kurtosis, boxplot), bivariate (arrivals over time, by country, by route), multivariate (pre/post COVID comparison, seasonality by country, entry route trends) |
-| Dashboard | — | Tableau | 5 interactive charts |
-
+| Dashboard | — | Tableau | 2 interactive dashboards |
 
 ---
 
