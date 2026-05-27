@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import random
 
 st.markdown("""
 <style>
@@ -114,11 +115,13 @@ if st.sidebar.button('Find my destination!'):
 if st.session_state.get('search_clicked'):
 
     if st.session_state['no_match']:
-        st.warning("You unlocked the ‘impossibly specific traveler’ achievement 🏆 Here’s a destination to inspire you!")
-                    ### Options
-                    ### No exact match found — but great adventures often start unexpectedly ✈️ Here’s a destination to inspire you!
-                    ### Your preferences are as unique as you are! While we couldn't find an exact match, here's a destination that might just surprise you 🌟
-                    ### We searched harder than someone looking for cheap flights at 2am… but no exact match 😭 Here’s a fun alternative!
+        messages = [
+            "You unlocked the ‘impossibly specific traveler’ achievement 🏆 Here’s a destination to inspire you!",
+            "No exact match found — but great adventures often start unexpectedly ✈️ Here’s a destination to inspire you!",
+            "Your preferences are as unique as you are! While we couldn't find an exact match, here's a destination that might just surprise you 🌟",
+            "We searched harder than someone looking for cheap flights at 2am… but no exact match 😭 Here’s a fun alternative!"
+        ]
+        st.warning(random.choice(messages))
 
     rec = st.session_state['rec']
 
