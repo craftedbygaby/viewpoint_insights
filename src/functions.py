@@ -63,3 +63,8 @@ def seasons_brazil(df, month_col):
     df['season'] = df[month_col].replace(seasons_dict)
     return df
     
+def format_months(month_str):
+    if pd.isna(month_str):
+        return ''
+    months = [m.strip().capitalize() for m in month_str.split('|')]
+    return ' | '.join(months)
