@@ -15,6 +15,8 @@
 
 End-to-end data analytics project analyzing the recovery of international tourism in Brazil following the COVID-19 pandemic. Using over a decade of official government data, this project investigates who is traveling to Brazil again, how they arrive, and whether the country has fully returned to pre-pandemic levels.
 
+The project also includes an interactive **Brazil Travel Recommender App** built with Streamlit, which recommends Brazilian destinations based on user travel preferences.
+
 ---
 
 
@@ -54,6 +56,7 @@ End-to-end data analytics project analyzing the recovery of international touris
 |---|---|---|---|
 | Chegadas de Turistas Internacionais | Ministério do Turismo / Polícia Federal | 2015–2024, monthly | All core analysis |
 | UN Tourism Statistics Database — Inbound Arrivals | UN World Tourism Organization (UNWTO) | 1995–2024, annual | Global context |
+| Brazil Tourism Intelligence | Curated manually + Wikipedia API | 51 destinations, all 26 states | Streamlit Travel Recommender App |
 
 **Note on data sourcing:** The UN Tourism raw Excel file was downloaded directly from [untourism.int](https://www.untourism.int/tourism-statistics/tourism-statistics-database) and processed manually. Values were cross-verified against Our World in Data's published CSV — exact match confirmed. Brazil total arrivals were also cross-verified against the Ministério do Turismo dataset — totals are consistent between both sources.
 
@@ -63,10 +66,11 @@ End-to-end data analytics project analyzing the recovery of international touris
 
 ```
 Brazil_Road_Back/
-├── 01. Data/          ← raw source files and cleaned datasets
-├── 02. Notebooks/     ← Jupyter notebooks (cleaning pipeline and EDA)
+├── 01. Data/           ← raw source files and cleaned datasets
+├── 02. Notebooks/      ← Jupyter notebooks (cleaning pipeline and EDA)
 ├── 03. Visualizations/ ← exported charts from the EDA notebook and Tableau workbook (.twbx)
-├── src/               ← reusable Python functions and brand assets
+├── 04. Streamlit/      ← Streamlit travel recommender app
+├── src/                ← reusable Python functions and brand assets
 ├── .gitignore
 └── README.md
 ```
@@ -76,7 +80,7 @@ Brazil_Road_Back/
 ## Pipeline
 
 ```
-Data Collection → Cleaning & Wrangling → EDA → Tableau Dashboards
+Data Collection → Cleaning & Wrangling → EDA → Tableau Dashboards → Streamlit App
 ```
 
 | Step | Notebook | Tool | Description |
@@ -85,6 +89,7 @@ Data Collection → Cleaning & Wrangling → EDA → Tableau Dashboards
 | Cleaning & Wrangling | `data_cleaning_wrangling.ipynb` | Python / pandas | Standardize columns, translate Portuguese→English, handle duplicates, create covid_period and season flags, merge 10 yearly files, align UNWTO country names and add continent column |
 | EDA & Statistical Analysis | `EDA.ipynb` | Python / matplotlib / seaborn | Univariate (distribution, skewness, kurtosis, boxplot), bivariate (arrivals over time, by country, by route), multivariate (pre/post COVID comparison, seasonality by country, entry route trends) |
 | Dashboard | — | Tableau | 2 interactive dashboards |
+| Travel Recommender App | `recommendations_app.py` | Python / Streamlit | Interactive destination recommender based on user travel preferences |
 
 ---
 
