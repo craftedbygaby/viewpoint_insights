@@ -25,7 +25,7 @@ section[data-testid="stSidebar"] {
 
 col1, col2, col3 = st.columns([0.5, 2, 0.5])
 with col2:
-    st.image("../src/viewpoint_insights_logo.png", width=550)
+    st.image("https://raw.githubusercontent.com/craftedbygaby/viewpoint_insights/main/src/viewpoint_insights_logo.png", width=550)
 
 # ---------------------------------------------------
 # PAGE TITLE
