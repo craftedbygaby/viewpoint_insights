@@ -29,12 +29,6 @@ The project also includes an interactive **Brazil Travel Recommender App** built
 3. **UNWTO dataset — voluntary reporting:** Countries self-report their data to the UN. If a country does not report, their data is missing — this can introduce bias in global comparisons and rankings, particularly for less developed tourism markets.
 
 ---
-## Key Findings
-
-*To be updated as analysis progresses.*
-
----
-
 ## Business Question
 
 > *Has Brazilian international tourism fully recovered from COVID-19, and who is driving that recovery?*

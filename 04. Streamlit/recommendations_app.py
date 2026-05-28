@@ -25,7 +25,7 @@ section[data-testid="stSidebar"] {
 
 col1, col2, col3 = st.columns([0.5, 2, 0.5])
 with col2:
-    st.image(r"C:\Users\gabri\Documents\Data Analysis\Github\Viewpoint_Insights_final_project_IronHack\src\viewpoint_insights_logo.svg", width=550)
+    st.image(r"../src/viewpoint_insights_logo.svg", width=550)
 
 # ---------------------------------------------------
 # PAGE TITLE
@@ -54,7 +54,7 @@ st.divider()
 @st.cache_data #it will be saved inside the internal memory and won't run everytime we run the code
 def load_data():
 
-    df = pd.read_csv(r"C:\Users\gabri\Documents\Data Analysis\Github\Viewpoint_Insights_final_project_IronHack\01. Data\02. Processed Data\intelligence_ready_w_images.csv")
+    df = pd.read_csv(r"../01. Data/02. Processed Data/intelligence_ready_w_images.csv")
     return df
 
 df = load_data()
@@ -81,6 +81,17 @@ selected_weather = st.sidebar.radio('What is your weather preference?',
                                     options=list(df['weather'].str.title().unique()))
 
 # ---------------------------------------------------
+# WARNING MESSAGES (defined before button so available on click)
+# ---------------------------------------------------
+ 
+messages = [
+    "You unlocked the 'impossibly specific traveler' achievement 🏆 Here's a destination to inspire you!",
+    "No exact match found — but great adventures often start unexpectedly ✈️ Here's a destination to inspire you!",
+    "Your preferences are as unique as you are! While we couldn't find an exact match, here's a destination that might just surprise you 🌟",
+    "We searched harder than someone looking for cheap flights at 2am… but no exact match 😭 Here's a fun alternative!"
+]
+
+# ---------------------------------------------------
 # SAVING THE FILTERS AND RUNNING THE RECOMMENDATION BASED ON FILTERS (AND SAVING IT TO SHOW LATER)
 # ---------------------------------------------------
 if st.sidebar.button('Find my destination!'):
@@ -104,6 +115,7 @@ if st.sidebar.button('Find my destination!'):
     if filtered_df.empty:
         st.session_state['rec'] = df.sample(n=1).iloc[0]
         st.session_state['no_match'] = True
+        st.session_state['warning_msg'] = random.choice(messages)
     else:
         st.session_state['rec'] = filtered_df.sample(n=1).iloc[0]
         st.session_state['no_match'] = False
@@ -115,13 +127,7 @@ if st.sidebar.button('Find my destination!'):
 if st.session_state.get('search_clicked'):
 
     if st.session_state['no_match']:
-        messages = [
-            "You unlocked the ‘impossibly specific traveler’ achievement 🏆 Here’s a destination to inspire you!",
-            "No exact match found — but great adventures often start unexpectedly ✈️ Here’s a destination to inspire you!",
-            "Your preferences are as unique as you are! While we couldn't find an exact match, here's a destination that might just surprise you 🌟",
-            "We searched harder than someone looking for cheap flights at 2am… but no exact match 😭 Here’s a fun alternative!"
-        ]
-        st.warning(random.choice(messages))
+        st.warning(st.session_state.get('warning_msg', random.choice(messages)))
 
     rec = st.session_state['rec']
 
