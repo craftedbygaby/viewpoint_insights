@@ -25,7 +25,7 @@ section[data-testid="stSidebar"] {
 
 col1, col2, col3 = st.columns([0.5, 2, 0.5])
 with col2:
-    st.image(r"../src/viewpoint_insights_logo.png", width=550)
+    st.image("../src/viewpoint_insights_logo.png", width=550)
 
 # ---------------------------------------------------
 # PAGE TITLE
@@ -54,7 +54,7 @@ st.divider()
 @st.cache_data #it will be saved inside the internal memory and won't run everytime we run the code
 def load_data():
 
-    df = pd.read_csv(r"../01. Data/02. Processed Data/intelligence_ready_w_images.csv")
+    df = pd.read_csv("../01. Data/02. Processed Data/intelligence_ready_w_images.csv")
     return df
 
 df = load_data()
