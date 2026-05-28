@@ -99,6 +99,12 @@ The full Tableau workbook (`.twbx`) is also available in the repository for loca
 
 ---
 
+## Streamlit app
+
+Deployed online via streamlit community online: https://brazil-travel-recommender.streamlit.app/
+
+---
+
 ## How to Run
 
 ### Requirements
