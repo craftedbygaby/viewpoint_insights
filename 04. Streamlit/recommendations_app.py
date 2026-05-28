@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import random
+import os
 
 st.markdown("""
 <style>
@@ -53,8 +54,9 @@ st.divider()
 
 @st.cache_data #it will be saved inside the internal memory and won't run everytime we run the code
 def load_data():
-
-    df = pd.read_csv("../01. Data/02. Processed Data/intelligence_ready_w_images.csv")
+    base = os.path.dirname(os.path.abspath(__file__))
+    path = os.path.join(base, '..', '01. Data', '02. Processed Data', 'intelligence_ready_w_images.csv')
+    df = pd.read_csv(path)
     return df
 
 df = load_data()
