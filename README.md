@@ -36,11 +36,11 @@ The project also includes an interactive **Brazil Travel Recommender App** built
 **Audience:** Brazil's tourism board (Embratur / Ministério do Turismo) and state-level tourism planners.
 
 ### Research Questions
-1. How did total arrivals collapse in 2020–2021 and recover through 2024? Are we back to 2019 levels?
-2. Which countries sent the most tourists pre-COVID vs post-COVID? Which markets recovered fastest?
-3. Has the balance between air, land, sea and river entries changed since COVID?
-4. Did the seasonal pattern shift after COVID? Are there new shoulder-season opportunities?
-5. How does Brazil's recovery compare to the global average?
+1. How does Brazil's recovery compare to the global average?
+2. How did total arrivals collapse in 2020–2021 and recover through 2024? Are we back to 2019 levels? 
+3. Which countries sent the most tourists to Brazil pre-COVID vs post-COVID? 
+4. Has the balance between air, land, sea and river entries changed since COVID?
+5. How can Brazil improve destination visibility during its tourism recovery?
 
 ---
 
@@ -89,7 +89,7 @@ Data Collection → Cleaning & Wrangling → EDA → Tableau Dashboards → Stre
 
 ## Tableau Dashboards
 
-Published on Tableau Public: **[link coming soon]**
+Published on [Tableau Public](https://public.tableau.com/app/profile/gabriela.cascione/viz/BrazilsRoadBackInternationalTourismRecovery20152024/D1-World?publish=yes)
 
 The full Tableau workbook (`.twbx`) is also available in the repository for local exploration.
 
@@ -101,7 +101,7 @@ The full Tableau workbook (`.twbx`) is also available in the repository for loca
 
 ## Streamlit app
 
-Deployed online via streamlit community online: https://brazil-travel-recommender.streamlit.app/
+Deployed online via [streamlit community online](https://brazil-travel-recommender.streamlit.app/)
 
 ---
 
