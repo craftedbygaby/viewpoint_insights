@@ -21,7 +21,7 @@
     <WorksheetBackgroundTransparency />
     <ZoneBackgroundTransparency />
   </document-format-change-manifest>
-  <repository-location derived-from='https://public.tableau.com/workbooks/TableauWorkbook_17793594223870?rev=1.1' id='BrazilsRoadBackInternationalTourismRecovery20152024' path='/workbooks' revision='11.9' />
+  <repository-location derived-from='https://public.tableau.com/workbooks/TableauWorkbook_17793594223870?rev=1.1' id='BrazilsRoadBackInternationalTourismRecovery20152024' path='/workbooks' revision='12.1' />
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -366,7 +366,7 @@
         <drill-path name='continent,country, origin,state,entry' />
       </drill-paths>
       <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
-        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='Data/TableauTemp/#TableauTemp_0u93z6i0bqyx63177k53m0w7uk65.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='05/25/2026 04:08:16 PM' username='tableau_internal_user'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='Data/TableauTemp/#TableauTemp_0u93z6i0bqyx63177k53m0w7uk65.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='' username='tableau_internal_user'>
           <relation type='collection'>
             <relation name='unwto_processed.csv_6CDB977923FA40C99B549EC32B316F3E' table='[Extract].[unwto_processed.csv_6CDB977923FA40C99B549EC32B316F3E]' type='table' />
             <relation name='arrivals_10y.csv_69F8213177D74354ADD909C816BFF91A' table='[Extract].[arrivals_10y.csv_69F8213177D74354ADD909C816BFF91A]' type='table' />
@@ -402,7 +402,6 @@
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[unwto_processed.csv_6CDB977923FA40C99B549EC32B316F3E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>country_name</remote-name>
@@ -417,7 +416,6 @@
               <approx-count>200</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[unwto_processed.csv_6CDB977923FA40C99B549EC32B316F3E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>year</remote-name>
@@ -431,7 +429,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>10</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[unwto_processed.csv_6CDB977923FA40C99B549EC32B316F3E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>arrivals</remote-name>
@@ -445,7 +442,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>1465</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[unwto_processed.csv_6CDB977923FA40C99B549EC32B316F3E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>covid_period</remote-name>
@@ -460,7 +456,6 @@
               <approx-count>3</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[unwto_processed.csv_6CDB977923FA40C99B549EC32B316F3E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>continent</remote-name>
@@ -475,7 +470,6 @@
               <approx-count>7</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[unwto_processed.csv_6CDB977923FA40C99B549EC32B316F3E]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>continent</remote-name>
@@ -490,7 +484,6 @@
               <approx-count>8</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_69F8213177D74354ADD909C816BFF91A]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>country_of_origin</remote-name>
@@ -505,7 +498,6 @@
               <approx-count>105</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_69F8213177D74354ADD909C816BFF91A]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>state</remote-name>
@@ -520,7 +512,6 @@
               <approx-count>18</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_69F8213177D74354ADD909C816BFF91A]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>entry_route</remote-name>
@@ -535,7 +526,6 @@
               <approx-count>4</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_69F8213177D74354ADD909C816BFF91A]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>year</remote-name>
@@ -549,7 +539,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>10</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[arrivals_10y.csv_69F8213177D74354ADD909C816BFF91A]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>month</remote-name>
@@ -564,7 +553,6 @@
               <approx-count>12</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_69F8213177D74354ADD909C816BFF91A]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>arrivals</remote-name>
@@ -578,7 +566,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>3186</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[arrivals_10y.csv_69F8213177D74354ADD909C816BFF91A]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>covid_period</remote-name>
@@ -593,7 +580,6 @@
               <approx-count>3</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_69F8213177D74354ADD909C816BFF91A]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>season</remote-name>
@@ -608,7 +594,6 @@
               <approx-count>4</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_69F8213177D74354ADD909C816BFF91A]</object-id>
             </metadata-record>
           </metadata-records>
         </connection>
@@ -1483,7 +1468,7 @@
         <drill-path name='continent,country, origin,state,entry' />
       </drill-paths>
       <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
-        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='Data/TableauTemp/#TableauTemp_0thbz4u0pfrtr415zb8ei1hzscpl.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='05/25/2026 04:08:00 PM' username='tableau_internal_user'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='Data/TableauTemp/#TableauTemp_0thbz4u0pfrtr415zb8ei1hzscpl.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='' username='tableau_internal_user'>
           <relation type='collection'>
             <relation name='arrivals_10y.csv_7559011C1EAE4FBDBF4802F9E5C8EBB9' table='[Extract].[arrivals_10y.csv_7559011C1EAE4FBDBF4802F9E5C8EBB9]' type='table' />
             <relation name='unwto_processed.csv_5AE398834B85466FB244BE9F601216FD' table='[Extract].[unwto_processed.csv_5AE398834B85466FB244BE9F601216FD]' type='table' />
@@ -1519,7 +1504,6 @@
               <approx-count>8</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_7559011C1EAE4FBDBF4802F9E5C8EBB9]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>country_of_origin</remote-name>
@@ -1534,7 +1518,6 @@
               <approx-count>116</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_7559011C1EAE4FBDBF4802F9E5C8EBB9]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>state</remote-name>
@@ -1549,7 +1532,6 @@
               <approx-count>18</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_7559011C1EAE4FBDBF4802F9E5C8EBB9]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>entry_route</remote-name>
@@ -1564,7 +1546,6 @@
               <approx-count>4</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_7559011C1EAE4FBDBF4802F9E5C8EBB9]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>year</remote-name>
@@ -1578,7 +1559,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>10</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[arrivals_10y.csv_7559011C1EAE4FBDBF4802F9E5C8EBB9]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>month</remote-name>
@@ -1593,7 +1573,6 @@
               <approx-count>12</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_7559011C1EAE4FBDBF4802F9E5C8EBB9]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>arrivals</remote-name>
@@ -1607,7 +1586,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>2886</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[arrivals_10y.csv_7559011C1EAE4FBDBF4802F9E5C8EBB9]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>covid_period</remote-name>
@@ -1622,7 +1600,6 @@
               <approx-count>3</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_7559011C1EAE4FBDBF4802F9E5C8EBB9]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>season</remote-name>
@@ -1637,7 +1614,6 @@
               <approx-count>4</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[arrivals_10y.csv_7559011C1EAE4FBDBF4802F9E5C8EBB9]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>type_of_arrival</remote-name>
@@ -1652,7 +1628,6 @@
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[unwto_processed.csv_5AE398834B85466FB244BE9F601216FD]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>country_name</remote-name>
@@ -1667,7 +1642,6 @@
               <approx-count>200</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[unwto_processed.csv_5AE398834B85466FB244BE9F601216FD]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>year</remote-name>
@@ -1681,7 +1655,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>10</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[unwto_processed.csv_5AE398834B85466FB244BE9F601216FD]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>arrivals</remote-name>
@@ -1695,7 +1668,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>1465</approx-count>
               <contains-null>true</contains-null>
-              <object-id>[unwto_processed.csv_5AE398834B85466FB244BE9F601216FD]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>covid_period</remote-name>
@@ -1710,7 +1682,6 @@
               <approx-count>3</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[unwto_processed.csv_5AE398834B85466FB244BE9F601216FD]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>continent</remote-name>
@@ -1725,7 +1696,6 @@
               <approx-count>7</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LPT_RBR' />
-              <object-id>[unwto_processed.csv_5AE398834B85466FB244BE9F601216FD]</object-id>
             </metadata-record>
           </metadata-records>
         </connection>
@@ -3183,7 +3153,7 @@
             <column caption='Year (turismo.gov)' datatype='integer' name='[year]' role='measure' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[Action (Continent (UNWTO))]'>
-            <groupfilter function='level-members' level='[continent (unwto_processed.csv)]' user:ui-action-filter='[Action6_2D254AD2A6A642389C9A8970648D75AB]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[continent (unwto_processed.csv)]' member='&quot;south america&quot;' user:ui-action-filter='[Action6_2D254AD2A6A642389C9A8970648D75AB]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[Action (Country Name)]'>
             <groupfilter function='level-members' level='[country_name]' user:ui-action-filter='[Action1_B2BFCE6F7FDF4491B3230CB4F2343C49]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -3192,7 +3162,7 @@
             <groupfilter function='level-members' level='[country_of_origin]' user:ui-action-filter='[Action1_48B929136CE74930B194484BE1883BE2]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:continent (unwto_processed.csv):nk]' filter-group='9'>
-            <groupfilter function='member' level='[none:continent (unwto_processed.csv):nk]' member='&quot;south america&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='level-members' level='[none:continent (unwto_processed.csv):nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:country_name:nk]' filter-group='4'>
             <groupfilter function='level-members' level='[none:country_name:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -3642,7 +3612,7 @@
             <column caption='Year (UNWTO)' datatype='integer' name='[year (unwto_processed.csv)]' role='measure' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[Action (Continent (UNWTO))]'>
-            <groupfilter function='level-members' level='[continent (unwto_processed.csv)]' user:ui-action-filter='[Action6_2D254AD2A6A642389C9A8970648D75AB]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[continent (unwto_processed.csv)]' member='&quot;south america&quot;' user:ui-action-filter='[Action6_2D254AD2A6A642389C9A8970648D75AB]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[Action (Country Name)]'>
             <groupfilter function='level-members' level='[country_name]' user:ui-action-filter='[Action1_B2BFCE6F7FDF4491B3230CB4F2343C49]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -3651,7 +3621,7 @@
             <groupfilter function='level-members' level='[country_of_origin]' user:ui-action-filter='[Action1_48B929136CE74930B194484BE1883BE2]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:continent (unwto_processed.csv):nk]' filter-group='9'>
-            <groupfilter function='member' level='[none:continent (unwto_processed.csv):nk]' member='&quot;south america&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='level-members' level='[none:continent (unwto_processed.csv):nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:country_name:nk]' filter-group='4'>
             <groupfilter function='level-members' level='[none:country_name:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -4075,11 +4045,14 @@
             <column-instance column='[covid_period (unwto_processed.csv)]' derivation='None' name='[none:covid_period (unwto_processed.csv):nk]' pivot='key' type='nominal' />
             <column-instance column='[arrivals (unwto_processed.csv)]' derivation='Sum' name='[sum:arrivals (unwto_processed.csv):qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
+          <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[Action (Continent (UNWTO))]'>
+            <groupfilter function='member' level='[continent (unwto_processed.csv)]' member='&quot;south america&quot;' user:ui-action-filter='[Action6_2D254AD2A6A642389C9A8970648D75AB]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[Action (Country of Origin)]' filter-group='10'>
             <groupfilter function='level-members' level='[country_of_origin]' user:ui-action-filter='[Action1_48B929136CE74930B194484BE1883BE2]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:continent (unwto_processed.csv):nk]' filter-group='9'>
-            <groupfilter function='member' level='[none:continent (unwto_processed.csv):nk]' member='&quot;south america&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='level-members' level='[none:continent (unwto_processed.csv):nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:country_name:nk]' filter-group='4'>
             <groupfilter function='level-members' level='[none:country_name:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -4093,6 +4066,7 @@
             <column>[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:country_name:nk]</column>
             <column>[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:continent (unwto_processed.csv):nk]</column>
             <column>[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[Action (Country of Origin)]</column>
+            <column>[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[Action (Continent (UNWTO))]</column>
           </slices>
           <aggregation value='true' />
         </view>
@@ -4399,7 +4373,7 @@
           </filter>
           <computed-sort column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:country_of_origin:nk]' direction='DESC' using='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[sum:arrivals:qk]' />
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period:nk]' filter-group='5'>
-            <groupfilter function='member' level='[none:covid_period:nk]' member='&quot;pre_covid&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:covid_period:nk]' member='&quot;post_covid&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[yr:Year (turismo.gov) (date):ok]' filter-group='11'>
             <groupfilter function='level-members' level='[yr:Year (turismo.gov) (date):ok]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -4794,7 +4768,7 @@
             <groupfilter function='level-members' level='[none:continent (unwto_processed.csv):nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period:nk]' filter-group='5'>
-            <groupfilter function='member' level='[none:covid_period:nk]' member='&quot;pre_covid&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:covid_period:nk]' member='&quot;post_covid&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[yr:Year (turismo.gov) (date):ok]' filter-group='11'>
             <groupfilter function='level-members' level='[yr:Year (turismo.gov) (date):ok]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -5106,7 +5080,7 @@
             <groupfilter function='level-members' level='[none:continent (unwto_processed.csv):nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period:nk]' filter-group='5'>
-            <groupfilter function='member' level='[none:covid_period:nk]' member='&quot;pre_covid&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:covid_period:nk]' member='&quot;post_covid&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[yr:Year (turismo.gov) (date):ok]' filter-group='11'>
             <groupfilter function='level-members' level='[yr:Year (turismo.gov) (date):ok]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -5422,7 +5396,7 @@
             <groupfilter function='level-members' level='[none:continent (unwto_processed.csv):nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period:nk]' filter-group='5'>
-            <groupfilter function='member' level='[none:covid_period:nk]' member='&quot;pre_covid&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:covid_period:nk]' member='&quot;post_covid&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[yr:Year (turismo.gov) (date):ok]' filter-group='11'>
             <groupfilter function='level-members' level='[yr:Year (turismo.gov) (date):ok]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -5796,7 +5770,7 @@
             <groupfilter function='level-members' level='[none:continent (unwto_processed.csv):nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period:nk]' filter-group='5'>
-            <groupfilter function='member' level='[none:covid_period:nk]' member='&quot;pre_covid&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:covid_period:nk]' member='&quot;post_covid&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:state:nk]'>
             <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
@@ -6096,7 +6070,7 @@
             <groupfilter function='level-members' level='[state]' user:ui-action-filter='[Action2_AD3FA43AF4BD446587290794E1495BD2]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period:nk]' filter-group='5'>
-            <groupfilter function='member' level='[none:covid_period:nk]' member='&quot;pre_covid&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:covid_period:nk]' member='&quot;post_covid&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='categorical' column='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[yr:Year (turismo.gov) (date):ok]' filter-group='11'>
             <groupfilter function='level-members' level='[yr:Year (turismo.gov) (date):ok]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -6387,14 +6361,14 @@
       </datasource-dependencies>
       <zones>
         <zone h='100000' id='10' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98184' id='235' param='horz' type-v2='layout-flow' w='99152' x='424' y='908'>
-            <zone h='98184' id='258' param='horz' type-v2='layout-flow' w='99152' x='424' y='908'>
-              <zone h='98184' id='255' param='horz' type-v2='layout-flow' w='99152' x='424' y='908'>
-                <zone h='98184' id='230' param='horz' type-v2='layout-flow' w='99152' x='424' y='908'>
-                  <zone h='98184' id='91' type-v2='layout-basic' w='99152' x='424' y='908'>
-                    <zone h='89110' id='27' param='horz' type-v2='layout-flow' w='99152' x='424' y='9982'>
-                      <zone h='89110' id='25' type-v2='layout-basic' w='99152' x='424' y='9982'>
-                        <zone h='39554' id='24' name='D1 UNWTO Countries Total Visitors (2015-2024)' w='51120' x='48456' y='20991'>
+          <zone h='98476' id='235' param='horz' type-v2='layout-flow' w='99166' x='417' y='762'>
+            <zone h='98476' id='258' param='horz' type-v2='layout-flow' w='99166' x='417' y='762'>
+              <zone h='98476' id='255' param='horz' type-v2='layout-flow' w='99166' x='417' y='762'>
+                <zone h='98476' id='230' param='horz' type-v2='layout-flow' w='99166' x='417' y='762'>
+                  <zone h='98476' id='91' type-v2='layout-basic' w='99166' x='417' y='762'>
+                    <zone h='89385' id='27' param='horz' type-v2='layout-flow' w='99166' x='417' y='9853'>
+                      <zone h='89385' id='25' type-v2='layout-basic' w='99166' x='417' y='9853'>
+                        <zone h='39672' id='24' name='D1 UNWTO Countries Total Visitors (2015-2024)' w='51134' x='48449' y='20888'>
                           <zone-style>
                             <format attr='border-color' value='#000000' />
                             <format attr='border-style' value='none' />
@@ -6402,7 +6376,7 @@
                             <format attr='margin' value='4' />
                           </zone-style>
                         </zone>
-                        <zone h='38547' id='30' name='D1 Total Arrivals over time - Brazil (2015-2024)' w='51120' x='48456' y='60545'>
+                        <zone h='38678' id='30' name='D1 Total Arrivals over time - Brazil (2015-2024)' w='51134' x='48449' y='60560'>
                           <zone-style>
                             <format attr='border-color' value='#000000' />
                             <format attr='border-style' value='none' />
@@ -6410,7 +6384,7 @@
                             <format attr='margin' value='4' />
                           </zone-style>
                         </zone>
-                        <zone h='38604' id='31' name='D1 Total Arrivals over time - UNTWO (2015-2024)' w='48032' x='424' y='60488'>
+                        <zone h='38735' id='31' name='D1 Total Arrivals over time - UNTWO (2015-2024)' w='48032' x='417' y='60503'>
                           <zone-style>
                             <format attr='border-color' value='#000000' />
                             <format attr='border-style' value='none' />
@@ -6418,7 +6392,7 @@
                             <format attr='margin' value='4' />
                           </zone-style>
                         </zone>
-                        <zone forceUpdate='true' h='7372' id='115' type-v2='text' w='22958' x='28928' y='9982'>
+                        <zone forceUpdate='true' h='7384' id='115' type-v2='text' w='22961' x='28921' y='9853'>
                           <formatted-text>
                             <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans' fontsize='11'>Total world arrivals 2024:</run>
                             <run fontalignment='1' fontcolor='#0d7ea8' fontname='Benton Sans Book' fontsize='24'>Æ </run>
@@ -6432,7 +6406,7 @@
                             <format attr='margin' value='4' />
                           </zone-style>
                         </zone>
-                        <zone forceUpdate='true' h='7372' id='116' type-v2='text' w='28504' x='424' y='9982'>
+                        <zone forceUpdate='true' h='7384' id='116' type-v2='text' w='28504' x='417' y='9853'>
                           <formatted-text>
                             <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans' fontsize='11'>Total world arrivals 2015–2024:</run>
                             <run fontalignment='1' fontcolor='#555555' fontname='Open Sans' fontsize='11'>Æ </run>
@@ -6445,7 +6419,7 @@
                             <format attr='margin' value='4' />
                           </zone-style>
                         </zone>
-                        <zone forceUpdate='true' h='7372' id='117' type-v2='text' w='47690' x='51886' y='9982'>
+                        <zone forceUpdate='true' h='7384' id='117' type-v2='text' w='47701' x='51882' y='9853'>
                           <formatted-text>
                             <run fontalignment='1' fontcolor='#6b7c8d' fontname='open sans' fontsize='11'>Despite being the 5th largest country, </run>
                             <run fontalignment='1' fontcolor='#0d7ea8' fontname='Montserrat bold' fontsize='24'>Brazil ranks </run>
@@ -6459,7 +6433,7 @@
                             <format attr='margin' value='4' />
                           </zone-style>
                         </zone>
-                        <zone h='3637' id='38' type-v2='empty' w='10027' x='424' y='17354'>
+                        <zone h='3651' id='38' type-v2='empty' w='10022' x='417' y='17237'>
                           <zone-style>
                             <format attr='border-color' value='#000000' />
                             <format attr='border-style' value='none' />
@@ -6467,7 +6441,7 @@
                             <format attr='margin' value='4' />
                           </zone-style>
                         </zone>
-                        <zone h='3637' id='126' type-v2='empty' w='17405' x='82171' y='17354'>
+                        <zone h='3651' id='126' type-v2='empty' w='17414' x='82169' y='17237'>
                           <zone-style>
                             <format attr='border-color' value='#000000' />
                             <format attr='border-style' value='none' />
@@ -6475,7 +6449,7 @@
                             <format attr='margin' value='4' />
                           </zone-style>
                         </zone>
-                        <zone h='39497' id='141' name='D1 Arrivals by Continent (2015-2024)' w='48032' x='424' y='20991'>
+                        <zone h='39615' id='141' name='D1 Arrivals by Continent (2015-2024)' w='48032' x='417' y='20888'>
                           <zone-style>
                             <format attr='border-color' value='#000000' />
                             <format attr='border-style' value='none' />
@@ -6483,7 +6457,7 @@
                             <format attr='margin' value='4' />
                           </zone-style>
                         </zone>
-                        <zone forceUpdate='true' h='3637' id='222' type-v2='text' w='28882' x='10451' y='17354'>
+                        <zone forceUpdate='true' h='3651' id='222' type-v2='text' w='28888' x='10439' y='17237'>
                           <formatted-text>
                             <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans'>Click on any chart element to filter • Click again or All set filter to all to reset</run>
                           </formatted-text>
@@ -6494,7 +6468,7 @@
                             <format attr='margin' value='4' />
                           </zone-style>
                         </zone>
-                        <zone h='3637' id='228' mode='checkdropdown' name='D1 Arrivals by Continent (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period (unwto_processed.csv):nk]' show-apply='true' type-v2='filter' values='database' w='13231' x='68940' y='17354'>
+                        <zone h='3651' id='228' mode='checkdropdown' name='D1 Arrivals by Continent (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period (unwto_processed.csv):nk]' show-apply='true' type-v2='filter' values='database' w='13233' x='68936' y='17237'>
                           <zone-style>
                             <format attr='border-color' value='#000000' />
                             <format attr='border-style' value='none' />
@@ -6502,7 +6476,7 @@
                             <format attr='margin' value='4' />
                           </zone-style>
                         </zone>
-                        <zone h='3637' id='256' mode='checkdropdown' name='D1 UNWTO Countries Total Visitors (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:continent (unwto_processed.csv):nk]' show-apply='true' type-v2='filter' values='database' w='15045' x='39333' y='17354'>
+                        <zone h='3651' id='256' mode='checkdropdown' name='D1 UNWTO Countries Total Visitors (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:continent (unwto_processed.csv):nk]' show-apply='true' type-v2='filter' values='database' w='15047' x='39327' y='17237'>
                           <zone-style>
                             <format attr='border-color' value='#000000' />
                             <format attr='border-style' value='none' />
@@ -6510,7 +6484,7 @@
                             <format attr='margin' value='4' />
                           </zone-style>
                         </zone>
-                        <zone h='3637' id='259' mode='checkdropdown' name='D1 UNWTO Countries Total Visitors (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:country_name:nk]' show-apply='true' type-v2='filter' values='database' w='14562' x='54378' y='17354'>
+                        <zone h='3651' id='259' mode='checkdropdown' name='D1 UNWTO Countries Total Visitors (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:country_name:nk]' show-apply='true' type-v2='filter' values='database' w='14562' x='54374' y='17237'>
                           <zone-style>
                             <format attr='border-color' value='#000000' />
                             <format attr='border-style' value='none' />
@@ -6520,7 +6494,7 @@
                         </zone>
                       </zone>
                     </zone>
-                    <zone forceUpdate='true' h='9074' id='36' type-v2='text' w='99152' x='424' y='908'>
+                    <zone forceUpdate='true' h='9091' id='36' type-v2='text' w='99166' x='417' y='762'>
                       <formatted-text>
                         <run bold='true' fontalignment='1' fontcolor='#0d7ea8' fontname='Montserrat' fontsize='20'>2015-2024 World Panorama of Visitors Influx</run>
                         <run fontalignment='1'>Æ&#10;</run>
@@ -6557,9 +6531,9 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1850' minheight='1850' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='326' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98184' id='325' param='vert' type-v2='layout-flow' w='99152' x='424' y='908'>
-                <zone forceUpdate='true' h='9074' id='36' type-v2='text' w='99152' x='424' y='908'>
+            <zone h='100000' id='336' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98352' id='335' param='vert' type-v2='layout-flow' w='99152' x='424' y='824'>
+                <zone forceUpdate='true' h='9088' id='36' type-v2='text' w='99152' x='424' y='824'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#0d7ea8' fontname='Montserrat' fontsize='20'>2015-2024 World Panorama of Visitors Influx</run>
                     <run fontalignment='1'>Æ&#10;</run>
@@ -6595,7 +6569,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='7372' id='116' type-v2='text' w='28504' x='424' y='9982'>
+                <zone forceUpdate='true' h='7383' id='116' type-v2='text' w='28503' x='424' y='9912'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans' fontsize='11'>Total world arrivals 2015–2024:</run>
                     <run fontalignment='1' fontcolor='#555555' fontname='Open Sans' fontsize='11'>Æ </run>
@@ -6609,7 +6583,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='7372' id='115' type-v2='text' w='22958' x='28928' y='9982'>
+                <zone forceUpdate='true' h='7383' id='115' type-v2='text' w='22958' x='28927' y='9912'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans' fontsize='11'>Total world arrivals 2024:</run>
                     <run fontalignment='1' fontcolor='#0d7ea8' fontname='Benton Sans Book' fontsize='24'>Æ </run>
@@ -6624,7 +6598,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='7372' id='117' type-v2='text' w='47690' x='51886' y='9982'>
+                <zone forceUpdate='true' h='7383' id='117' type-v2='text' w='47691' x='51885' y='9912'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#6b7c8d' fontname='open sans' fontsize='11'>Despite being the 5th largest country, </run>
                     <run fontalignment='1' fontcolor='#0d7ea8' fontname='Montserrat bold' fontsize='24'>Brazil ranks </run>
@@ -6639,7 +6613,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='3637' id='222' type-v2='text' w='28882' x='10451' y='17354'>
+                <zone forceUpdate='true' h='3644' id='222' type-v2='text' w='28882' x='10450' y='17295'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans'>Click on any chart element to filter • Click again or All set filter to all to reset</run>
                   </formatted-text>
@@ -6651,7 +6625,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='3637' id='228' mode='checkdropdown' name='D1 Arrivals by Continent (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period (unwto_processed.csv):nk]' show-apply='true' type-v2='filter' values='database' w='13231' x='68940' y='17354'>
+                <zone h='3644' id='228' mode='checkdropdown' name='D1 Arrivals by Continent (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period (unwto_processed.csv):nk]' show-apply='true' type-v2='filter' values='database' w='13231' x='68939' y='17295'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -6660,7 +6634,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='39497' id='141' is-fixed='true' name='D1 Arrivals by Continent (2015-2024)' w='48032' x='424' y='20991'>
+                <zone fixed-size='280' h='39564' id='141' is-fixed='true' name='D1 Arrivals by Continent (2015-2024)' w='48031' x='424' y='20939'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -6669,7 +6643,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='3637' id='256' mode='checkdropdown' name='D1 UNWTO Countries Total Visitors (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:continent (unwto_processed.csv):nk]' show-apply='true' type-v2='filter' values='database' w='15045' x='39333' y='17354'>
+                <zone h='3644' id='256' mode='checkdropdown' name='D1 UNWTO Countries Total Visitors (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:continent (unwto_processed.csv):nk]' show-apply='true' type-v2='filter' values='database' w='15045' x='39332' y='17295'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -6678,7 +6652,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='3637' id='259' mode='checkdropdown' name='D1 UNWTO Countries Total Visitors (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:country_name:nk]' show-apply='true' type-v2='filter' values='database' w='14562' x='54378' y='17354'>
+                <zone h='3644' id='259' mode='checkdropdown' name='D1 UNWTO Countries Total Visitors (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:country_name:nk]' show-apply='true' type-v2='filter' values='database' w='14562' x='54377' y='17295'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -6687,7 +6661,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='39554' id='24' is-fixed='true' name='D1 UNWTO Countries Total Visitors (2015-2024)' w='51120' x='48456' y='20991'>
+                <zone fixed-size='280' h='39621' id='24' is-fixed='true' name='D1 UNWTO Countries Total Visitors (2015-2024)' w='51121' x='48455' y='20939'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -6696,7 +6670,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='38604' id='31' is-fixed='true' name='D1 Total Arrivals over time - UNTWO (2015-2024)' w='48032' x='424' y='60488'>
+                <zone fixed-size='280' h='38673' id='31' is-fixed='true' name='D1 Total Arrivals over time - UNTWO (2015-2024)' w='48031' x='424' y='60503'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -6705,7 +6679,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='38547' id='30' is-fixed='true' name='D1 Total Arrivals over time - Brazil (2015-2024)' w='51120' x='48456' y='60545'>
+                <zone fixed-size='280' h='38616' id='30' is-fixed='true' name='D1 Total Arrivals over time - Brazil (2015-2024)' w='51121' x='48455' y='60560'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -6749,16 +6723,16 @@
       </datasource-dependencies>
       <zones>
         <zone h='100000' id='10' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98184' id='320' param='horz' type-v2='layout-flow' w='99152' x='424' y='908'>
-            <zone h='98184' id='318' param='horz' type-v2='layout-flow' w='99152' x='424' y='908'>
-              <zone h='98184' id='316' param='horz' type-v2='layout-flow' w='99152' x='424' y='908'>
-                <zone h='98184' id='289' param='horz' type-v2='layout-flow' w='99152' x='424' y='908'>
-                  <zone h='98184' id='286' param='horz' type-v2='layout-flow' w='99152' x='424' y='908'>
-                    <zone h='98184' id='284' param='horz' type-v2='layout-flow' w='99152' x='424' y='908'>
-                      <zone h='98184' id='258' param='horz' type-v2='layout-flow' w='99152' x='424' y='908'>
-                        <zone h='98184' id='84' param='horz' type-v2='layout-flow' w='99152' x='424' y='908'>
-                          <zone h='98184' id='82' type-v2='layout-basic' w='99152' x='424' y='908'>
-                            <zone forceUpdate='true' h='8273' id='36' type-v2='text' w='99152' x='424' y='908'>
+          <zone h='98474' id='320' param='horz' type-v2='layout-flow' w='99166' x='417' y='763'>
+            <zone h='98474' id='318' param='horz' type-v2='layout-flow' w='99166' x='417' y='763'>
+              <zone h='98474' id='316' param='horz' type-v2='layout-flow' w='99166' x='417' y='763'>
+                <zone h='98474' id='289' param='horz' type-v2='layout-flow' w='99166' x='417' y='763'>
+                  <zone h='98474' id='286' param='horz' type-v2='layout-flow' w='99166' x='417' y='763'>
+                    <zone h='98474' id='284' param='horz' type-v2='layout-flow' w='99166' x='417' y='763'>
+                      <zone h='98474' id='258' param='horz' type-v2='layout-flow' w='99166' x='417' y='763'>
+                        <zone h='98474' id='84' param='horz' type-v2='layout-flow' w='99166' x='417' y='763'>
+                          <zone h='98474' id='82' type-v2='layout-basic' w='99166' x='417' y='763'>
+                            <zone forceUpdate='true' h='8295' id='36' type-v2='text' w='99166' x='417' y='763'>
                               <formatted-text>
                                 <run bold='true' fontalignment='1' fontcolor='#0d7ea8' fontname='Montserrat' fontsize='20'>Brazil Deep Dive</run>
                                 <run fontalignment='1'>Æ&#10;</run>
@@ -6772,7 +6746,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone h='3632' id='37' type-v2='empty' w='15174' x='84402' y='15541'>
+                            <zone h='3643' id='37' type-v2='empty' w='15177' x='84406' y='15437'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -6780,7 +6754,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone h='3632' id='38' type-v2='empty' w='11353' x='424' y='15541'>
+                            <zone h='3643' id='38' type-v2='empty' w='11354' x='417' y='15437'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -6788,7 +6762,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone h='39266' id='64' name='D2 Top 10 Countries by Total Arrivals - Brazil (2015-2024)' w='35575' x='424' y='19173'>
+                            <zone h='39382' id='64' name='D2 Top 10 Countries by Total Arrivals - Brazil (2015-2024)' w='35580' x='417' y='19080'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -6796,7 +6770,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone h='39266' id='78' name='D2 Total Arrivals by State - Brasil (2015-2024)' w='30519' x='35999' y='19173'>
+                            <zone h='39382' id='78' name='D2 Total Arrivals by State - Brasil (2015-2024)' w='30523' x='35997' y='19080'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -6804,7 +6778,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone h='40653' id='81' name='D2 Total Arrivals by Season - Brazil (2016)' w='20973' x='78603' y='58439'>
+                            <zone h='40775' id='81' name='D2 Total Arrivals by Season - Brazil (2016)' w='20976' x='78607' y='58462'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -6812,7 +6786,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone h='39266' id='109' name='D2 Total Arrivals by Entry Route - Brazil (2015-2024)' w='33058' x='66518' y='19173'>
+                            <zone h='39382' id='109' name='D2 Total Arrivals by Entry Route - Brazil (2015-2024)' w='33063' x='66520' y='19080'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -6820,7 +6794,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone forceUpdate='true' h='6360' id='166' type-v2='text' w='25790' x='424' y='9181'>
+                            <zone forceUpdate='true' h='6379' id='166' type-v2='text' w='25793' x='417' y='9058'>
                               <formatted-text>
                                 <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans' fontsize='11'>Brazil arrivals 2024:</run>
                                 <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans' fontsize='13'>Æ </run>
@@ -6833,7 +6807,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone forceUpdate='true' h='6360' id='167' type-v2='text' w='24958' x='53647' y='9181'>
+                            <zone forceUpdate='true' h='6379' id='167' type-v2='text' w='24962' x='53647' y='9058'>
                               <formatted-text>
                                 <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans' fontsize='11'>Brazil world ranking 2024:</run>
                                 <run fontalignment='1' fontcolor='#000000' fontname='Open Sans' fontsize='13'>Æ </run>
@@ -6847,7 +6821,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone forceUpdate='true' h='6360' id='168' type-v2='text' w='27433' x='26214' y='9181'>
+                            <zone forceUpdate='true' h='6379' id='168' type-v2='text' w='27437' x='26210' y='9058'>
                               <formatted-text>
                                 <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans' fontsize='11'>Brazil world ranking 2015-2023:</run>
                                 <run fontalignment='1' fontcolor='#000000' fontname='Open Sans' fontsize='13'>Æ </run>
@@ -6861,7 +6835,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone h='40653' id='77' name='D2 Total Arrivals by Month - Brazil (2015-2024)' w='78179' x='424' y='58439'>
+                            <zone h='40775' id='77' name='D2 Total Arrivals by Month - Brazil (2015-2024)' w='78190' x='417' y='58462'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -6869,7 +6843,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone forceUpdate='true' h='3632' id='242' type-v2='text' w='24229' x='11777' y='15541'>
+                            <zone forceUpdate='true' h='3643' id='242' type-v2='text' w='24233' x='11771' y='15437'>
                               <formatted-text>
                                 <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans'>Click on any chart element to filter • Click again to reset</run>
                               </formatted-text>
@@ -6880,7 +6854,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone h='3632' id='104' mode='checkdropdown' name='D2 Top 10 Countries by Total Arrivals - Brazil (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period:nk]' show-apply='true' type-v2='filter' values='database' w='13956' x='36006' y='15541'>
+                            <zone h='3643' id='104' mode='checkdropdown' name='D2 Top 10 Countries by Total Arrivals - Brazil (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period:nk]' show-apply='true' type-v2='filter' values='database' w='13957' x='36004' y='15437'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -6888,7 +6862,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone h='6360' id='290' name='D2 Total Arrivals for KPI card' show-title='false' w='20971' x='78605' y='9181'>
+                            <zone h='6379' id='290' name='D2 Total Arrivals for KPI card' show-title='false' w='20974' x='78609' y='9058'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -6896,7 +6870,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone h='3632' id='321' mode='checkdropdown' name='D2 Total Arrivals by State - Brasil (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[yr:Year (turismo.gov) (date):ok]' show-apply='true' type-v2='filter' values='database' w='13778' x='49962' y='15541'>
+                            <zone h='3643' id='321' mode='checkdropdown' name='D2 Total Arrivals by State - Brasil (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[yr:Year (turismo.gov) (date):ok]' show-apply='true' type-v2='filter' values='database' w='13780' x='49961' y='15437'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -6904,7 +6878,7 @@
                                 <format attr='margin' value='4' />
                               </zone-style>
                             </zone>
-                            <zone h='3632' id='287' mode='checkdropdown' name='D2 Total Arrivals by State - Brasil (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[Action (Country of Origin)]' show-apply='true' type-v2='filter' values='database' w='20662' x='63740' y='15541'>
+                            <zone h='3643' id='287' mode='checkdropdown' name='D2 Total Arrivals by State - Brasil (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[Action (Country of Origin)]' show-apply='true' type-v2='filter' values='database' w='20665' x='63741' y='15437'>
                               <zone-style>
                                 <format attr='border-color' value='#000000' />
                                 <format attr='border-style' value='none' />
@@ -6939,9 +6913,9 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2200' minheight='2200' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='348' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98184' id='347' param='vert' type-v2='layout-flow' w='99152' x='424' y='908'>
-                <zone forceUpdate='true' h='8273' id='36' type-v2='text' w='99152' x='424' y='908'>
+            <zone h='100000' id='358' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98352' id='357' param='vert' type-v2='layout-flow' w='99152' x='424' y='824'>
+                <zone forceUpdate='true' h='8287' id='36' type-v2='text' w='99152' x='424' y='824'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#0d7ea8' fontname='Montserrat' fontsize='20'>Brazil Deep Dive</run>
                     <run fontalignment='1'>Æ&#10;</run>
@@ -6977,7 +6951,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='6360' id='166' type-v2='text' w='25790' x='424' y='9181'>
+                <zone forceUpdate='true' h='6371' id='166' type-v2='text' w='25790' x='424' y='9111'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans' fontsize='11'>Brazil arrivals 2024:</run>
                     <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans' fontsize='13'>Æ </run>
@@ -6991,7 +6965,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='6360' id='168' type-v2='text' w='27433' x='26214' y='9181'>
+                <zone forceUpdate='true' h='6371' id='168' type-v2='text' w='27433' x='26214' y='9111'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans' fontsize='11'>Brazil world ranking 2015-2023:</run>
                     <run fontalignment='1' fontcolor='#000000' fontname='Open Sans' fontsize='13'>Æ </run>
@@ -7006,7 +6980,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='6360' id='167' type-v2='text' w='24958' x='53647' y='9181'>
+                <zone forceUpdate='true' h='6371' id='167' type-v2='text' w='24958' x='53647' y='9111'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans' fontsize='11'>Brazil world ranking 2024:</run>
                     <run fontalignment='1' fontcolor='#000000' fontname='Open Sans' fontsize='13'>Æ </run>
@@ -7021,7 +6995,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='43' h='6360' id='290' is-fixed='true' name='D2 Total Arrivals for KPI card' show-title='false' w='20971' x='78605' y='9181'>
+                <zone fixed-size='43' h='6371' id='290' is-fixed='true' name='D2 Total Arrivals for KPI card' show-title='false' w='20971' x='78605' y='9111'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7030,7 +7004,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='3632' id='242' type-v2='text' w='24229' x='11777' y='15541'>
+                <zone forceUpdate='true' h='3638' id='242' type-v2='text' w='24229' x='11777' y='15482'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#6b7c8d' fontname='Open Sans'>Click on any chart element to filter • Click again to reset</run>
                   </formatted-text>
@@ -7042,7 +7016,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='3632' id='104' mode='checkdropdown' name='D2 Top 10 Countries by Total Arrivals - Brazil (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period:nk]' show-apply='true' type-v2='filter' values='database' w='13956' x='36006' y='15541'>
+                <zone h='3638' id='104' mode='checkdropdown' name='D2 Top 10 Countries by Total Arrivals - Brazil (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[none:covid_period:nk]' show-apply='true' type-v2='filter' values='database' w='13956' x='36006' y='15482'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7051,7 +7025,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='39266' id='64' is-fixed='true' name='D2 Top 10 Countries by Total Arrivals - Brazil (2015-2024)' w='35575' x='424' y='19173'>
+                <zone fixed-size='280' h='39333' id='64' is-fixed='true' name='D2 Top 10 Countries by Total Arrivals - Brazil (2015-2024)' w='35575' x='424' y='19120'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7060,7 +7034,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='3632' id='321' mode='checkdropdown' name='D2 Total Arrivals by State - Brasil (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[yr:Year (turismo.gov) (date):ok]' show-apply='true' type-v2='filter' values='database' w='13778' x='49962' y='15541'>
+                <zone h='3638' id='321' mode='checkdropdown' name='D2 Total Arrivals by State - Brasil (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[yr:Year (turismo.gov) (date):ok]' show-apply='true' type-v2='filter' values='database' w='13778' x='49962' y='15482'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7069,7 +7043,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='3632' id='287' mode='checkdropdown' name='D2 Total Arrivals by State - Brasil (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[Action (Country of Origin)]' show-apply='true' type-v2='filter' values='database' w='20662' x='63740' y='15541'>
+                <zone h='3638' id='287' mode='checkdropdown' name='D2 Total Arrivals by State - Brasil (2015-2024)' param='[federated.1qiaabk0wg6l7f12thlb71bzxsqs].[Action (Country of Origin)]' show-apply='true' type-v2='filter' values='database' w='20662' x='63740' y='15482'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7078,7 +7052,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='39266' id='78' is-fixed='true' name='D2 Total Arrivals by State - Brasil (2015-2024)' w='30519' x='35999' y='19173'>
+                <zone fixed-size='280' h='39333' id='78' is-fixed='true' name='D2 Total Arrivals by State - Brasil (2015-2024)' w='30519' x='35999' y='19120'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7087,7 +7061,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='39266' id='109' is-fixed='true' name='D2 Total Arrivals by Entry Route - Brazil (2015-2024)' w='33058' x='66518' y='19173'>
+                <zone fixed-size='280' h='39333' id='109' is-fixed='true' name='D2 Total Arrivals by Entry Route - Brazil (2015-2024)' w='33058' x='66518' y='19120'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7096,7 +7070,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='40653' id='77' is-fixed='true' name='D2 Total Arrivals by Month - Brazil (2015-2024)' w='78179' x='424' y='58439'>
+                <zone fixed-size='280' h='40723' id='77' is-fixed='true' name='D2 Total Arrivals by Month - Brazil (2015-2024)' w='78179' x='424' y='58453'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7105,7 +7079,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='40653' id='81' is-fixed='true' name='D2 Total Arrivals by Season - Brazil (2016)' w='20973' x='78603' y='58439'>
+                <zone fixed-size='280' h='40723' id='81' is-fixed='true' name='D2 Total Arrivals by Season - Brazil (2016)' w='20973' x='78603' y='58453'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7144,7 +7118,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='222' />
+      <active id='141' />
       <simple-id uuid='{611AEDA4-6A37-4F38-BFF4-A29FA80484C9}' />
     </window>
     <window class='dashboard' maximized='true' name='D2 - Brazil' tab-color='#17927d'>
@@ -7168,7 +7142,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='104' />
+      <active id='36' />
       <simple-id uuid='{4791306C-85C5-410A-8963-096F71B38C0F}' />
     </window>
     <window class='worksheet' hidden='true' name='D1 Arrivals by Continent (2015-2024)'>
